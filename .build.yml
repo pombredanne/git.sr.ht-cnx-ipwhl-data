@@ -1,0 +1,10 @@
+image: archlinux
+packages:
+  - go-ipfs
+  - python
+sources:
+  - https://git.sr.ht/~cnx/ipwhl-data
+  - https://git.sr.ht/~cnx/ipwhl-utils
+tasks:
+  - check: |
+      ipwhl-utils/nameck ipwhl-data/pkgs
