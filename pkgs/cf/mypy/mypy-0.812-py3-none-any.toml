@@ -1,9 +1,9 @@
 source = 'https://files.pythonhosted.org/packages/ac/eb/4cf7af6a92cb37cd681f0b0b96160db96aacd533f5598e40deeb81b48e89/mypy-0.812-py3-none-any.whl'
 content-id = 'Qmc5cxKbF15LNt3xGg9ygQiBRj88jnRN8UpxyGH58ojfEv'
 requires-python = '>=3.5'
-dependencies = ['typed-ast<1.5.0,>=1.4.0',
-                'typing-extensions>=3.7.4',
-                'mypy-extensions<0.5.0,>=0.4.3']
-
-[optional-dependencies]
-dmypy = ['psutil>=4.0']
+dependencies = [
+	'typed-ast<1.5.0,>=1.4.0',
+	'typing-extensions>=3.7.4',
+	'mypy-extensions<0.5.0,>=0.4.3',
+	'psutil>=4.0; extra == "dmypy"',
+]
