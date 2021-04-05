@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/5c/eb/975c7c080f3223a5cdaff09612f3a5221e4ba534f7039db34c35d95fa6a5/mypy_extensions-0.4.3-py2.py3-none-any.whl'
+content-id = 'QmcWqNDY11mhKza2pBwaSHyNgwuQZAXpyfY2CbMjtWe9Q4'
+extras = []
+dependencies = [
+	'typing>=3.5.3; python_version < "3.5"',
+]
