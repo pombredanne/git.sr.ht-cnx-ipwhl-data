@@ -2,9 +2,13 @@ image: archlinux
 packages:
   - go-ipfs
   - python-packaging
+  - python-toml
 sources:
   - https://git.sr.ht/~cnx/ipwhl-data
   - https://git.sr.ht/~cnx/ipwhl-utils
 tasks:
   - check: |
       ipwhl-utils/nameck.py ipwhl-data/pkgs
+      git -C ipwhl-data diff --name-only origin/main pkgs |
+        sed s/^/ipwhl-data\\// |
+        ipwhl-utils/declck.py
