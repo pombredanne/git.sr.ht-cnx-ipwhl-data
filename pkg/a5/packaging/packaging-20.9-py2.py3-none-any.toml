@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/3e/89/7ea760b4daa42653ece2380531c90f64788d979110a2ab51049d92f408af/packaging-20.9-py2.py3-none-any.whl'
+content-id = 'QmNR3k1kzpuVq1u13V38Phc4PjgGk5Mhaj5aeGLzygRojs'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7'
+extras = []
+dependencies = [
+	'pyparsing>=2.0.2',
+]
