@@ -7,6 +7,7 @@ sources:
   - https://git.sr.ht/~cnx/ipwhl-data
   - https://git.sr.ht/~cnx/ipwhl-utils
 tasks:
+  - init: ipfs init
   - check: |
       ipwhl-utils/nameck.py ipwhl-data/pkgs
       git -C ipwhl-data diff --name-only origin/main pkgs |
