@@ -1,0 +1,4 @@
+cp36 manylinux1_x86_64
+cp37 manylinux1_x86_64
+cp38 manylinux1_x86_64
+cp39 manylinux1_x86_64

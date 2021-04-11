@@ -13,3 +13,4 @@ tasks:
       git -C ipwhl-data diff --name-only origin/main pkgs |
         sed s/^/ipwhl-data\\// |
         ipwhl-utils/declck.py
+      ipwhl-utils/depsck.py ipwhl-data/pkgs < ipwhl-data/SUPPORTED
