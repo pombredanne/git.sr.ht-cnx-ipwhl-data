@@ -17,7 +17,7 @@ as well.
 
 ![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)
 
-To the extent possible under law, the developers of IPWHL has waived
+To the extent possible under law, the developers of IPWHL have waived
 all copyright and related or neighboring rights to IPWHL metadata.
 
 [ipwhl-devel]: https://lists.sr.ht/~cnx/ipwhl-devel
