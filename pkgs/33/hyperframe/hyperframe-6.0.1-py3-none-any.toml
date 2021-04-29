@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/d7/de/85a784bcc4a3779d1753a7ec2dee5de90e18c7bcf402e71b51fcf150b129/hyperframe-6.0.1-py3-none-any.whl'
+content-id = 'QmU91AieHKAFLJumtbDnrD8icksMJRTncphrUF8BTc8aG7'
+requires-python = '>=3.6.1'
+extras = []
+dependencies = []
