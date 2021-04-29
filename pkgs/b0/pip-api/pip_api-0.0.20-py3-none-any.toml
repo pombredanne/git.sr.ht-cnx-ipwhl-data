@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/30/0b/f3f86bb25538451509d9a0b40fadedccaa127ef6f43d53fb452b781f68c6/pip_api-0.0.20-py3-none-any.whl'
+content-id = 'QmeMVwim4fLpcjem2jjB4Y7p5tFX8FhssXuFzE3V5qDct6'
+requires-python = '>=3.5'
+extras = []
+dependencies = [
+	'pip',
+]
