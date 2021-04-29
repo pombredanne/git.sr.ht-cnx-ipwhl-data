@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/bd/c2/5ffec707d0022208787908d9657f782ce35b653baa1e87abecf22a7cf513/h2-4.0.0-py3-none-any.whl'
+content-id = 'QmYw5Typy6Sga6KE56nn3GMvL8ovn2FWN7HopNW7itKS6W'
+requires-python = '>=3.6.1'
+extras = []
+dependencies = [
+	'hyperframe<7,>=6.0',
+	'hpack<5,>=4.0',
+]
