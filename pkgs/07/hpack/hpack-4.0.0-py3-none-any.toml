@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/d5/34/e8b383f35b77c402d28563d2b8f83159319b509bc5f760b15d60b0abf165/hpack-4.0.0-py3-none-any.whl'
+content-id = 'Qme6bRF3KmN5Cp25Wqsk7jyErBFhRAKsdwzvM8TjjnKKy8'
+requires-python = '>=3.6.1'
+extras = []
+dependencies = []
