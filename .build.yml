@@ -10,7 +10,7 @@ tasks:
   - init: ipfs init
   - name: ipwhl-utils/nameck.py ipwhl-data/pkgs
   - new: |
-      if [ $BUILD_REASON = patchset ]
+      if [ $BUILD_SUBMITTER = hub.sr.ht ]
       then
         git -C ipwhl-data diff --name-only origin/main pkgs |
           sed s/^/ipwhl-data\\// |
