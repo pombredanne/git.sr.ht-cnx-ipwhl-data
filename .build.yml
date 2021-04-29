@@ -1,21 +1,19 @@
 image: archlinux
 packages:
   - go-ipfs
-  - python-pip
+  - python-packaging
+  - python-toml
 sources:
   - https://git.sr.ht/~cnx/ipwhl-data
   - https://git.sr.ht/~cnx/ipwhl-utils
 tasks:
-  - init: |
-      ipfs init
-      python -m pip install pip
-      python -m pip install packaging toml
+  - init: ipfs init
   - name: ipwhl-utils/nameck.py ipwhl-data/pkgs
   - new: |
-      git -C ipwhl-data diff --name-only origin/main pkgs |
-        sed s/^/ipwhl-data\\// |
-        ipwhl-utils/declck.py
+      if [ $BUILD_REASON = patchset ]
+      then
+        git -C ipwhl-data diff --name-only origin/main pkgs |
+          sed s/^/ipwhl-data\\// |
+          ipwhl-utils/declck.py
+      fi
   - deps: ipwhl-utils/depsck.py ipwhl-data/pkgs < ipwhl-data/SUPPORTED
-environment:
-  PIP_INDEX_URL: https://dweb.link/ipfs/QmfZJnJLKJBCHfp2QuXjQZaALdZWNomAocoJU9AfTi9FYE
-  PIP_FORCE_REINSTALL: 1
