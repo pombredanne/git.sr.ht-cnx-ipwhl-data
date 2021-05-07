@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/8d/59/b4572118e098ac8e46e399a1dd0f2d85403ce8bbaad9ec79373ed6badaf9/PySocks-1.7.1-py3-none-any.whl'
+content-id = 'QmSpKQXRrCSHqvk8mqL5pTGbs7v8v5oG2a1aXK6uhX7aJA'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7'
+extras = []
+dependencies = []
