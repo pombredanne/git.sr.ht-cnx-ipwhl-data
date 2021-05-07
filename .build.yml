@@ -1,13 +1,23 @@
 image: archlinux
 packages:
   - go-ipfs
-  - python-packaging
-  - python-toml
+  - python-pip
 sources:
   - https://git.sr.ht/~cnx/ipwhl-data
   - https://git.sr.ht/~cnx/ipwhl-utils
 tasks:
-  - init: ipfs init
+  - init: |
+      ipfs init
+      systemctl --user enable --now ipfs.service
+      until printf '%s\n' $PINATA_NYC |
+        nl |
+        xargs printf '/dnsaddr/nyc1-%d.hostnodes.pinata.cloud/p2p/%s\n' |
+        xargs -n1 ipfs swarm connect
+      do
+        sleep 1
+      done
+      python -m pip install pip
+      python -m pip install packaging toml
   - name: ipwhl-utils/nameck.py ipwhl-data/pkgs
   - new: |
       if [ $BUILD_SUBMITTER = hub.sr.ht ]
@@ -17,3 +27,13 @@ tasks:
           ipwhl-utils/declck.py
       fi
   - deps: ipwhl-utils/depsck.py ipwhl-data/pkgs < ipwhl-data/SUPPORTED
+environment:
+  PINATA_NYC: >-
+    QmRjLSisUCHVpFa5ELVvX3qVPfdxajxWJEHs9kN3EcxAW6
+    QmPySsdmbczdZYBpbi2oq2WMJ8ErbfxtkG8Mo192UHkfGP
+    QmSarArpxemsPESa6FNkmuu9iSE1QWqPX2R3Aw6f5jq4D5
+  PIP_DISABLE_PIP_VERSION_CHECK: 1
+  PIP_FORCE_REINSTALL: 1
+  PIP_INDEX_URL: >-
+    http://localhost:8080/ipfs/Qmd3fPdymM5L6u4cyuvRp4MaUtv1sQ2KbhkNda6jCYRiL2
+  PIP_QUIET: 1
