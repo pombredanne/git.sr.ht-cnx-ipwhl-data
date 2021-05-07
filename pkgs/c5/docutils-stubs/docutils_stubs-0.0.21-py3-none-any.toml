@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/8a/1f/441df2631e58ef71eab304b02efe5f7d0e93a887690b887d8f213106abd0/docutils_stubs-0.0.21-py3-none-any.whl'
+content-id = 'QmSCFVRKxyP7jserCbDTHSfV4vcbsWJS8o9umgBxxMB1Qu'
+requires-python = '>=3.5'
+extras = []
+dependencies = [
+	'docutils==0.14',
+]
