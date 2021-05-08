@@ -19,13 +19,16 @@ tasks:
       python -m pip install pip
       python -m pip install packaging toml
   - name: ipwhl-utils/nameck.py ipwhl-data/pkgs
-  - new: |
-      if [ $BUILD_SUBMITTER = hub.sr.ht ]
-      then
-        git -C ipwhl-data diff --name-only origin/main pkgs |
-          sed s/^/ipwhl-data\\// |
-          ipwhl-utils/declck.py
-      fi
+  - decl: |
+      git -C ipwhl-data diff --name-only origin/main pkgs |
+        sed s/^/ipwhl-data\\// |
+        while read -r declaration
+        do
+          if test -f $declaration
+          then
+            ipwhl-utils/declck.py < $declaration
+          fi
+        done
   - deps: ipwhl-utils/depsck.py ipwhl-data/pkgs < ipwhl-data/SUPPORTED
 environment:
   PINATA_NYC: >-
