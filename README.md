@@ -11,7 +11,7 @@ using [`git send-email`][git-send-email], with the following configuration:
 There is no limit to the number of patches one can send, so please keep
 each patchset small and self-contained.  However, it is required that
 every Python distribution package has all of its dependencies declared
-as well.
+as well.  Please consult the [contributor guide] for further details.
 
 ## Copying
 
@@ -22,3 +22,4 @@ all copyright and related or neighboring rights to IPWHL metadata.
 
 [ipwhl-devel]: https://lists.sr.ht/~cnx/ipwhl-devel
 [git-send-email]: https://git-send-email.io
+[contributor guide]: https://man.sr.ht/~cnx/ipwhl/guides/contrib.md
