@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/6c/11/2a745612f1d3cbbd9c69ba14b1b43a35a2f5c3c81cd0124508c52c64307f/pyflakes-2.3.1-py2.py3-none-any.whl'
+content-id = 'QmNp8XdxWDGU47RtvGns8XWHoDoryfbNiKdLP6HeR7gnin'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7'
+extras = []
+dependencies = []
