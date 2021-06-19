@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/1d/e3/fa60c47d7c344533142eb3af0b73234ef8ea3fb2da742ab976b947e717df/bump2version-1.0.1-py2.py3-none-any.whl'
+content-id = 'QmQ2gusCRf4tvoPMDC1BQ5dGB88pUzo2pPVFbypqJnLpUT'
+requires-python = '>=3.5'
+extras = []
+dependencies = []
