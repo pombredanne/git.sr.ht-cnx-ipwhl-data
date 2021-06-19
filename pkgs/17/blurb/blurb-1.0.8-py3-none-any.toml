@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/09/94/4c531331a6d32053edcc8bd4537c99ff4d2d85e5ca091dfdd70a9e8eade4/blurb-1.0.8-py3-none-any.whl'
+content-id = 'QmYkbQFfd6tHhqDwBqmUu8iqNuJPtWVbusSWVVsFibPKwM'
+requires-python = '>=3.5'
+extras = []
+dependencies = []
