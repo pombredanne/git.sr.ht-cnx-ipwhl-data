@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/52/e2/9b37da54e6e9094d2f558ae643d1954a0fa8215dfee4fa261f31c5439796/nest_asyncio-1.5.1-py3-none-any.whl'
+content-id = 'QmNmp1qvzwn8ZdLq6NLYDtsFgeS2nKmzbMcM8ST6iXcVyq'
+requires-python = '>=3.5'
+extras = []
+dependencies = []
