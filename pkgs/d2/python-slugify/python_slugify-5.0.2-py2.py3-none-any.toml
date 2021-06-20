@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/7e/e2/0c8be1e3b237d11f10963c7cef82e4d98d70ca6e176f3922dddf7bfc7026/python_slugify-5.0.2-py2.py3-none-any.whl'
+content-id = 'QmRqHtbnCY74mv9TXw7u4rExx5EHFzZQ7AkAMr9Hc89x2t'
+requires-python = '>=3.6'
+extras = ['unidecode']
+dependencies = [
+	'text-unidecode>=1.3',
+	'Unidecode>=1.1.1; extra == "unidecode"',
+]
