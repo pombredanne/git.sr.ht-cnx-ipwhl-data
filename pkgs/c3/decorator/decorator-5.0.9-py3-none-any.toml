@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/6a/36/b1b9bfdf28690ae01d9ca0aa5b0d07cb4448ac65fb91dc7e2d094e3d992f/decorator-5.0.9-py3-none-any.whl'
+content-id = 'QmaKfncqwFytzXT1aMLFswK8WS2aMpeNA8vryavH4YTBuE'
+requires-python = '>=3.5'
+extras = []
+dependencies = []
