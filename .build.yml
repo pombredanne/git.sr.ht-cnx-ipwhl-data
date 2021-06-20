@@ -16,7 +16,7 @@ tasks:
       do
         sleep 1
       done
-      python -m pip install pip
+      python -m pip install --no-warn-script-location pip
       python -m pip install packaging toml
   - name: ipwhl-utils/nameck.py ipwhl-data/pkgs
   - decl: |
@@ -38,6 +38,5 @@ environment:
   PIP_DISABLE_PIP_VERSION_CHECK: 1
   PIP_FORCE_REINSTALL: 1
   PIP_INDEX_URL: >-
-    http://localhost:8080/ipfs/QmXZqmDNzYCyyGGXf34HXv7RV5AMv6scs9UBKLwLHKmyUM
-  PIP_NO_WARN_SCRIPT_LOCATION: 1
+    http://localhost:8080/ipfs/QmZ6JgVa5439U82ASK9Md2g46N8jTXhaXKUHWyt9tR3HZf
   PIP_QUIET: 1
