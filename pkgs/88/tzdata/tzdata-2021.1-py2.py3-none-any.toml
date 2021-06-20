@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/4a/c3/6b6c7a5821bcfc1363161b854a272c7fd4a9f27c5a614ff8e48475a45a3e/tzdata-2021.1-py2.py3-none-any.whl'
+content-id = 'QmR3gwuM8YqugR7KNp1Znt63TLXLe8PrAEeomrPfefUXTx'
+requires-python = '>=2'
+extras = []
+dependencies = []
