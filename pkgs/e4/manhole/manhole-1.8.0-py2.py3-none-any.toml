@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/9c/66/fdccda930b31bf74f1f17509ad60d277f199663c14e96245e654370957e0/manhole-1.8.0-py2.py3-none-any.whl'
+content-id = 'QmbLxdHbEJYUDS1y578epo5hJHh57SaDtWerEwuBidL1gX'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
+extras = []
+dependencies = []
