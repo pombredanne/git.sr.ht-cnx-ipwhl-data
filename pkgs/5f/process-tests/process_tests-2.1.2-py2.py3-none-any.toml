@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/49/e4/8d56069205a2ce42c7535c0167f4a2e11881724776fd512890a9344f05d8/process_tests-2.1.2-py2.py3-none-any.whl'
+content-id = 'QmW94qkHP4M6gg7TBAiDLsmHwiA1KtwtjP7KA32T7PfpW5'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
+extras = []
+dependencies = []
