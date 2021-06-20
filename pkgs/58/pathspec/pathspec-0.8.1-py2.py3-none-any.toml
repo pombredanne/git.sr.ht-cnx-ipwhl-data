@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/29/29/a465741a3d97ea3c17d21eaad4c64205428bde56742360876c4391f930d4/pathspec-0.8.1-py2.py3-none-any.whl'
+content-id = 'QmPV5FsQ3FVxUmG8a1j9XsqgamPBGAYdEGFB27uknSaq4g'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
+extras = []
+dependencies = []
