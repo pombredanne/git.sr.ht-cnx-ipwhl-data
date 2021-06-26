@@ -1,0 +1,5 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~cnx/533315/d769fe60afc21439/future-0.18.2-py3-none-any.whl'
+content-id = 'QmU3ghEiCqb4wvk83cLw5Lsf7i1enNz8JtexHLuJqYHXK1'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,>=2.6'
+extras = []
+dependencies = []
