@@ -1,0 +1,5 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~cnx/533325/1354fd1c06ed624f/pandocfilters-1.4.3-py3-none-any.whl'
+content-id = 'QmcfXeF1tiyGnujQjFSMWFyRQCUY52TdZyFtsMP6sv7SZ9'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7'
+extras = []
+dependencies = []
