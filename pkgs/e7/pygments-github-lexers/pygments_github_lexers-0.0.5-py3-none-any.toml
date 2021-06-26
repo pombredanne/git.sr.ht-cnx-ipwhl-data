@@ -1,0 +1,6 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~cnx/533326/790ba0861f8a73fb/pygments_github_lexers-0.0.5-py3-none-any.whl'
+content-id = 'QmZfuJstmHmF6zWRYbEqr1RzaycwnW2hbqtNsVJ7Vz6kXa'
+extras = []
+dependencies = [
+	'Pygments>=2.0.2',
+]
