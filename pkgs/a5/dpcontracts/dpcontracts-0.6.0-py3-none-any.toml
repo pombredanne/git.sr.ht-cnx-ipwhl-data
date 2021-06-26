@@ -1,0 +1,5 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~cnx/533296/3803fff90a485206/dpcontracts-0.6.0-py3-none-any.whl'
+content-id = 'Qmf4U4fZmjKewhSdka8Q7eXNwrRAaWW1svy8dx8vDgHMCv'
+requires-python = '>=3.5'
+extras = []
+dependencies = []
