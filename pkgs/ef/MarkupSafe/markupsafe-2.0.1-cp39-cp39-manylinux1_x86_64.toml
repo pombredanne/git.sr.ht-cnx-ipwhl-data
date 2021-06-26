@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/50/99/06eccf68be0bff67ab9a0b90b5382c04769f9ad2e42cae5e5e92f99380cd/MarkupSafe-2.0.1-cp39-cp39-manylinux1_x86_64.whl'
+content-id = 'QmXrs2gKeyNs5YDH75fNyW5J9GhKHACSmdf7DKfzfArDVn'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
