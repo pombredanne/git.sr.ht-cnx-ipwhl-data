@@ -1,0 +1,6 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~cnx/533279/00601380744dd980/click_default_group-1.2.2-py3-none-any.whl'
+content-id = 'QmQw4JoUjZR84gHxSppPKJcj2XLnwWiWoerumsPXYbw4PK'
+extras = []
+dependencies = [
+	'click',
+]
