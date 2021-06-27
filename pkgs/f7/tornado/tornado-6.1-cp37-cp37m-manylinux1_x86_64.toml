@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/bf/fa/2befee379094720b54065daa9c6117f3edb7d35f86cde0f50b3a28ecfadf/tornado-6.1-cp37-cp37m-manylinux1_x86_64.whl'
+content-id = 'QmXSYjJ4bfqb7fhEWMN7KWV436YcptkkkEfXXh9SEh1fsN'
+requires-python = '>=3.5'
+extras = []
+dependencies = []
