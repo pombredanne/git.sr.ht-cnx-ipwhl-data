@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/95/de/214830a981892a3e286c3794f41ae67a4495df1108c3da8a9f62159b9a9d/pyasn1_modules-0.2.8-py2.py3-none-any.whl'
+content-id = 'QmZn73uWPUvewBR85mfkp7pz2icdCEQmS3JD9GN86gaW9X'
+extras = []
+dependencies = [
+	'pyasn1<0.5.0,>=0.4.6',
+]
