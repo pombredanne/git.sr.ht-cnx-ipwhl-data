@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/be/59/d5deb42e3485b2bcd9e95a0f58a5b8f9185520dfd0c574702b7fa5741747/py_make-0.1.1-py2.py3-none-any.whl'
+content-id = 'QmUunDBdAxq6XWj5XSzfyrfzDwwvHwys2ZY3bZhqArE6Qc'
+requires-python = '!=3.0.*,!=3.1.*,>=2.6'
+extras = []
+dependencies = [
+	'docopt>=0.6.0',
+]
