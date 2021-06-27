@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/9b/47/9264bc1b9554ed2404f579fd226bc524d02ead9519bed09368a531983ecd/editdistance_s-1.0.0-cp36-abi3-manylinux1_x86_64.whl'
+content-id = 'QmUygdB8R4SfEoi7nR6ajXu98qWN2dn3Dm4FNMZtTotXyZ'
+requires-python = '>=3.6.1'
+extras = []
+dependencies = [
+	'cffi>=1',
+]
