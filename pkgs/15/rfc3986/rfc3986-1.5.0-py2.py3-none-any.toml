@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/c4/e5/63ca2c4edf4e00657584608bee1001302bbf8c5f569340b78304f2f446cb/rfc3986-1.5.0-py2.py3-none-any.whl'
+content-id = 'QmUFxtPQiNgRjhSVmjukG6X3m8M64NqxLavPtN8QGCNHeH'
+extras = ['idna2008']
+dependencies = [
+	'idna; extra == "idna2008"',
+]
