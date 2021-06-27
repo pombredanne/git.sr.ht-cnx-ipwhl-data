@@ -1,8 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/92/f1/1921a08ea48fd677665bbb7caa859401b37778bc8c8761dd06cee77058d7/Genshi-0.7.5-py3-none-any.whl'
-content-id = 'QmRUvM22Drv8TT3cNJu3g9tUHFy4EpKpirRCGy5FZgWXUr'
-extras = ['i18n', 'plugin']
-dependencies = [
-	'six',
-	'Babel>=0.8; extra == "i18n"',
-	'setuptools>=0.6a2; extra == "plugin"',
-]
