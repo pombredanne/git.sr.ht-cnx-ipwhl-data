@@ -1,0 +1,9 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~cnx/533682/8a91f5ca2cd53baa/sphinx_argparse-0.2.5-py3-none-any.whl'
+content-id = 'QmQGEWTrtAy7e9pj3nLwdpxexwAvCYTjo75SEZZ25ZWchM'
+extras = ['dev', 'markdown']
+dependencies = [
+	'sphinx>=1.2.0',
+	'pytest; extra == "dev"',
+	'sphinx-rtd-theme; extra == "dev"',
+	'CommonMark>=0.5.6; extra == "markdown"',
+]
