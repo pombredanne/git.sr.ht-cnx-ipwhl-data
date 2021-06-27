@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/39/a5/459adfa22ea237f6e8d0fa95ad29d7369579a5eec26f016ab34bb7f8359c/readme_renderer-29.0-py2.py3-none-any.whl'
+content-id = 'QmUcMnCVf5dtL89d4nSXrprSYeUNWVSJno8JTdtNrdiXMo'
+extras = ['md']
+dependencies = [
+	'bleach>=2.1.0',
+	'docutils>=0.13.1',
+	'Pygments>=2.5.1',
+	'six',
+	'cmarkgfm<0.6.0,>=0.5.0; extra == "md"',
+]
