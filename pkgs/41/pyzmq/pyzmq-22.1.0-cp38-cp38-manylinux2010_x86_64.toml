@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/72/df/a1e1cc10919d5edc07b850f8e6aa054a2ced9e8ba06199390b53d0ad06a4/pyzmq-22.1.0-cp38-cp38-manylinux2010_x86_64.whl'
+content-id = 'QmUWJqy1ccx317uitMyNkYYuTg7uZJtEK3wspPrNvHhxmA'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'py; implementation_name == "pypy"',
+	'cffi; implementation_name == "pypy"',
+]
