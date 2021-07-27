@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/c7/b7/0f4009c9e23f7017be400e06dc0251671d64ba4fddaab82c98210d649a15/identify-2.2.11-py2.py3-none-any.whl'
+content-id = 'Qmd7vBhuba1pqpLRSjf4FykW9nf1ANsNJrkFNzFNdGsWqw'
+requires-python = '>=3.6.1'
+extras = ['license']
+dependencies = [
+	'editdistance-s; extra == "license"',
+]
