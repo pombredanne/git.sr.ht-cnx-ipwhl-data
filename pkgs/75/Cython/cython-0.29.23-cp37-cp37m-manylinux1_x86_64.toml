@@ -1,5 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/0c/15/cca3ac44776df9ee27286941315dd8b14a598e8d80970200d05f720b9274/Cython-0.29.23-cp37-cp37m-manylinux1_x86_64.whl'
-content-id = 'QmSq4NUpvBEyBGSZkbAiLJDnsp3ePXN8GLUD6iZ8Wd121A'
-requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,>=2.6'
-extras = []
-dependencies = []
