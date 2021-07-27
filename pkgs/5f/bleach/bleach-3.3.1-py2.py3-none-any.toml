@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/c3/ae/9b9f28245f4570bbdd977dc73e024fbb19f781036734fa0502039bfc41b6/bleach-3.3.1-py2.py3-none-any.whl'
+content-id = 'QmUcfWdkCscVcwSC3VrEYhHct3TaJ6KPx5ymSZtg6TgYNL'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
+extras = []
+dependencies = [
+	'packaging',
+	'six>=1.9.0',
+	'webencodings',
+]
