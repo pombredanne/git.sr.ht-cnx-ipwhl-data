@@ -1,7 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/d4/70/d60450c3dd48ef87586924207ae8907090de0b306af2bce5d134d78615cb/python_dateutil-2.8.1-py2.py3-none-any.whl'
-content-id = 'QmTtiJCDhYn9A8bm6vTF2DjX2jBR2tX9XuQaSrw5P5ckKd'
-requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,>=2.7'
-extras = []
-dependencies = [
-	'six>=1.5',
-]
