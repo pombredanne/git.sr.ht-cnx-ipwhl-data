@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/2e/35/6c4fff5ab443b57116cb1aad46421fb719bed2825664e8fe77d66d99bcbc/typing_extensions-3.10.0.0-py3-none-any.whl'
+content-id = 'QmRia6Xw8hsH3WU7sB3cJyCgGovku48b7mmgTLUwKnD1vw'
+extras = []
+dependencies = [
+	'typing>=3.7.4; python_version < "3.5"',
+]
