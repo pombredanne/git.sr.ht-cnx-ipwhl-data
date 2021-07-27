@@ -26,9 +26,9 @@ tasks:
         do
           if test -f $declaration
           then
-            ipwhl-utils/declck.py < $declaration
+            echo $declaration
           fi
-        done
+        done | ipwhl-utils/declck.py
   - deps: ipwhl-utils/depsck.py ipwhl-data/pkgs < ipwhl-data/SUPPORTED
 environment:
   PINATA_NYC: >-
