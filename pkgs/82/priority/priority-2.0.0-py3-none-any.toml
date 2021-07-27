@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/5e/5f/82c8074f7e84978129347c2c6ec8b6c59f3584ff1a20bc3c940a3e061790/priority-2.0.0-py3-none-any.whl'
+content-id = 'QmWjpPNRpPTWs5YeHFjmcrvDLcootzBQ3ZXrYu2NpRhgwJ'
+requires-python = '>=3.6.1'
+extras = []
+dependencies = []
