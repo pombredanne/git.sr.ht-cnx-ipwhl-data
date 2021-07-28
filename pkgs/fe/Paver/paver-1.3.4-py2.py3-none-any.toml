@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/98/1e/37ba8a75bd77ea56a75ef5ae66fe657b79205bbc36556c9456cd641782a4/Paver-1.3.4-py2.py3-none-any.whl'
+content-id = 'QmP8nKsUQHPg5DuqtcZpTf1rZVjm7Q9itHwdQpsrhUBiwk'
+extras = []
+dependencies = [
+	'six',
+]
