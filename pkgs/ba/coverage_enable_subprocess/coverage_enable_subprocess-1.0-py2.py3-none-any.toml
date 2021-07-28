@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/31/58/d8dd7edbf5e120942b6395b4c034506c68e56f656074522c83b59d9a4991/coverage_enable_subprocess-1.0-py2.py3-none-any.whl'
+content-id = 'QmVMkCahEok1iiemCUxgN2y1qVwoEJuKy4LKUYopY4vJLd'
+extras = []
+dependencies = [
+	'coverage',
+]
