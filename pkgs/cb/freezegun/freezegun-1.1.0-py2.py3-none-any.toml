@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/0b/db/00008ccad284d2dfd2701245fef219b9018687d8ce1d835cd2965b9fb6b8/freezegun-1.1.0-py2.py3-none-any.whl'
+content-id = 'QmRYFSKredEqqKmd5qwgJ6XVqX7Y4vexs5zU8eFWPhQKc4'
+requires-python = '>=3.5'
+extras = []
+dependencies = [
+	'python-dateutil>=2.7',
+]
