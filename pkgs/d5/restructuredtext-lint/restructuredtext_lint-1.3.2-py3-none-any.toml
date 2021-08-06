@@ -1,0 +1,6 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~cnx/560980/b59551b6149d360c/restructuredtext_lint-1.3.2-py3-none-any.whl'
+content-id = 'QmPbSa4aV2hv221Aa5zJsKSxZE3NEuFqd1nrshz7cJwKWo'
+extras = []
+dependencies = [
+	'docutils<1.0,>=0.11',
+]
