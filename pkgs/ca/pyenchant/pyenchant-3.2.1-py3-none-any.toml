@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/76/f1/162fc6975068098e3327358216b70bbecba1d8004438c3bc8fe9f9378a89/pyenchant-3.2.1-py3-none-any.whl'
+content-id = 'QmQGpqBHNifAXTFamc6DkG7aiyg2eXya2Qp3wvFXSvBmtn'
+requires-python = '>=3.5'
+extras = []
+dependencies = []
