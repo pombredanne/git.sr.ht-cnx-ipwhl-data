@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/39/7b/88dbb785881c28a102619d46423cb853b46dbccc70d3ac362d99773a78ce/pexpect-4.8.0-py2.py3-none-any.whl'
+content-id = 'QmWy3p6Rp5HJJzHNNkvGREE6LCdQo6vZE5txXbZuyKy66A'
+extras = []
+dependencies = [
+	'ptyprocess>=0.5',
+]
