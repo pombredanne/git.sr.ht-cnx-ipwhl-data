@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/99/ce/78be097b00817ccf02deaf481eb7a603eecee6fa216e82fa7848cd265449/aspy.yaml-1.3.0-py2.py3-none-any.whl'
+content-id = 'QmNtJxAPqgUQxQtUSXd9CH725iLdhuNZPsCZxMYJxon3T5'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7'
+extras = []
+dependencies = [
+	'pyyaml',
+]
