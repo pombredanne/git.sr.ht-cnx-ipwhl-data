@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/c3/88/97eef84f48fa04fbd6750e62dcceafba6c63c81b7ac1420856c8dcc0a3f9/astor-0.8.1-py2.py3-none-any.whl'
+content-id = 'Qmbcvfep2p2zaQSwF73V66S5v8va3Xed54RabR5w4LaBuc'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7'
+extras = []
+dependencies = []
