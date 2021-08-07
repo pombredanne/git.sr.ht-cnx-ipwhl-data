@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/12/05/3350559de9714b202e443a9e6312937341bd5f79f4e4f625744295e7dd17/webcolors-1.11.1-py3-none-any.whl'
+content-id = 'QmRxruEzsCXSYAcHxQSYFvYchw4yQ1rebapatUPg6U1KJ9'
+requires-python = '>=3.5'
+extras = []
+dependencies = []
