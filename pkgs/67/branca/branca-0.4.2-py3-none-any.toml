@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/61/1f/570b0615c452265d57e4114e633231d6cd9b9d275256778a675681e4f711/branca-0.4.2-py3-none-any.whl'
+content-id = 'QmQ2X6cMQ51DjEeBrxDGeiESmWEK68UESULJiqqnmNNreG'
+requires-python = '>=3.5'
+extras = []
+dependencies = [
+	'jinja2',
+]
