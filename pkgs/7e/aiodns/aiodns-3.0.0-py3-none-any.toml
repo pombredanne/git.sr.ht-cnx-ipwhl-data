@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/ab/72/991ee33a517df69c6cd6f3486cfe9b6329557cb55acaa8cefac33c2aa4d2/aiodns-3.0.0-py3-none-any.whl'
+content-id = 'QmeaZnek949Dtsy9CmTx84qPf4Hrp61KgB5FXT8DbyWidr'
+extras = []
+dependencies = [
+	'pycares>=4.0.0',
+]
