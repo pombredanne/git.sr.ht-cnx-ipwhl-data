@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/da/0a/a273518f24e76bf6fce78d20352e78fc231fb61e6ad057c1db7f71653dea/websocket_client-1.1.1-py2.py3-none-any.whl'
+content-id = 'QmVvritifEwZpMZCPyTRCLTNMZ9oTx66XXKp8ctkh65v4q'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
