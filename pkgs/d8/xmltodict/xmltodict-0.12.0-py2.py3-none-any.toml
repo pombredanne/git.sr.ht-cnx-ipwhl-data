@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/28/fd/30d5c1d3ac29ce229f6bdc40bbc20b28f716e8b363140c26eff19122d8a5/xmltodict-0.12.0-py2.py3-none-any.whl'
+content-id = 'QmfXsVbqKKT9UpbdtXfvfN8bZaRFcKkyA7z5Q7ZdWWpT5r'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7'
+extras = []
+dependencies = []
