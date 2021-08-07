@@ -1,0 +1,9 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~cnx/561682/7921ce8b2962b429/mypytools-0.1.15-py3-none-any.whl'
+content-id = 'QmXTQvPbgF4LqC2AfRQvcEwEKKbgwTKtjQssFXxx2nQJgR'
+extras = []
+dependencies = [
+	'click',
+	'findimports',
+	'typing',
+	'watchdog',
+]
