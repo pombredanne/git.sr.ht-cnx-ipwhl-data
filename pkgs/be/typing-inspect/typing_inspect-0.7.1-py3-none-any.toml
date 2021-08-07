@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/ad/fa/77565f652ce57ed56d3a63d537c885a18e4451cf2d56d944991aeb3c82bd/typing_inspect-0.7.1-py3-none-any.whl'
+content-id = 'QmNRVdxnrwKRZXnMzSQvuQorjqaDDgHbBfuwtvLYz3VwCM'
+extras = []
+dependencies = [
+	'mypy-extensions>=0.3.0',
+	'typing-extensions>=3.7.4',
+	'typing>=3.7.4; python_version < "3.5"',
+]
