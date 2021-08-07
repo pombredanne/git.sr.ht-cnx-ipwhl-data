@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/6b/d1/b0a1e69af06d2f6f47a11238ca115667d858cbb30baf6b6df03f1b874163/watchdog-2.1.3-py3-none-manylinux2014_x86_64.whl'
+content-id = 'QmXdW9hQyQ89fmNzFWc2Pwu62K19C5j5ps4Q5u1BbjzXSW'
+requires-python = '>=3.6'
+extras = ['watchmedo']
+dependencies = [
+	'PyYAML>=3.10; extra == "watchmedo"',
+	'argh>=0.24.1; extra == "watchmedo"',
+]
