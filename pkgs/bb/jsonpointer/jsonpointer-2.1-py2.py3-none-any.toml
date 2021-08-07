@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/23/52/05f67532aa922e494c351344e0d9624a01f74f5dd8402fe0d1b563a6e6fc/jsonpointer-2.1-py2.py3-none-any.whl'
+content-id = 'QmYCEVdpPEiYxv1KWwiDUFxBM4rNNTurSLMSdEYoVe9KeG'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7'
+extras = []
+dependencies = []
