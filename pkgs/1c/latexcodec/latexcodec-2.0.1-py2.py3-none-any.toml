@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/0a/76/9552dfc6b74c2d6c3f199e927d41998dc1e561b7cbe4af7e7247388e17e8/latexcodec-2.0.1-py2.py3-none-any.whl'
+content-id = 'QmViD1TVMv7ahtjoDWbdGhZ4bGxEpKpkyh329yzJ1W1BLB'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7'
+extras = []
+dependencies = [
+	'six>=1.4.1',
+]
