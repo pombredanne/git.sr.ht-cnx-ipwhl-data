@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/64/a2/e4cc262a91c9c5aa6278374a24ebf22b7220f3ded8d295cacc63503a0ecb/pycares-4.0.0-cp38-cp38-manylinux2010_x86_64.whl'
+content-id = 'Qmb4v8H8caqr87taG84tfhF6TNSoCcAZS8KCaLzUCG2712'
+extras = ['idna']
+dependencies = [
+	'cffi>=1.5.0',
+	'idna>=2.1; extra == "idna"',
+]
