@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/a9/68/6dd3fdcbf00a1ca3c74e6e0876cda6c36c27744a7cde3e3b9f95e908b7b5/vulture-2.3-py2.py3-none-any.whl'
+content-id = 'QmVEmFzftbPpUKXr2iZk8V7WaEysAreTAj9pYQGbcPUFzM'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'toml',
+]
