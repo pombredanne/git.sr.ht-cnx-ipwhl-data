@@ -9,11 +9,9 @@ tasks:
   - init: |
       ipfs init
       systemctl --user enable --now ipfs.service
-      until test -f $HOME/.ipfs/api
-      do
-        python -m pip install --no-warn-script-location pip
-        python -m pip install packaging toml
-      done
+      until ipfs swarm peers; do :; done
+      python -m pip install --no-warn-script-location pip
+      python -m pip install packaging toml
   - name: ipwhl-utils/nameck.py ipwhl-data/pkgs
   - decl: |
       git -C ipwhl-data diff --name-only origin/main pkgs |
