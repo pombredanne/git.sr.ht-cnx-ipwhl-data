@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/4d/16/5478eb05b5b5d452f22e844421dad3784eeb6fb408846040fa095e2b83e8/ujson-4.0.2-cp39-cp39-manylinux1_x86_64.whl'
+content-id = 'Qmbq1M5t4kYJiqX16JeNqCLGKdr7RRxbgRuMywYuSQ2cVA'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
