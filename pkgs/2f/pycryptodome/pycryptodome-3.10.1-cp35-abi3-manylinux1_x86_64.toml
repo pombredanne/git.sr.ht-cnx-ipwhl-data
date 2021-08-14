@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/af/ef/bedde9b7a1f237b743eb307e6c247369c2ae5ca6a79b61c064698cfd78cd/pycryptodome-3.10.1-cp35-abi3-manylinux1_x86_64.whl'
+content-id = 'QmVqKFpnJTLNDwQPBzNMp7MR7nfPU6QFS8kjt6bV6Hkt99'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
+extras = []
+dependencies = []
