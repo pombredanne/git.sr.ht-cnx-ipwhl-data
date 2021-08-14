@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/ab/a3/4e10c6091f6b17267e23a6de77c05241834fb3a1ec6ad655b566a6ea1d82/scipy-1.5.4-cp38-cp38-manylinux1_x86_64.whl'
+content-id = 'QmPHrGY1fScPUbY8vyrCoACm6qgrpXB9CQcVNj7UZ9L1qN'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'numpy>=1.14.5',
+]
