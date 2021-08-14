@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/f3/d9/d56271042059b1d01ff20bee9eab74ce3ef02eeab64072acf8a139ae72fe/fissix-21.6.6-py3-none-any.whl'
+content-id = 'QmXKd1ufE4BrJrNB2Wr38mKG7jmv9TpeanvnhSfbEFtyLv'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'appdirs',
+]
