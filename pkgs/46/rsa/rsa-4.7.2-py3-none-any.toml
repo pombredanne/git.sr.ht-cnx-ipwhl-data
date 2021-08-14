@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/e9/93/0c0f002031f18b53af7a6166103c02b9c0667be528944137cc954ec921b3/rsa-4.7.2-py3-none-any.whl'
+content-id = 'QmcW6QiFAsdcAnEDa6QM6a4tFrEuZwYa94kcYeXXgoV6Xr'
+requires-python = '<4,>=3.5'
+extras = []
+dependencies = [
+	'pyasn1>=0.1.3',
+]
