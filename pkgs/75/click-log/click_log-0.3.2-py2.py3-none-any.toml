@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/38/52/a9dbb622f40ceeb09df141d855062cc9fbb38011f0ad8caee0cd840f399c/click_log-0.3.2-py2.py3-none-any.whl'
+content-id = 'QmSeK9FWsmX42BdbhN2rE68s6opZtDqfPc4LbttTEyyCfQ'
+extras = []
+dependencies = [
+	'click',
+]
