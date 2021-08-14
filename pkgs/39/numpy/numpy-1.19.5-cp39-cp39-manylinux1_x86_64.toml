@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/89/62/189b502767f70a310a010c397fcd52169fdf75f6876e52beb54e98f1ce93/numpy-1.19.5-cp39-cp39-manylinux1_x86_64.whl'
+content-id = 'QmXB6SoN8fdmtzfz3mYCEQL5TfyANxQWFHQfvZcAJabAsx'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
