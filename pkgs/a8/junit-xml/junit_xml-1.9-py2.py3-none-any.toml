@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/2a/93/2d896b5fd3d79b4cadd8882c06650e66d003f465c9d12c488d92853dff78/junit_xml-1.9-py2.py3-none-any.whl'
+content-id = 'QmYiSK89s2w79YxfHsbjEyiNZDeAb8gqRtob8Jba1YVJsg'
+extras = []
+dependencies = [
+	'six',
+]
