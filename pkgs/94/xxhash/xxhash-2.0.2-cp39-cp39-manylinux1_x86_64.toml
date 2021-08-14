@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/c8/11/9729c73f562ab449d0596d6df94f60b28e485a8e9770958ad15fbc8d52d9/xxhash-2.0.2-cp39-cp39-manylinux1_x86_64.whl'
+content-id = 'QmY8vE5iZMV8pJnKAFZ8CVLc9VxxpxZzniSMoqBHpzpZse'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,>=2.6'
+extras = []
+dependencies = []
