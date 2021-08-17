@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/e1/24/762768848490169a1a0a6843e183e5f251da12e588c7b5421f39e0e23c14/protobuf-3.17.3-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl'
+content-id = 'Qme38fQnXp4hdpkuZcbjc5DxyZmEGYK8m45UmTL2UWSBsB'
+extras = []
+dependencies = [
+	'six>=1.9',
+]
