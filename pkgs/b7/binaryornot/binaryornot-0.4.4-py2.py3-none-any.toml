@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/24/7e/f7b6f453e6481d1e233540262ccbfcf89adcd43606f44a028d7f5fae5eb2/binaryornot-0.4.4-py2.py3-none-any.whl'
+content-id = 'QmQ3rfUQANPP4tRsQyn6Tosb3RhLdxpqLLTCYLrWo7TLZL'
+extras = []
+dependencies = [
+	'chardet>=3.0.2',
+]
