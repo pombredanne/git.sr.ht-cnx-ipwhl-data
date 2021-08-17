@@ -9,7 +9,13 @@ tasks:
   - init: |
       ipfs init
       systemctl --user enable --now ipfs.service
-      until ipfs swarm peers; do :; done
+      until printf '%s\n' $PINATA_NYC |
+        nl |
+        xargs printf '/dnsaddr/nyc1-%d.hostnodes.pinata.cloud/p2p/%s\n' |
+        xargs -n1 ipfs swarm connect
+      do
+        sleep 1
+      done
       python -m pip install --no-warn-script-location pip
       python -m pip install packaging toml
   - name: ipwhl-utils/nameck.py ipwhl-data/pkgs
@@ -25,6 +31,10 @@ tasks:
         done | ipwhl-utils/declck.py
   - deps: ipwhl-utils/depsck.py ipwhl-data/pkgs < ipwhl-data/SUPPORTED
 environment:
+  PINATA_NYC: >-
+    QmRjLSisUCHVpFa5ELVvX3qVPfdxajxWJEHs9kN3EcxAW6
+    QmPySsdmbczdZYBpbi2oq2WMJ8ErbfxtkG8Mo192UHkfGP
+    QmSarArpxemsPESa6FNkmuu9iSE1QWqPX2R3Aw6f5jq4D5
   PIP_DISABLE_PIP_VERSION_CHECK: 1
   PIP_FORCE_REINSTALL: 1
   PIP_INDEX_URL: >-
