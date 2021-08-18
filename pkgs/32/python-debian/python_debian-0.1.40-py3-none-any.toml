@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/8e/e7/76511f73344cea6e7a9d7f431bd0dcfda5871157713ecded06d58a59eb1b/python_debian-0.1.40-py3-none-any.whl'
+content-id = 'QmZK8soTUftkUA7tmQxAaFWvpZSQFHj2qorppUAjjUnWCT'
+extras = []
+dependencies = [
+	'chardet',
+	'six',
+]
