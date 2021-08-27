@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/91/ca/ac9e686140e3946182f760514d82d4253f640a1db90303d0dff57828c5b4/pyarrow-5.0.0-cp39-cp39-manylinux2014_x86_64.whl'
+content-id = 'QmdVdCyrwzPZCrECzhMKUyoFCMtWnvnMFj5au4C1owi11s'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'numpy>=1.16.6',
+]
