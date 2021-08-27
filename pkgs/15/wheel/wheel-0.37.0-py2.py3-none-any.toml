@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/04/80/cad93b40262f5d09f6de82adbee452fd43cdff60830b56a74c5930f7e277/wheel-0.37.0-py2.py3-none-any.whl'
+content-id = 'QmNd4BCPGcsfHGqRxMPAYcNauFTDBP7Vi57mwZaxPyDePq'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
+extras = []
+dependencies = [
+	'pytest>=3.0.0; extra == "test"',
+	'pytest-cov; extra == "test"',
+]
