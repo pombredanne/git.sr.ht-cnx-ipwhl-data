@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/9e/1e/cfe7987493242e8b9ead309cfd76fc500c38bbefe192192b813325d289f3/azure_common-1.1.27-py2.py3-none-any.whl'
+content-id = 'QmVDA5vbGWCF8MRhwbofPJmnCPLNsC5qmnWJ6Xv2wy1of2'
+extras = []
+dependencies = [
+	'azure-nspkg; python_version < "3.0"',
+]
