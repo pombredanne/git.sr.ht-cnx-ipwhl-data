@@ -1,0 +1,11 @@
+source = 'https://files.pythonhosted.org/packages/c4/1d/f4e03047d6767e35c1efb13a280c1ef8b88807230f902da4cfc431a9f602/isort-5.9.3-py3-none-any.whl'
+content-id = 'QmRzy8s7j3saXHzWJKJrqmS9k9z4wNSchVjHu8VEwU8NiL'
+requires-python = '<4.0,>=3.6.1'
+extras = ['colors', 'pipfile_deprecated_finder', 'plugins', 'requirements_deprecated_finder']
+dependencies = [
+	'colorama<0.5.0,>=0.4.3; extra == "colors"',
+	'pip-api; extra == "requirements_deprecated_finder"',
+	'pipreqs; extra == "pipfile_deprecated_finder" or extra == "requirements_deprecated_finder"',
+	'requirementslib; extra == "pipfile_deprecated_finder"',
+	'setuptools; extra == "plugins"',
+]
