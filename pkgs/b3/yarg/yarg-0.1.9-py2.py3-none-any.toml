@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/8b/90/89a2ff242ccab6a24fbab18dbbabc67c51a6f0ed01f9a0f41689dc177419/yarg-0.1.9-py2.py3-none-any.whl'
+content-id = 'QmX65pV5b4HxhgUH7SRaks1Xdmb2aDGgUdbmsRFDfYupir'
+extras = []
+dependencies = [
+	'requests',
+]
