@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/55/85/70c6602b078bd9e6f3da4f467047e906525c355a4dacd4f71b97a35d9897/joblib-1.0.1-py3-none-any.whl'
+content-id = 'QmYGCPWLhZVnDWTEYFt8eNNcx9HvNP9SitqqvRu6DBYoTD'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
