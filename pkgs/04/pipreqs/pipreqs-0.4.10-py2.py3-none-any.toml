@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/9b/83/b1560948400a07ec094a15c2f64587b70e1a5ab5f7b375ba902fcab5b6c3/pipreqs-0.4.10-py2.py3-none-any.whl'
+content-id = 'QmTJ2uTkVzrjpWgGveySb85v6rLGB3URTw6nycDfHbX6rs'
+extras = []
+dependencies = [
+	'docopt',
+	'yarg',
+]
