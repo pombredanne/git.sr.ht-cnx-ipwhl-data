@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/9b/9f/b36f7774ff5ea8e428fdcfc4bb332c39ee5b9362ddd3d40d9516a55221b2/isodate-0.6.0-py2.py3-none-any.whl'
+content-id = 'QmUDsE8dsN8NFYsXukDypMJRqu29MrJikpf9bhX3p25Qgy'
+extras = []
+dependencies = [
+	'six',
+]
