@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/15/dc/d14bce03f4bfd0214b90a3f556d7c96f75bb94ad597c816a641b962f22e9/httplib2-0.19.1-py3-none-any.whl'
+content-id = 'QmeBwCb1g1iXWn9be4Ywoz8tSdtH8pkpYs9BdN1qnSczSq'
+extras = []
+dependencies = [
+	'pyparsing<3,>=2.4.2',
+]
