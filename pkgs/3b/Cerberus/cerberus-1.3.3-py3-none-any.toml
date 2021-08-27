@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/7f/2c/4e0755ad65cce6d2c847ce09e5c327c4e10a8db2c90b34aaccf6752b6c60/Cerberus-1.3.3-py3-none-any.whl'
+content-id = 'QmSu8MVsNqsmKBU5oT9fdmSVT48j4Rtn9nzSUufW7NihLC'
+requires-python = '>=2.7'
+extras = []
+dependencies = [
+	'setuptools',
+]
