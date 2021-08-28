@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/86/b5/a43fed6fd0193585d17d6faa7b85317d4461f694aaed546098c69f856579/flake8_polyfill-1.0.2-py2.py3-none-any.whl'
+content-id = 'QmRevnDaNFhW6YByD8fme7XjhiDBMPZ1QTMbep1Tj3cMWe'
+extras = []
+dependencies = [
+	'flake8',
+]
