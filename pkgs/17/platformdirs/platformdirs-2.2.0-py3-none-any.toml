@@ -1,0 +1,14 @@
+source = 'https://files.pythonhosted.org/packages/a5/a6/45f6d6b848d7ac273f261b35ed048ea8f301d2ec0594fbcf7616b4012f45/platformdirs-2.2.0-py3-none-any.whl'
+content-id = 'Qmbs9m47fXP7LM1XL4thi9NopQjiaj8v4NMLyLqrQX7i6n'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'Sphinx>=4; extra == "docs"',
+	'furo>=2021.7.5b38; extra == "docs"',
+	'proselint>=0.10.2; extra == "docs"',
+	'sphinx-autodoc-typehints>=1.12; extra == "docs"',
+	'appdirs==1.4.4; extra == "test"',
+	'pytest>=6; extra == "test"',
+	'pytest-cov>=2.7; extra == "test"',
+	'pytest-mock>=3.6; extra == "test"',
+]
