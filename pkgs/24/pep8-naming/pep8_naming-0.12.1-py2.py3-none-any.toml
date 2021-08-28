@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/5d/5d/2b8fc7b8776e0285d9a1f88593ee2bd84ba35736c5a3b80b0d8adf45b799/pep8_naming-0.12.1-py2.py3-none-any.whl'
+content-id = 'Qma8mMFKQFLmT4nxqD2fGihFx5fjt3XAEzChr4Bmm6kVcv'
+extras = []
+dependencies = [
+	'flake8>=3.9.1',
+	'flake8-polyfill<2,>=1.0.2',
+]
