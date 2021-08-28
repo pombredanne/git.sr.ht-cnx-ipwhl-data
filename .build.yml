@@ -7,6 +7,7 @@ sources:
   - https://git.sr.ht/~cnx/ipwhl-utils
 tasks:
   - init: |
+      ipfs init
       systemctl --user enable --now ipfs.service
       ipwhl-utils/.pinata.py
       python -m pip install --no-warn-script-location pip
