@@ -1,0 +1,14 @@
+source = 'https://files.pythonhosted.org/packages/fc/80/35a0716e5d5101e643404dabd20f07f5528a21f3ef4032d31a49c913237b/flake8-3.9.2-py2.py3-none-any.whl'
+content-id = 'QmfEB9MgNer8AYXVfQ8ffEeGAWgtwpjPvEdhu4Dd3jdxNQ'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
+extras = []
+dependencies = [
+	'pyflakes<2.4.0,>=2.3.0',
+	'pycodestyle<2.8.0,>=2.7.0',
+	'mccabe<0.7.0,>=0.6.0',
+	'configparser; python_version < "3.2"',
+	'functools32; python_version < "3.2"',
+	'enum34; python_version < "3.4"',
+	'typing; python_version < "3.5"',
+	'importlib-metadata; python_version < "3.8"',
+]
