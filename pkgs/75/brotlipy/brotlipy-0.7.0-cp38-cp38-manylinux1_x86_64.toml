@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/35/49/e7f0647e2f2c8314c83a66bfe07527c470263d026c181881f6342313e25b/brotlipy-0.7.0-cp38-cp38-manylinux1_x86_64.whl'
+content-id = 'QmbiHAGydy3jEDXUmDrV6s8LeUE5YRZNSnAsFtwxyDHEbx'
+extras = []
+dependencies = [
+	'cffi>=1.0.0',
+	'enum34<2,>=1.0.4; python_version == "2.7" or python_version == "3.3"',
+]
