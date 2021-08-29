@@ -1,0 +1,12 @@
+source = 'https://files.pythonhosted.org/packages/e8/62/b060f66406090ef62faf264ba336396b5c3f96f4d2891431c1cdbeeb746c/matplotlib-3.3.4-cp39-cp39-manylinux1_x86_64.whl'
+content-id = 'Qmf2TDA6q7TfUjiu1SHyu2RpwWTPQo8x7pZ9vBfRrPovbD'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'cycler>=0.10',
+	'kiwisolver>=1.0.1',
+	'numpy>=1.15',
+	'pillow>=6.2.0',
+	'pyparsing!=2.0.4,!=2.1.2,!=2.1.6,>=2.0.3',
+	'python-dateutil>=2.1',
+]
