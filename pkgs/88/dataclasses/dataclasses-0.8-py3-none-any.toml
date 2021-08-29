@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/fe/ca/75fac5856ab5cfa51bbbcefa250182e50441074fdc3f803f6e76451fab43/dataclasses-0.8-py3-none-any.whl'
+content-id = 'QmYTNpKMCKB8CjHUTecxCk25aZZyVTwLFzdHMrp6N3pKTj'
+requires-python = '<3.7,>=3.6'
+extras = []
+dependencies = []
