@@ -1,0 +1,6 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/577248/4fc7b464d4add68a/idna_ssl-1.1.0-py3-none-any.whl'
+content-id = 'QmcCPNKZt4kgRGUbSiQ6nLvxmQvY3V4QydzmHCvnmCiCqX'
+extras = []
+dependencies = [
+	'idna>=2.0',
+]
