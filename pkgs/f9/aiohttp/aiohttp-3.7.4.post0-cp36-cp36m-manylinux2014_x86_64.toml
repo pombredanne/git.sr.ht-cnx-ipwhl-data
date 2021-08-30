@@ -1,0 +1,16 @@
+source = 'https://files.pythonhosted.org/packages/31/28/7b49246d7825c61e1a14306ab050e8eec48fcf5b009b19c8f6ea4e312467/aiohttp-3.7.4.post0-cp36-cp36m-manylinux2014_x86_64.whl'
+content-id = 'QmfSh35YZtjuSCLCw2UL6DpVwaZJFgmqYFbhQ2pwDCWvxe'
+requires-python = '>=3.6'
+extras = ['speedups']
+dependencies = [
+	'attrs>=17.3.0',
+	'chardet<5.0,>=2.0',
+	'multidict<7.0,>=4.5',
+	'async-timeout<4.0,>=3.0',
+	'yarl<2.0,>=1.0',
+	'typing-extensions>=3.6.5',
+	'idna-ssl>=1.0; python_version < "3.7"',
+	'aiodns; extra == "speedups"',
+	'brotlipy; extra == "speedups"',
+	'cchardet; extra == "speedups"',
+]
