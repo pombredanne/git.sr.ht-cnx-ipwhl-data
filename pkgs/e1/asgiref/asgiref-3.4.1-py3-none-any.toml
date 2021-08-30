@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/fe/66/577f32b54c50dcd8dec38447258e82ed327ecb86820d67ae7b3dea784f13/asgiref-3.4.1-py3-none-any.whl'
+content-id = 'QmXAMeexoa5DtGGXyaBDzcuDAySooxRpaUD6gyuGiJvgXu'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'typing-extensions; python_version < "3.8"',
+	'pytest; extra == "tests"',
+	'pytest-asyncio; extra == "tests"',
+	'mypy>=0.800; extra == "tests"',
+]
