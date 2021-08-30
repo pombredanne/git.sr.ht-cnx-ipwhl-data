@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/bb/7e/9b3683a42e3aa7cba8364149fd12be1a17c8d0b5cf3f587320b86e5e0248/setproctitle-1.2.2-cp36-cp36m-manylinux1_x86_64.whl'
+content-id = 'Qmc2A71E4arbCeyNYeTwYivWQSAJgzmdMouV3CgMVUrHYU'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'pytest<6.2,>=6.1; extra == "test"',
+]
