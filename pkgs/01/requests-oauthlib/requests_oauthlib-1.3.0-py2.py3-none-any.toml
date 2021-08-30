@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/a3/12/b92740d845ab62ea4edf04d2f4164d82532b5a0b03836d4d4e71c6f3d379/requests_oauthlib-1.3.0-py2.py3-none-any.whl'
+content-id = 'Qmcw8VfqDGZW7AwsXtXfDaWVYtFUiqn5eKvX5jD8FVCz8Z'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7'
+extras = ['rsa']
+dependencies = [
+	'oauthlib>=3.0.0',
+	'requests>=2.0.0',
+	'oauthlib[signedtoken]>=3.0.0; extra == "rsa"',
+]
