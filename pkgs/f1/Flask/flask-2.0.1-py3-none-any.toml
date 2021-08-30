@@ -1,0 +1,12 @@
+source = 'https://files.pythonhosted.org/packages/54/4f/1b294c1a4ab7b2ad5ca5fc4a9a65a22ef1ac48be126289d97668852d4ab3/Flask-2.0.1-py3-none-any.whl'
+content-id = 'QmSeLE9y8cSAExw1T5cnVFaDvfVqCyNaFKsNFsdYtTfQaM'
+requires-python = '>=3.6'
+extras = ['async', 'dotenv']
+dependencies = [
+	'Werkzeug>=2.0',
+	'Jinja2>=3.0',
+	'itsdangerous>=2.0',
+	'click>=7.1.2',
+	'asgiref>=3.2; extra == "async"',
+	'python-dotenv; extra == "dotenv"',
+]
