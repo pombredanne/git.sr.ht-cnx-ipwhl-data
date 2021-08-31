@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/50/b8/e789e45b9b9c2db75e9d9e6ceb022c8d1d7e49b2c085ce8c05600f90a96b/locket-0.2.1-py2.py3-none-any.whl'
+content-id = 'QmTv4ZroFGGapGbpm3CE5kPZK6RkfCxJSdEXDoMioZggKE'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7'
+extras = []
+dependencies = []
