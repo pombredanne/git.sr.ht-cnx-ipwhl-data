@@ -1,0 +1,13 @@
+source = 'https://files.pythonhosted.org/packages/e8/cc/6c96bfb3d3cf4c3bdedfa6b46503223f4c2a4fa388377697e0f8082a4fed/msrest-0.6.21-py2.py3-none-any.whl'
+content-id = 'QmZRZv58fvgKLLVTqwA1HDWFiC5q4DYFXsDzznVomqFamy'
+extras = ['async']
+dependencies = [
+	'requests~=2.16',
+	'requests-oauthlib>=0.5.0',
+	'isodate>=0.6.0',
+	'certifi>=2017.4.17',
+	'enum34>=1.0.4; python_version < "3.4"',
+	'typing; python_version < "3.5"',
+	'aiohttp>=3.0; python_version >= "3.5" and extra == "async"',
+	'aiodns; python_version >= "3.5" and extra == "async"',
+]
