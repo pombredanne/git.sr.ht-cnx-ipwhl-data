@@ -1,0 +1,13 @@
+source = 'https://files.pythonhosted.org/packages/b2/5a/f988909dfed18c1ac42ad8d9e611e6c5657e270aa6eb68559985dbb69c13/docker-5.0.0-py2.py3-none-any.whl'
+content-id = 'Qmb4M2GWPPYWigiyHq7KyFXxctgdZi4H2Xoqq6xWLP1jbj'
+requires-python = '>=3.6'
+extras = ['tls']
+dependencies = [
+	'websocket-client>=0.32.0',
+	'requests!=2.18.0,>=2.14.2',
+	'pywin32==227; sys_platform == "win32"',
+	'paramiko>=2.4.2; extra == "ssh"',
+	'pyOpenSSL>=17.5.0; extra == "tls"',
+	'cryptography>=3.4.7; extra == "tls"',
+	'idna>=2.0.0; extra == "tls"',
+]
