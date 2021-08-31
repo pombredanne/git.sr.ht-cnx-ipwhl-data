@@ -1,0 +1,12 @@
+source = 'https://files.pythonhosted.org/packages/01/e5/ff9609a85f71cd41d759307b9d385ace34d29378e4750d0a0240aad535cb/azure_storage_blob-12.8.1-py2.py3-none-any.whl'
+content-id = 'QmYRntyTMxtDS6L9BYo3voxNw5Ri46wtn2f4tmUm4QsHQu'
+extras = []
+dependencies = [
+	'azure-core<2.0.0,>=1.10.0',
+	'msrest>=0.6.18',
+	'cryptography>=2.1.4',
+	'futures; python_version < "3.0"',
+	'azure-storage-nspkg<4.0.0,>=3.0.0; python_version < "3.0"',
+	'enum34>=1.0.4; python_version < "3.4"',
+	'typing; python_version < "3.5"',
+]
