@@ -1,0 +1,14 @@
+source = 'https://files.pythonhosted.org/packages/b0/e2/940b73a4923b8659103bbabbf35d4fdeb11374f6bd47234f724238a6023b/google_auth-2.0.1-py2.py3-none-any.whl'
+content-id = 'QmaBv7LNWcnqrzYoqtusEvf6kWmi5erBS199NacpjnbZBd'
+requires-python = '>=3.6'
+extras = ['aiohttp', 'pyopenssl', 'reauth']
+dependencies = [
+	'cachetools<5.0,>=2.0.0',
+	'pyasn1-modules>=0.2.1',
+	'rsa<5,>=3.1.4',
+	'setuptools>=40.3.0',
+	'aiohttp<4.0.0dev,>=3.6.2; extra == "aiohttp"',
+	'requests<3.0.0dev,>=2.20.0; extra == "aiohttp"',
+	'pyopenssl>=20.0.0; extra == "pyopenssl"',
+	'pyu2f>=0.1.5; extra == "reauth"',
+]
