@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/42/b8/4ad3e423105d26a0c5eea54320aed57b7be060d1cd9faea53da713b408c6/google_cloud_core-2.0.0-py2.py3-none-any.whl'
+content-id = 'QmX5orL39JiehHrWc8erPm6A51HG6spZiEMkkDAntdqkeJ'
+requires-python = '>=3.6'
+extras = ['grpc']
+dependencies = [
+	'google-api-core<3.0.0dev,>=1.21.0',
+	'google-auth<3.0dev,>=1.24.0',
+	'grpcio<2.0dev,>=1.8.2; extra == "grpc"',
+]
