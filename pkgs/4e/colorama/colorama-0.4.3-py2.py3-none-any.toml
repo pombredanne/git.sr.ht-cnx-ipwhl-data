@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/c9/dc/45cdef1b4d119eb96316b3117e6d5708a08029992b2fee2c143c7a0a5cc5/colorama-0.4.3-py2.py3-none-any.whl'
+content-id = 'QmehbLFsS3nkbBRRyH5PQaYjQzhetdDom3AYC4jh6H6jA1'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
+extras = []
+dependencies = []
