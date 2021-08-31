@@ -1,0 +1,6 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/577564/f312257d5f8cec87/pyu2f-0.1.5-py3-none-any.whl'
+content-id = 'QmYu1WrAmehwoV6qHGgLjPB3AGcdkkpAYvWPAttzRB2qSi'
+extras = []
+dependencies = [
+	'six',
+]
