@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/91/d7/a830fcc77f79f6d3c476ab86895dcc4f3c5123962ed02a82dc51f221dfa9/pooch-1.5.1-py3-none-any.whl'
+content-id = 'QmYN98HBRdjLCrYtKoeyb1Nu9LxwNrQapJ2jMoXYebi481'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'requests',
+	'packaging',
+	'appdirs',
+]
