@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/ba/db/721e2f3f32339080153995d16e46edc3a7657251f167ddcb9327e632783b/google_auth_httplib2-0.1.0-py2.py3-none-any.whl'
+content-id = 'QmQYNscqtU5choj3xz5QeTxvQAzkKWTkAn5VkbCZjDBhfK'
+extras = []
+dependencies = [
+	'google-auth',
+	'httplib2>=0.15.0',
+	'six',
+]
