@@ -1,0 +1,13 @@
+source = 'https://files.pythonhosted.org/packages/b7/9e/9dc74d330c07866d72f62d553fe8bdbe32786ff247a14e68b5659963e6bd/argcomplete-1.12.3-py2.py3-none-any.whl'
+content-id = 'QmVPS4EVTz3KRzVS5XSmDeXCf9xLWETByBx3YzGseoUXLh'
+extras = ['test']
+dependencies = [
+	'importlib-metadata<5,>=0.23; python_version == "2.7"',
+	'importlib-metadata<5,>=0.23; python_version == "3.5"',
+	'importlib-metadata<5,>=0.23; python_version == "3.6"',
+	'importlib-metadata<5,>=0.23; python_version == "3.7"',
+	'coverage; extra == "test"',
+	'flake8; extra == "test"',
+	'pexpect; extra == "test"',
+	'wheel; extra == "test"',
+]
