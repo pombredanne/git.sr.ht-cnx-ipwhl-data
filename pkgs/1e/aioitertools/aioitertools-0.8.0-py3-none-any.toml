@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/bf/ef/fd35e61a554489a4438cc34aadc95bdc4987f513b56624d78d8b22f08516/aioitertools-0.8.0-py3-none-any.whl'
+content-id = 'QmV3UGX8eYGx3Q5mg1sZTCiK84q7hQYPn5mJ8TL3UbJ3Nn'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'typing_extensions>=3.7; python_version < "3.8"',
+]
