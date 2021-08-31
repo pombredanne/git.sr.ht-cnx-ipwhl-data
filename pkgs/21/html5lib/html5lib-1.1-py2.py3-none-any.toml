@@ -1,0 +1,14 @@
+source = 'https://files.pythonhosted.org/packages/6c/dd/a834df6482147d48e225a49515aabc28974ad5a4ca3215c18a882565b028/html5lib-1.1-py2.py3-none-any.whl'
+content-id = 'QmaodkrPwy4EmLGG52RKumpvTh5gfmE81KjqdwiJ6jG2Yj'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
+extras = ['all', 'chardet', 'genshi', 'lxml']
+dependencies = [
+	'six>=1.9',
+	'webencodings',
+	'genshi; extra == "all"',
+	'chardet>=2.2; extra == "all"',
+	'lxml; platform_python_implementation == "CPython" and extra == "all"',
+	'chardet>=2.2; extra == "chardet"',
+	'genshi; extra == "genshi"',
+	'lxml; platform_python_implementation == "CPython" and extra == "lxml"',
+]
