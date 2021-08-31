@@ -1,7 +1,9 @@
 source = 'https://files.pythonhosted.org/packages/27/62/ece69083355a00509220fce44763d80ff09525d5ee9341562b90ad17f638/pandas-1.3.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl'
 content-id = 'QmW6tBBQGaGSPM1uNq7e1hQdfz84gcgR6egSne2bTmUnrJ'
 requires-python = '>=3.7.1'
-extras = []
+extras = [
+	#'test'
+]
 dependencies = [
 	'numpy>=1.17.3',
 	'python-dateutil>=2.7.3',

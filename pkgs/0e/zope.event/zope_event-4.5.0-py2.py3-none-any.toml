@@ -1,6 +1,8 @@
 source = 'https://files.pythonhosted.org/packages/9e/85/b45408c64f3b888976f1d5b37eed8d746b8d5729a66a49ec846fda27d371/zope.event-4.5.0-py2.py3-none-any.whl'
 content-id = 'QmZvRaXT88cZ6yV1txGatWdWfnBnV1zkFRTfskYmNELYXX'
-extras = []
+extras = [
+	#'docs', 'test'
+]
 dependencies = [
 	'setuptools',
 	'Sphinx; extra == "docs"',

@@ -1,7 +1,9 @@
 source = 'https://files.pythonhosted.org/packages/40/76/86f886e750b81a4357b6ed606b2bcf0ce6d6c27ad3c09ebf63ed674fc86e/pytest-6.2.5-py3-none-any.whl'
 content-id = 'QmRd1PqTMDb4sMQHdJoQYU6gFgavHYFGoscrBUTG2LwxNK'
 requires-python = '>=3.6'
-extras = []
+extras = [
+	'testing'
+]
 dependencies = [
 	'attrs>=19.2.0',
 	'iniconfig',

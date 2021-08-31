@@ -1,6 +1,8 @@
 source = 'https://files.pythonhosted.org/packages/fb/84/6ee650fc479ecee8f143d20fdb7526595ef8c41382d24cc380c4c08e1aac/flake8_builtins-1.5.3-py2.py3-none-any.whl'
 content-id = 'Qma4UgWGasFx6fvJxRQaf9WX2ebXy66nBiiTQ3n6VxCPnK'
-extras = []
+extras = [
+	#'test'
+]
 dependencies = [
 	'flake8',
 	'coverage; extra == "test"',

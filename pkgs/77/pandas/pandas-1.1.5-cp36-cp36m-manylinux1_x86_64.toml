@@ -1,7 +1,9 @@
 source = 'https://files.pythonhosted.org/packages/c3/e2/00cacecafbab071c787019f00ad84ca3185952f6bb9bca9550ed83870d4d/pandas-1.1.5-cp36-cp36m-manylinux1_x86_64.whl'
 content-id = 'QmYxFs1ki3hFCbJvRshK7pPRg8iUQjL7fpDLZALvznqjQY'
 requires-python = '>=3.6.1'
-extras = []
+extras = [
+	#'test'
+]
 dependencies = [
 	'python-dateutil>=2.7.3',
 	'pytz>=2017.2',

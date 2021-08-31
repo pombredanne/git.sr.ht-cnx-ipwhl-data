@@ -1,7 +1,10 @@
 source = 'https://files.pythonhosted.org/packages/bc/ea/96f1fc6bab19e71e1627944ad474532f6357546d5de0ef9eb98de8eb7596/greenlet-1.1.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl'
 content-id = 'QmaV8sFsBMsLjJMDkX3xbZJ8rehefP8TKh1mGiBztmXD9o'
 requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
-extras = ['test']
+extras = [
+	#'docs',
+	'test'
+]
 dependencies = [
 	'Sphinx; extra == "docs"',
 ]

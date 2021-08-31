@@ -1,7 +1,9 @@
 source = 'https://files.pythonhosted.org/packages/f2/6c/2f3b930513bb971172ffceb63cf4e910944e57451724e69b1dec97cfefa6/importlib_resources-5.2.2-py3-none-any.whl'
 content-id = 'QmZ3qxnq6QLPhs8o7WhVq6TDoSq6aJXM6RgbaBdoHsf3X6'
 requires-python = '>=3.6'
-extras = []
+extras = [
+	#'docs', 'testing'
+]
 dependencies = [
 	'zipp>=3.1.0; python_version < "3.10"',
 	'sphinx; extra == "docs"',

@@ -1,7 +1,9 @@
 source = 'https://files.pythonhosted.org/packages/0c/cd/1e156227cad9f599524eb10af62a2362f872910a49402dbd2bea2dedc91c/backports.entry_points_selectable-1.1.0-py2.py3-none-any.whl'
 content-id = 'QmadvBkF8GiPuEUN3zwTAPyy5oM4wpg1GZvtbb1hxV7hjb'
 requires-python = '>=2.7'
-extras = []
+extras = [
+	#'docs', 'testing'
+]
 dependencies = [
 	'importlib-metadata; python_version < "3.8"',
 	'sphinx; extra == "docs"',

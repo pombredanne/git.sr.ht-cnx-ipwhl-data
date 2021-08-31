@@ -1,7 +1,10 @@
 source = 'https://files.pythonhosted.org/packages/27/26/90d8859c05c2834a5f4441c65e1e86a36bbe1b0bbb48cfa3525f4814721b/gevent-21.8.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl'
 content-id = 'QmaVmAZUtYYHNrxmJgLeWNx1a2XZPLsZYLkokK1quWk5AG'
 requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5,>=2.7'
-extras = ['dnspython', 'events', 'monitor', 'recommended']
+extras = [
+	#'docs', 'test'
+	'dnspython', 'events', 'monitor', 'recommended'
+]
 dependencies = [
 	'zope.event',
 	'zope.interface',

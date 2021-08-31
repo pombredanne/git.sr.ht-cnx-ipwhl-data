@@ -1,7 +1,9 @@
 source = 'https://files.pythonhosted.org/packages/9e/01/f38e2ff29715251cf25532b9082a1589ab7e4f571ced434f98d0139336dc/pluggy-1.0.0-py2.py3-none-any.whl'
 content-id = 'QmY9viYMyGmgWCfDCMtL1sJ1ACmdwh4218P89or7ziwkiJ'
 requires-python = '>=3.6'
-extras = []
+extras = [
+	#'dev', 'testing'
+]
 dependencies = [
 	'importlib-metadata>=0.12; python_version < "3.8"',
 	'pre-commit; extra == "dev"',
