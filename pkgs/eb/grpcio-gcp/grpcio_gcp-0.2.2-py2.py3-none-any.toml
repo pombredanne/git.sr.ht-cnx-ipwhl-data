@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/ba/83/1f1095815be0de19102df41e250ebbd7dae97d7d14e22c18da07ed5ed9d4/grpcio_gcp-0.2.2-py2.py3-none-any.whl'
+content-id = 'QmYU2dMNETp5QqC2z5vrAXo2nC4ebsbnJEWpDiyTgMp8qF'
+extras = []
+dependencies = [
+	'grpcio>=1.12.0',
+]
