@@ -1,0 +1,6 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/577557/5c3b5f66e9d06ce0/contextvars-2.4-py3-none-any.whl'
+content-id = 'QmSSX9eZp1k8PEA8JUkqi4JCufYkakqdAENdeJ3Pd2aEzE'
+extras = []
+dependencies = [
+	'immutables>=0.9',
+]
