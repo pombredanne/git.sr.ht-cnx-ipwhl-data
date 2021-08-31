@@ -3,5 +3,5 @@ content-id = 'QmStkSDYWTysM6E9cXwf1f5GZP9dMJAt5VfhdHojH8PpKu'
 requires-python = '>=3.6'
 extras = []
 dependencies = [
-	#'pytest<6.2,>=6.1; extra == "test"',
+	'pytest<6.2,>=6.1; extra == "test"',
 ]
