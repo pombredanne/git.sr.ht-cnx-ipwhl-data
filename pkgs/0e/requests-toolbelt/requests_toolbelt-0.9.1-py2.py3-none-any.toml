@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/60/ef/7681134338fc097acef8d9b2f8abe0458e4d87559c689a8c306d0957ece5/requests_toolbelt-0.9.1-py2.py3-none-any.whl'
+content-id = 'QmeyWVXXsGu1JFfQjaLUq3D2KhEA4NT8BMUswFAYuBzeKy'
+extras = []
+dependencies = [
+	'requests<3.0.0,>=2.0.1',
+]
