@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/b3/26/334b76000f0c09a61afb23c948d2f085bd4247cb30b252211e3af5833eae/stone-3.2.1-py3-none-any.whl'
+content-id = 'QmS1aGmKWsRAcDFfX5sPiyXWuyNZNUPcURGZCvZdPvc2P4'
+extras = []
+dependencies = [
+	'ply>=3.4',
+	'six>=1.3.0',
+]
