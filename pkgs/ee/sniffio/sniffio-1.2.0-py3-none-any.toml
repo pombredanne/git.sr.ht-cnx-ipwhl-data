@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/52/b0/7b2e028b63d092804b6794595871f936aafa5e9322dcaaad50ebf67445b3/sniffio-1.2.0-py3-none-any.whl'
+content-id = 'QmWfs9BKdUEpmBCWAurecG1jaRFubE2E7ku19k3zhXNcuh'
+requires-python = '>=3.5'
+extras = []
+dependencies = [
+	'contextvars>=2.1; python_version < "3.7"',
+]
