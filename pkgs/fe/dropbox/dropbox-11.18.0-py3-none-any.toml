@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/50/ba/5bd26226e22c00cee1b981d5423accc858a750b6fb0ca44db1105dc21fe9/dropbox-11.18.0-py3-none-any.whl'
+content-id = 'QmTR3RNCzyRVYgP4C7ueJmw5Q6DJqbKhXL7HRfQYcvBEyi'
+extras = []
+dependencies = [
+	'requests>=2.16.2',
+	'six>=1.12.0',
+	'stone>=2.*',
+]
