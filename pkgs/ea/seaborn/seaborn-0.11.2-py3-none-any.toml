@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/10/5b/0479d7d845b5ba410ca702ffcd7f2cd95a14a4dfff1fde2637802b258b9b/seaborn-0.11.2-py3-none-any.whl'
+content-id = 'QmU8XsJ9pNi4tTesJMZNzutsQV9158o8ejwoQHMexZmsib'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'numpy>=1.15',
+	'scipy>=1.0',
+	'pandas>=0.23',
+	'matplotlib>=2.2',
+]
