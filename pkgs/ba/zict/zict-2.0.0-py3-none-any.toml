@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/5a/65/0f743c740c30cace984ef8ff96fd1e991083fa884900a8aad3efff3252b9/zict-2.0.0-py3-none-any.whl'
+content-id = 'QmcXnAUEX7WcJro6cusKsHRYrEyLnGy8jiKjwgVixw9Fjm'
+extras = []
+dependencies = [
+	'heapdict',
+]
