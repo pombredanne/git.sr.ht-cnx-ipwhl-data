@@ -1,0 +1,15 @@
+source = 'https://files.pythonhosted.org/packages/b4/5e/19075a55f9a44ac665cb3e9261622ca278c58252eba64d9c3f334245c00b/google_api_core-2.0.0-py2.py3-none-any.whl'
+content-id = 'QmYAJnScXhh2NtMzznFUpqpQbpq1Ra3Rk3Wy3VikhJUbSt'
+requires-python = '>=3.6'
+extras = ['grpc', 'grpcgcp', 'grpcio-gcp']
+dependencies = [
+	'googleapis-common-protos<2.0dev,>=1.6.0',
+	'protobuf>=3.12.0',
+	'google-auth<3.0dev,>=1.25.0',
+	'requests<3.0.0dev,>=2.18.0',
+	'setuptools>=40.3.0',
+	'futures>=3.2.0; python_version < "3.2"',
+	'grpcio<2.0dev,>=1.33.2; extra == "grpc"',
+	'grpcio-gcp>=0.2.2; extra == "grpcgcp"',
+	'grpcio-gcp>=0.2.2; extra == "grpcio-gcp"',
+]
