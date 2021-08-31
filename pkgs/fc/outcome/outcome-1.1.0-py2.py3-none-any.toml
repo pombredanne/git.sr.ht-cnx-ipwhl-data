@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/0d/bb/f60ce97b304b1979d1fef96b6517af47b9bb026770b1f198b6e921b5edf5/outcome-1.1.0-py2.py3-none-any.whl'
+content-id = 'QmQPZkx1gGFv5ny8NjUkDTL8MzPwot4YiPS4qeqQEd6npJ'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'attrs>=19.2.0',
+]
