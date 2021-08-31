@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/e7/e3/898487e5dbeb612054cf2e0c188463acb358167fef749c53c8bb8918cea1/cloudpickle-1.6.0-py3-none-any.whl'
+content-id = 'Qmb4htXaL3piKLT31KThzBirtp2YRRnmDTJXvoegroBdL5'
+requires-python = '>=3.5'
+extras = []
+dependencies = []
