@@ -10,6 +10,7 @@ tasks:
       ipfs init
       systemctl --user enable --now ipfs.service
       ipwhl-utils/.pinata.py
+      ipfs ls $(basename $PIP_INDEX_URL) | wc # warmup
       python -m pip install --no-warn-script-location pip
       python -m pip install packaging toml
   - name: ipwhl-utils/nameck.py ipwhl-data/pkgs
@@ -25,6 +26,7 @@ tasks:
         done | ipwhl-utils/declck.py
   - deps: ipwhl-utils/depsck.py ipwhl-data/pkgs < ipwhl-data/SUPPORTED
 environment:
+  PIP_DEFAULT_TIMEOUT: 60
   PIP_DISABLE_PIP_VERSION_CHECK: 1
   PIP_FORCE_REINSTALL: 1
   PIP_INDEX_URL: >-
