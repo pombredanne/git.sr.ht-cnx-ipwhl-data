@@ -1,0 +1,11 @@
+source = 'https://files.pythonhosted.org/packages/eb/93/2e90d574c57aa92cce5088178a1ac74f9743c6ed0a23a05d520afcb08b82/immutables-0.16-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl'
+content-id = 'QmdQfeHptZTPaD1s4yPWePuqYCW2JJwonRbBYNkDZf41Jt'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'typing-extensions>=3.7.4.3; python_version < "3.8"',
+	'flake8~=3.8.4; extra == "test"',
+	'pycodestyle~=2.6.0; extra == "test"',
+	'mypy>=0.910; extra == "test"',
+	'pytest~=6.2.4; extra == "test"',
+]
