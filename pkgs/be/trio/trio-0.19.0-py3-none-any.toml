@@ -1,0 +1,14 @@
+source = 'https://files.pythonhosted.org/packages/35/c3/5a4befc3812b3b606e0ae9338bfdd02da3ad0a90df27dc66c37315e94f5c/trio-0.19.0-py3-none-any.whl'
+content-id = 'QmVYw9VCGcqnyHSvqrskP9bKBTrzifStxVxSsZV84gPiNC'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'attrs>=19.2.0',
+	'sortedcontainers',
+	'async-generator>=1.9',
+	'idna',
+	'outcome',
+	'sniffio',
+	'cffi>=1.14; os_name == "nt" and implementation_name != "pypy"',
+	'contextvars>=2.1; python_version < "3.7"',
+]
