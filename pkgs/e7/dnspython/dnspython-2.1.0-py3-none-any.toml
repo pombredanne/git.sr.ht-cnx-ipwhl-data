@@ -1,0 +1,14 @@
+source = 'https://files.pythonhosted.org/packages/f5/2d/ae9e172b4e5e72fa4b3cfc2517f38b602cc9ba31355f9669c502b4e9c458/dnspython-2.1.0-py3-none-any.whl'
+content-id = 'QmamEbnE5txkCAVYvyKkdFpR6oE7x3WvfjEtiuoJanpXHv'
+requires-python = '>=3.6'
+extras = ['dnssec', 'doh', 'idna', 'curio', 'trio']
+dependencies = [
+	'cryptography>=2.6; extra == "dnssec"',
+	'requests; extra == "doh"',
+	'requests-toolbelt; extra == "doh"',
+	'idna>=2.1; extra == "idna"',
+	'curio>=1.2; extra == "curio"',
+	'sniffio>=1.1; extra == "curio"',
+	'trio>=0.14.0; extra == "trio"',
+	'sniffio>=1.1; extra == "trio"',
+]
