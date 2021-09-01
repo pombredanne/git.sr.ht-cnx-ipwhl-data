@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/9a/41/220f49aaea88bc6fa6cba8d05ecf24676326156c23b991e80b3f2fc24c77/pickleshare-0.7.5-py2.py3-none-any.whl'
+content-id = 'QmZjiTkXtiyPmwgr7qigqrng6zBEmQuxe4rANxEPsNQiRq'
+extras = []
+dependencies = [
+	'pathlib2; python_version in "2.6 2.7 3.2 3.3"',
+]
