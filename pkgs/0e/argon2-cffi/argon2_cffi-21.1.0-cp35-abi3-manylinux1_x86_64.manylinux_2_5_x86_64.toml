@@ -1,0 +1,24 @@
+source = 'https://files.pythonhosted.org/packages/50/85/fa444619ba3709b8969a75bf051375261801d267bb69d6bd1764dabe528f/argon2_cffi-21.1.0-cp35-abi3-manylinux_2_5_x86_64.manylinux1_x86_64.whl'
+content-id = 'QmPKsduwam2QTwAGzSPxRMaArhc65fFqWm931oW7BHDLpr'
+requires-python = '>=3.5'
+extras = [
+	# Ignore development extras
+	# 'dev',
+	# 'docs',
+	# 'tests',
+]
+dependencies = [
+	'cffi>=1.0.0',
+	'coverage[toml]>=5.0.2; extra == "dev"',
+	'hypothesis; extra == "dev"',
+	'pytest; extra == "dev"',
+	'sphinx; extra == "dev"',
+	'furo; extra == "dev"',
+	'wheel; extra == "dev"',
+	'pre-commit; extra == "dev"',
+	'sphinx; extra == "docs"',
+	'furo; extra == "docs"',
+	'coverage[toml]>=5.0.2; extra == "tests"',
+	'hypothesis; extra == "tests"',
+	'pytest; extra == "tests"',
+]
