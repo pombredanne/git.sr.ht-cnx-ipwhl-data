@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/49/8d/58008a9a86075827f99aa8bb75d8db515bb9c34654f95e647cda31987db7/adal-1.2.7-py2.py3-none-any.whl'
+content-id = 'QmSUZ66D8eqLTpoxYxxheUr7KatP8yE8R78kcwkgarLgxW'
+extras = []
+dependencies = [
+	'PyJWT<3,>=1.0.0',
+	'requests<3,>=2.0.0',
+	'python-dateutil<3,>=2.1.0',
+	'cryptography>=1.1.0',
+]
