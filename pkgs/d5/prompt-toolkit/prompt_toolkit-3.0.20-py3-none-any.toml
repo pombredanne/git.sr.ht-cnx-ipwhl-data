@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/c6/37/ec72228971dbaf191243b8ee383c6a3834b5cde23daab066dfbfbbd5438b/prompt_toolkit-3.0.20-py3-none-any.whl'
+content-id = 'QmWf97f7RJvvELA3u1WPzbXGy47H157kMr6UvumP9btzd1'
+requires-python = '>=3.6.2'
+extras = []
+dependencies = [
+	'wcwidth',
+]
