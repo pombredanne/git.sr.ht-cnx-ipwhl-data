@@ -1,0 +1,17 @@
+source = 'https://files.pythonhosted.org/packages/e3/52/151c815a486290608e4dc6699a0cfd74141dc5191f8fe928e7d1b28b569e/lz4-3.1.3-cp37-cp37m-manylinux2010_x86_64.whl'
+content-id = 'QmX4SjU77zPkstyK4cVL3MuiRnKXQ8PpNvaRtihu6TZJsv'
+requires-python = '>=3.5'
+extras = [
+	# Ignore development extras
+	# 'docs',
+	# 'flake8',
+	# 'tests',
+]
+dependencies = [
+	'sphinx>=1.6.0; extra == "docs"',
+	'sphinx-bootstrap-theme; extra == "docs"',
+	'flake8; extra == "flake8"',
+	'pytest!=3.3.0; extra == "tests"',
+	'psutil; extra == "tests"',
+	'pytest-cov; extra == "tests"',
+]
