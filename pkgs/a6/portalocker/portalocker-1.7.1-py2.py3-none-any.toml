@@ -1,0 +1,15 @@
+source = 'https://files.pythonhosted.org/packages/3b/e7/ceef002a300a98a208232fab593183249b6964b306ee7dabb29908419cca/portalocker-1.7.1-py2.py3-none-any.whl'
+content-id = 'QmRgoBRDdofQvqQYmadeByT3oz1CKtS3KgUxtgEKYaYcPb'
+extras = [
+	# Ignore development extras
+	# 'docs',
+	# 'tests',
+]
+dependencies = [
+	'pywin32!=226; platform_system == "Windows"',
+	'sphinx>=1.7.1; extra == "docs"',
+	'pytest>=4.6.9; extra == "tests"',
+	'pytest-cov>=2.8.1; extra == "tests"',
+	'sphinx>=1.8.5; extra == "tests"',
+	'pytest-flake8>=1.0.5; extra == "tests"',
+]
