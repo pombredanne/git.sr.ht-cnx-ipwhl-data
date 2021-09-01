@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/38/4c/466298b114eea62f300dbef98cc2c33c6cbc439f1f71bc199c674ae23c2c/traitlets-5.1.0-py3-none-any.whl'
+content-id = 'QmYrdgrk1GzyekdpMLfXBxvvSi4fq3u3tvrsf8eFZBJ3Np'
+requires-python = '>=3.7'
+extras = ['test']
+dependencies = [
+	'pytest; extra == "test"',
+]
