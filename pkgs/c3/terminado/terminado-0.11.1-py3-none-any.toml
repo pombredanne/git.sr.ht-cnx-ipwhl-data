@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/5b/a8/0c428a9a2432b611566b0309d1a50a051f4ec965ce274528c4ba6b6c0205/terminado-0.11.1-py3-none-any.whl'
+content-id = 'QmbGN7a2fdA7jNNu2P3JyXZyvZckpkzksBxLYHanSqFPLY'
+requires-python = '>=3.6'
+extras = ['test']
+dependencies = [
+	'tornado>=4',
+	'ptyprocess; os_name != "nt"',
+	'pywinpty>=1.1.0; os_name == "nt"',
+	'pytest; extra == "test"',
+]
