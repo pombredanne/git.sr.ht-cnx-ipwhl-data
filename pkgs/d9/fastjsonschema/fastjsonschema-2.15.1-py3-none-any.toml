@@ -1,0 +1,16 @@
+source = 'https://files.pythonhosted.org/packages/d1/fb/ea090e917b18320f79be31d754bbe496b715175e865603cfce1eaed2e774/fastjsonschema-2.15.1-py3-none-any.whl'
+content-id = 'QmPfign4oJy5Q1qKc2qpcevooB95U7GDuyeTFLq3CqNjNJ'
+extras = [
+	# Ignore development extra
+	# 'devel',
+]
+dependencies = [
+	'colorama; extra == "devel"',
+	'jsonschema; extra == "devel"',
+	'json-spec; extra == "devel"',
+	'pylint; extra == "devel"',
+	'pytest; extra == "devel"',
+	'pytest-benchmark; extra == "devel"',
+	'pytest-cache; extra == "devel"',
+	'validictory; extra == "devel"',
+]
