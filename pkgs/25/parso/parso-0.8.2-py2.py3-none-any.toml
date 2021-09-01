@@ -1,0 +1,14 @@
+source = 'https://files.pythonhosted.org/packages/a9/c4/d5476373088c120ffed82f34c74b266ccae31a68d665b837354d4d8dc8be/parso-0.8.2-py2.py3-none-any.whl'
+content-id = 'QmbEpfuw9qGwrzY9E6aC2yDJB5TRfoy7hGUz1zETckARAz'
+requires-python = '>=3.6'
+extras = [
+	# Ignore development extras
+	# 'qa',
+	# 'testing',
+]
+dependencies = [
+	'flake8==3.8.3; extra == "qa"',
+	'mypy==0.782; extra == "qa"',
+	'docopt; extra == "testing"',
+	'pytest<6.0.0; extra == "testing"',
+]
