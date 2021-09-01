@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/ac/87/5422f6d056bfbded920ccf380a65de3713a3b95a95ba2255be2a3fb4f464/testpath-0.5.0-py3-none-any.whl'
+content-id = 'QmY5prtprmHjY538jFgtrXSTv4ttC4WfDA2wJJceSyLrND'
+requires-python = '>=3.5'
+extras = ['test']
+dependencies = [
+	'pytest; extra == "test"',
+	'pathlib2; extra == "test" and python_version == "2.7"',
+]
