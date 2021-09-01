@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/f8/cd/2fad4add11c8837e72f50a30e2bda30e67a10d70462f826b291443a55c7d/tblib-1.7.0-py2.py3-none-any.whl'
+content-id = 'QmR7zQZWevjRSYHAFpm7g9VjEF7H14hAtw2x4QtRA2GAov'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
+extras = []
+dependencies = []
