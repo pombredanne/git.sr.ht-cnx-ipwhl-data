@@ -1,0 +1,20 @@
+source = 'https://files.pythonhosted.org/packages/e7/c7/dd50978c637a7af8234909277c4e7ec1b71310c13fb3135f3c8f5b6e045f/nbformat-5.1.3-py3-none-any.whl'
+content-id = 'QmQepFCafwURcnnMd17PfSTb4irM4zJsueQdHZeXf7scXt'
+requires-python = '>=3.5'
+extras = [
+	'fast',
+	# Ignore development extra
+	# 'test',
+]
+dependencies = [
+	'ipython-genutils',
+	'traitlets>=4.1',
+	'jsonschema!=2.5.0,>=2.4',
+	'jupyter-core',
+	'fastjsonschema; extra == "fast"',
+	'check-manifest; extra == "test"',
+	'fastjsonschema; extra == "test"',
+	'testpath; extra == "test"',
+	'pytest; extra == "test"',
+	'pytest-cov; extra == "test"',
+]
