@@ -1,0 +1,12 @@
+source = 'https://files.pythonhosted.org/packages/45/f2/02c13cb4be880681c63890955fb87b2eb072393ce54102af66fdb8c10088/azure_identity-1.6.1-py2.py3-none-any.whl'
+content-id = 'QmawHPEEV4KMKUEhVoLzDLTEC6ypaQPVmu4oHqBoubeyLm'
+extras = []
+dependencies = [
+	'azure-core<2.0.0,>=1.0.0',
+	'cryptography>=2.1.4',
+	'msal<2.0.0,>=1.7.0',
+	'msal-extensions~=0.3.0',
+	'six>=1.12.0',
+	'azure-nspkg; python_version < "3.0"',
+	'typing; python_version < "3.5"',
+]
