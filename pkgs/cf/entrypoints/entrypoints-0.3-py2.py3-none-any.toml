@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/ac/c6/44694103f8c221443ee6b0041f69e2740d89a25641e62fb4f2ee568f2f9c/entrypoints-0.3-py2.py3-none-any.whl'
+content-id = 'QmUEe7gyfFa5VSVHGUJ6aZcfezY2WGRRDr3QMUD6jwHume'
+requires-python = '>=2.7'
+extras = ['.none']
+dependencies = [
+	'configparser>=3.5; python_version == "2.7"',
+]
