@@ -1,0 +1,11 @@
+source = 'https://files.pythonhosted.org/packages/6d/8d/740066a475b4a98c752c47096501376c3cd385beb798bd2a2cb47f7d8b69/azure_datalake_store-0.0.52-py2.py3-none-any.whl'
+content-id = 'QmegDzd7vC1wXBBHgVa1fPAwMnEtnHXaDCZ7ag58ZdAj8J'
+extras = []
+dependencies = [
+	'cffi',
+	'adal>=0.4.2',
+	'requests>=2.20.0',
+	'azure-nspkg; python_version < "3.0"',
+	'pathlib2; python_version < "3.4"',
+	'futures; python_version <= "2.7"',
+]
