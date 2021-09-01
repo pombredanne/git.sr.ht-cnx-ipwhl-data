@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/49/cb/c833ffa0f97c3098b146ac19bb2266c2d84b2119ffff83fdf001bb59d3ae/msal_extensions-0.3.0-py2.py3-none-any.whl'
+content-id = 'QmZtEfZJ7XJ7zfjwSf8ZhdfqVJ44Rba4iUujt3WKsRi6vA'
+extras = []
+dependencies = [
+	'msal<2.0.0,>=0.4.1',
+	'portalocker~=1.0; platform_system != "Windows"',
+	'portalocker~=1.6; platform_system == "Windows"',
+	'pathlib2; python_version < "3.0"',
+]
