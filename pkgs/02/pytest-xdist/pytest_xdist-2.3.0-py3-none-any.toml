@@ -1,0 +1,11 @@
+source = 'https://files.pythonhosted.org/packages/6b/fb/8908bb19c3e073b43727db01d4b488cb75fdc00f76ee9b703d23c7119738/pytest_xdist-2.3.0-py3-none-any.whl'
+content-id = 'QmWxGTeYVa689yyyhkidsokrzTjvxw897ebiBbrNbE8v5x'
+requires-python = '>=3.6'
+extras = ['psutil', 'testing']
+dependencies = [
+	'execnet>=1.1',
+	'pytest>=6.0.0',
+	'pytest-forked',
+	'psutil>=3.0; extra == "psutil"',
+	'filelock; extra == "testing"',
+]
