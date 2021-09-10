@@ -1,0 +1,12 @@
+source = 'https://files.pythonhosted.org/packages/18/3d/650b220c094d7dc6243cb5c1505e25c57ab8c445fb9b62dc5f3c614c46fb/lingua-4.14-py2.py3-none-any.whl'
+content-id = 'QmXoL1E82nnvo1tmRbvnrsnm9TqpF7jEsftBvEqThnWswk'
+extras = ['chameleonextractor', 'tests']
+dependencies = [
+	'setuptools',
+	'polib',
+	'click',
+	'ordereddict; python_version < "3.0"',
+	'mock; python_version < "3.3"',
+	'Chameleon; extra == "chameleonextractor"',
+	'pytest; extra == "tests"',
+]
