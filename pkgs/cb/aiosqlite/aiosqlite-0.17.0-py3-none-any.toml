@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/a0/48/77c0092f716c4bf9460dca44f5120f70b8f71f14a12f40d22551a7152719/aiosqlite-0.17.0-py3-none-any.whl'
+content-id = 'QmTkTL8iovFHrjN3vUz5xYBPzkMYf2DipCtdWHuFWbp3aH'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'typing_extensions>=3.7.2',
+]
