@@ -2,7 +2,7 @@ source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/577559/d7c9622a
 content-id = 'QmUog5cvu7MNgGaHim2vNVBxhQL3t3Pu2uPe5ZcyN7Ha2i'
 requires-python = '>=3.7'
 extras = [
-	#'test'
+	'test'
 ]
 dependencies = [
 	'pytest; extra == "test"',
