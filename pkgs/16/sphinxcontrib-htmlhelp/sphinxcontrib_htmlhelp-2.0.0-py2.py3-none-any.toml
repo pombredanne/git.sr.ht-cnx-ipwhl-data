@@ -1,0 +1,11 @@
+source = 'https://files.pythonhosted.org/packages/63/40/c854ef09500e25f6432dcbad0f37df87fd7046d376272292d8654cc71c95/sphinxcontrib_htmlhelp-2.0.0-py2.py3-none-any.whl'
+content-id = 'QmQZWkxP96ujNozyQNQLAnzv4DdDo9pRb1EQRp28d6F1fF'
+requires-python = '>=3.6'
+extras = ['lint', 'test']
+dependencies = [
+	'flake8; extra == "lint"',
+	'mypy; extra == "lint"',
+	'docutils-stubs; extra == "lint"',
+	'pytest; extra == "test"',
+	'html5lib; extra == "test"',
+]
