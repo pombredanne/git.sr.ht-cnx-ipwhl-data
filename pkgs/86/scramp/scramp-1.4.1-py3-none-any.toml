@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/27/31/80bfb02ba2daa9a0ca66f82650c411f1a2b21ce85164408f57e99aab4e4e/scramp-1.4.1-py3-none-any.whl'
+content-id = 'Qmf2Ha8jHtps61oxJHhet5zZS5QFnQX7LKTUWSc6HTfm57'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'asn1crypto>=1.4.0',
+]
