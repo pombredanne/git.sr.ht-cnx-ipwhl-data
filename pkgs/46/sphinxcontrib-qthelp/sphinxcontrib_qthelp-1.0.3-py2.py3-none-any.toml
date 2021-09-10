@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/2b/14/05f9206cf4e9cfca1afb5fd224c7cd434dcc3a433d6d9e4e0264d29c6cdb/sphinxcontrib_qthelp-1.0.3-py2.py3-none-any.whl'
+content-id = 'QmbuL9DRXvV3hQuCXDGYRdUUyKX9HzGh244Y9MKWUuoCf1'
+requires-python = '>=3.5'
+extras = ['lint', 'test']
+dependencies = [
+	'flake8; extra == "lint"',
+	'mypy; extra == "lint"',
+	'docutils-stubs; extra == "lint"',
+	'pytest; extra == "test"',
+]
