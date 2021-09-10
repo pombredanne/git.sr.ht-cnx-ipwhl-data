@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/c7/b4/251fcc71a116d765382a9462dee499f019a639db56464b1039ab84bd82ad/aiomysql-0.0.21-py3-none-any.whl'
+content-id = 'QmS3mA7wuqHYJEcExfSnUN9Bsk3ZNNWR4xbP1RMsLE3pkn'
+extras = ['sa']
+dependencies = [
+	'PyMySQL<=0.9.3,>=0.9',
+	'sqlalchemy>=1.0; extra == "sa"',
+]
