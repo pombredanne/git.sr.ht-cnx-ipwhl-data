@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/79/35/6f43bde0c4ead866c349a1fa0ff732a31613b3f462ad9b9630c03a958f41/sphinxcontrib_httpdomain-1.7.0-py2.py3-none-any.whl'
+content-id = 'QmTFgcdfxA1x6CbbZT9VTwt6f3dmvGFJFY6QzHXtvz1Lm3'
+extras = []
+dependencies = [
+	'Sphinx>=1.5',
+	'six',
+]
