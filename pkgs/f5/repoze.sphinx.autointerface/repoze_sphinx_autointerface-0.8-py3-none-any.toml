@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/a1/0e/b1f7e283866c2f82b882c949fec3bac6bab9bc8991cc8bb7a9ca31530968/repoze.sphinx.autointerface-0.8-py3-none-any.whl'
+content-id = 'QmdUaLa8Yxia3HjE7u4sbC8az7SjnfgYgM1DAMcoKpzXaw'
+extras = []
+dependencies = [
+	'Sphinx>=0.6.1',
+	'setuptools',
+	'zope.interface',
+]
