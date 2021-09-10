@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/c2/42/4c8646762ee83602e3fb3fbe774c2fac12f317deb0b5dbeeedd2d3ba4b77/sphinxcontrib_jsmath-1.0.1-py2.py3-none-any.whl'
+content-id = 'QmdmFpXkAYPNVq2TvMyWy8u6f4YJFejCBR5vDZ9hwY42pu'
+requires-python = '>=3.5'
+extras = ['test']
+dependencies = [
+	'pytest; extra == "test"',
+	'flake8; extra == "test"',
+	'mypy; extra == "test"',
+]
