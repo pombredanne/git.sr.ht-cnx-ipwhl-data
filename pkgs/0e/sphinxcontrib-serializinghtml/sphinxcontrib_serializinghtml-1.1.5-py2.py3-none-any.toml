@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/c6/77/5464ec50dd0f1c1037e3c93249b040c8fc8078fdda97530eeb02424b6eea/sphinxcontrib_serializinghtml-1.1.5-py2.py3-none-any.whl'
+content-id = 'QmdBrfziQ4fxqRcnfu6caPXMJibk54ghAbx5sSHT3jEoQc'
+requires-python = '>=3.5'
+extras = ['lint', 'test']
+dependencies = [
+	'flake8; extra == "lint"',
+	'mypy; extra == "lint"',
+	'docutils-stubs; extra == "lint"',
+	'pytest; extra == "test"',
+]
