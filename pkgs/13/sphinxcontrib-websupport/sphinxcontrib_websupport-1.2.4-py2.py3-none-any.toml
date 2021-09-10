@@ -1,0 +1,12 @@
+source = 'https://files.pythonhosted.org/packages/e9/e5/2a547830845e6e6e5d97b3246fc1e3ec74cba879c9adc5a8e27f1291bca3/sphinxcontrib_websupport-1.2.4-py2.py3-none-any.whl'
+content-id = 'QmcMAaneSwkG2MeoPph1ZbuQT11pwYE15p8YNvoiDY5xTG'
+requires-python = '>=3.5'
+extras = ['lint', 'test']
+dependencies = [
+	'sphinxcontrib-serializinghtml',
+	'flake8; extra == "lint"',
+	'pytest; extra == "test"',
+	'sqlalchemy; extra == "test"',
+	'whoosh; extra == "test"',
+	'Sphinx; extra == "test"',
+]
