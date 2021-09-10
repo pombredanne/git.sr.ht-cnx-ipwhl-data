@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/dc/47/86022665a9433d89a66f5911b558ddff69861766807ba685de2e324bd6ed/sphinxcontrib_applehelp-1.0.2-py2.py3-none-any.whl'
+content-id = 'QmZS3REn43fsYyqSj5jX5xFhC3bAuMByyGKg1MPfLJQSjH'
+requires-python = '>=3.5'
+extras = ['lint', 'test']
+dependencies = [
+	'flake8; extra == "lint"',
+	'mypy; extra == "lint"',
+	'docutils-stubs; extra == "lint"',
+	'pytest; extra == "test"',
+]
