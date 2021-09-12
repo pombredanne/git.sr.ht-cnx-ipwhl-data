@@ -2,8 +2,9 @@ source = 'https://files.pythonhosted.org/packages/3b/e7/ceef002a300a98a208232fab
 content-id = 'QmRgoBRDdofQvqQYmadeByT3oz1CKtS3KgUxtgEKYaYcPb'
 extras = [
 	# Ignore development extras
-	# 'docs',
-	# 'tests',
+	# 'Windows'
+	'docs',
+	'tests',
 ]
 dependencies = [
 	'pywin32!=226; platform_system == "Windows"',
