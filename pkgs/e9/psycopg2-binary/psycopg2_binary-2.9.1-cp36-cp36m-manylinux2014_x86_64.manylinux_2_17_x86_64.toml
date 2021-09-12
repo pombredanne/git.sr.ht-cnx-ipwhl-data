@@ -1,5 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/c4/1d/b55ad600990096d5129c9c515db1df89d1ccef4a319a04b4f4518372b73a/psycopg2_binary-2.9.1-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl'
-content-id = 'QmRXPymaMUjWLvf8wUgNKpW4QJWLbABtMEWvCT8qENEhuH'
-requires-python = '>=3.6'
-extras = []
-dependencies = []

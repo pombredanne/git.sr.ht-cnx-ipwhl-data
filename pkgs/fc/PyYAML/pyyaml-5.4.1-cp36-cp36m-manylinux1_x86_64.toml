@@ -1,5 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/7a/5b/bc0b5ab38247bba158504a410112b6c03f153c652734ece1849749e5f518/PyYAML-5.4.1-cp36-cp36m-manylinux1_x86_64.whl'
-content-id = 'QmeWYK5UdbjFBvc11CF5r3RDe77KeDPsypyn5xcRcyKWqE'
-requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*,>=2.7'
-extras = []
-dependencies = []

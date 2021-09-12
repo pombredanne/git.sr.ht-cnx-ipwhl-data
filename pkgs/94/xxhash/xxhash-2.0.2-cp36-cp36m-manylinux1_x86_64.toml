@@ -1,5 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/cd/fc/858b20fed2d6264ef1ce8d9c1d0a82dd349db017c6e4e7d46162c4e97eff/xxhash-2.0.2-cp36-cp36m-manylinux1_x86_64.whl'
-content-id = 'QmaV7DngmGzzQRKL7uiijHRUoUwFCVphYZRpKit31azH69'
-requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,>=2.6'
-extras = []
-dependencies = []
