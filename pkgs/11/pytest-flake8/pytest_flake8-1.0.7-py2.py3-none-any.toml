@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/64/ab/bca00e0810b4a1e9a7377b3871529887573d4af47f1674dbe669544944b7/pytest_flake8-1.0.7-py2.py3-none-any.whl'
+content-id = 'QmXhiNZDE8eBKdemZ1peveA9DYquRZERsrVNNhfTcJzfwo'
+extras = []
+dependencies = [
+	'flake8>=3.5',
+	'pytest>=3.5',
+]
