@@ -1,0 +1,6 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/586187/d450b70b49eff560/rope-0.19.0-py3-none-any.whl'
+content-id = 'QmZjizVcW8vnh6G3LksxZ9Torz8txzXQuf2s4sM2tn9K4W'
+extras = ['dev']
+dependencies = [
+	'pytest; extra == "dev"',
+]
