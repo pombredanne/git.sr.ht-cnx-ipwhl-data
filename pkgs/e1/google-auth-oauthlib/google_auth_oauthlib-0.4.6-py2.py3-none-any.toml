@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/b1/0e/0636cc1448a7abc444fb1b3a63655e294e0d2d49092dc3de05241be6d43c/google_auth_oauthlib-0.4.6-py2.py3-none-any.whl'
+content-id = 'QmdiY9uGGiHH29pYsM75tLjEGzU9HmHwiWe5PvEXUccYiJ'
+requires-python = '>=3.6'
+extras = ['tool']
+dependencies = [
+	'google-auth>=1.0.0',
+	'requests-oauthlib>=0.7.0',
+	'click>=6.0.0; extra == "tool"',
+]
