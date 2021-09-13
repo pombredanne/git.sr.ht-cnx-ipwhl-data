@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/04/2f/e3965c5f4f9680f3007cbec375cc70d6176c8d4c86b24641076e1b727169/sphinxcontrib_asyncio-0.3.0-py2.py3-none-any.whl'
+content-id = 'QmenNLyWHTyKHDKDp1tZguVW9KraaLjLWCPFTmJMTeFdud'
+extras = []
+dependencies = [
+	'sphinx>=3.0',
+]
