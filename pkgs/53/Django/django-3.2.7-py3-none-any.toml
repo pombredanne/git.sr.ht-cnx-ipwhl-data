@@ -1,0 +1,11 @@
+source = 'https://files.pythonhosted.org/packages/27/1c/6fe40cdfdbbc8a0d7c211dde68777f1d435bde7879697d0bc20c73d136ac/Django-3.2.7-py3-none-any.whl'
+content-id = 'QmXBBEQBTb4Tah5wDNxwvrrFjUy4t8AP5Vk1BASndWFsGt'
+requires-python = '>=3.6'
+extras = ['argon2', 'bcrypt']
+dependencies = [
+	'asgiref<4,>=3.3.2',
+	'pytz',
+	'sqlparse>=0.2.2',
+	'argon2-cffi>=19.1.0; extra == "argon2"',
+	'bcrypt; extra == "bcrypt"',
+]
