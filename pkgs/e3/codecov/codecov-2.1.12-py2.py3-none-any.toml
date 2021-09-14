@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/dc/e2/964d0881eff5a67bf5ddaea79a13c7b34a74bc4efe917b368830b475a0b9/codecov-2.1.12-py2.py3-none-any.whl'
+content-id = 'QmaBp6g9aXcfr5sGCmkqjur3qWMLJi3AzF42yRnQK2eQuF'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7'
+extras = []
+dependencies = [
+	'requests>=2.7.9',
+	'coverage',
+]
