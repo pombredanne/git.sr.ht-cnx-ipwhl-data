@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/f0/59/e861d92a26a3640afc9f57d8472ffb976eaec40f3e631c2a1581768c8f56/tifffile-2021.8.30-py3-none-any.whl'
+content-id = 'QmSuhKgimJNaFQLbaQ12jNBZWnAXKCjx3hEHwc7xW6PeoJ'
+requires-python = '>=3.7'
+extras = ['all']
+dependencies = [
+	'numpy>=1.15.1',
+	'imagecodecs>=2021.7.30; extra == "all"',
+	'matplotlib>=3.2; extra == "all"',
+	'lxml; extra == "all"',
+]
