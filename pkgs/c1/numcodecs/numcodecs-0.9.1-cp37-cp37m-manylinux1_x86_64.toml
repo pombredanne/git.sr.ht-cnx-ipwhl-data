@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/74/3d/fe7aef42188b6561d5afa38fffa3152e3ef3c6a76842375204793054962f/numcodecs-0.9.1-cp37-cp37m-manylinux1_x86_64.whl'
+content-id = 'QmWGDs5v2AUWzsDLDRyje4euiePHwRpdCQevenfQFLpvFC'
+requires-python = '<4,>=3.6'
+extras = ['msgpack']
+dependencies = [
+	'numpy>=1.7',
+	'msgpack; extra == "msgpack"',
+]
