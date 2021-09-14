@@ -1,0 +1,14 @@
+source = 'https://files.pythonhosted.org/packages/38/17/e5c10060dcebc500edf24046354e3f3240a60f9c23e2760e401ddcae5d40/pyerfa-2.0.0-cp38-cp38-manylinux2010_x86_64.whl'
+content-id = 'QmYz6oqMnzdHfkwVScMFp8z55Lm61CefRtfzeWEiZ1pCT9'
+requires-python = '>=3.7'
+extras = [
+	# Ignore development extras
+	# 'docs',
+	# 'test',
+]
+dependencies = [
+	'numpy>=1.17',
+	'sphinx-astropy>=1.3; extra == "docs"',
+	'pytest; extra == "test"',
+	'pytest-doctestplus>=0.7; extra == "test"',
+]
