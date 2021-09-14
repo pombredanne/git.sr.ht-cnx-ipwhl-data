@@ -1,0 +1,28 @@
+source = 'https://files.pythonhosted.org/packages/d5/a4/bf2554658b97ae17d0b0cc62a51b2425c4de9526a76638ab39dff12f1c05/uvloop-0.16.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl'
+content-id = 'QmbHnWHzHwsoaz7b3xrdxJzZi2zDxtr6yUvWHPtKZj7yVq'
+requires-python = '>=3.7'
+extras = [
+	# 'dev', 'docs', 'test' # FIXME: contact upstream to loosen dependency
+]
+dependencies = [
+	'Cython<0.30.0,>=0.29.24; extra == "dev"',
+	'pytest>=3.6.0; extra == "dev"',
+	'Sphinx~=4.1.2; extra == "dev"',
+	'sphinxcontrib-asyncio~=0.3.0; extra == "dev"',
+	'sphinx-rtd-theme~=0.5.2; extra == "dev"',
+	'aiohttp; extra == "dev"',
+	'flake8~=3.9.2; extra == "dev"',
+	'psutil; extra == "dev"',
+	'pycodestyle~=2.7.0; extra == "dev"',
+	'pyOpenSSL~=19.0.0; extra == "dev"',
+	'mypy>=0.800; extra == "dev"',
+	'Sphinx~=4.1.2; extra == "docs"',
+	'sphinxcontrib-asyncio~=0.3.0; extra == "docs"',
+	'sphinx-rtd-theme~=0.5.2; extra == "docs"',
+	'aiohttp; extra == "test"',
+	'flake8~=3.9.2; extra == "test"',
+	'psutil; extra == "test"',
+	'pycodestyle~=2.7.0; extra == "test"',
+	'pyOpenSSL~=19.0.0; extra == "test"',
+	'mypy>=0.800; extra == "test"',
+]
