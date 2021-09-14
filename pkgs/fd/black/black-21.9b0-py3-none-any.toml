@@ -1,0 +1,27 @@
+source = 'https://files.pythonhosted.org/packages/d2/16/a92c999103bee1236dd93f703f3522217fe00bd97bd50ae3699c2d91e320/black-21.9b0-py3-none-any.whl'
+content-id = 'QmfPfwicnFJZq9bqiPymYNz4cRjeNmaX7aj4cCLXV2MpH7'
+requires-python = '>=3.6.2'
+extras = [
+	'colorama', 'd',
+	# 'jupyter', # FIXME: re-add this when ipython is resolved
+	'python2', 'uvloop'
+]
+dependencies = [
+	'click>=7.1.2',
+	'platformdirs>=2',
+	'tomli<2.0.0,>=0.2.6',
+	'regex>=2020.1.8',
+	'pathspec<1,>=0.9.0',
+	'typing-extensions>=3.10.0.0',
+	'mypy-extensions>=0.4.3',
+	'dataclasses>=0.6; python_version < "3.7"',
+	'typed-ast>=1.4.2; python_version < "3.8"',
+	'typing-extensions!=3.10.0.1; python_version >= "3.10"',
+	'colorama>=0.4.3; extra == "colorama"',
+	'aiohttp>=3.6.0; extra == "d"',
+	'aiohttp-cors>=0.4.0; extra == "d"',
+	'ipython>=7.8.0; extra == "jupyter"',
+	'tokenize-rt>=3.2.0; extra == "jupyter"',
+	'typed-ast>=1.4.2; extra == "python2"',
+	'uvloop>=0.15.2; extra == "uvloop"',
+]
