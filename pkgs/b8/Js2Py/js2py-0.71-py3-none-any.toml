@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/68/16/5f671ca7a8278ce5fa57dd97aa2427588be08505816238277600bab2cea9/Js2Py-0.71-py3-none-any.whl'
+content-id = 'Qme18UjuqNcfgQNCkPSRimwgvWifgzQCgiV2SsjB37B6t5'
+extras = []
+dependencies = [
+	'tzlocal>=1.2',
+	'six>=1.10',
+	'pyjsparser>=2.5.1',
+]
