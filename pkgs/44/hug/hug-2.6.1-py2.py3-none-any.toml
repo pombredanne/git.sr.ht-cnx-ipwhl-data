@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/93/01/ee254f209868b12c5327948bd193641beaad526fc34db44923c054a016fc/hug-2.6.1-py2.py3-none-any.whl'
+content-id = 'Qmem9QJun2gVCbDY74QNYjP1pz8fStvZS4pL8dmE25wrrj'
+requires-python = '>=3.5'
+extras = []
+dependencies = [
+	'falcon==2.0.0', # FIXME: ask upstream to loosen this as falcon is 3.0 already
+	'requests',
+]
