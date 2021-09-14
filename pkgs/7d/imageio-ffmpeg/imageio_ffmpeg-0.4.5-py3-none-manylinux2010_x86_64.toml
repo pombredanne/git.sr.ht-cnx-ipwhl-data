@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/9c/b0/513647cdd9178f96eb146cae067c19105954e19e144a7423fc63c63b5829/imageio_ffmpeg-0.4.5-py3-none-manylinux2010_x86_64.whl'
+content-id = 'QmbAq737GDqSaSeipBGggyBbpUrNNfpQTQ9TmvNiNeo6ts'
+requires-python = '>=3.4'
+extras = []
+dependencies = []
