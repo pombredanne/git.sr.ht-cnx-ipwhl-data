@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/ea/76/75b1bb82e9bad3e3d656556eaa353d8cd17c4254393b08ec9786ac8ed273/pydot-1.4.2-py2.py3-none-any.whl'
+content-id = 'QmNLmVyuvbcdS2HutcexUazXt2K8huKAudBeCwXiAhLrGk'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7'
+extras = []
+dependencies = [
+	'pyparsing>=2.1.4',
+]
