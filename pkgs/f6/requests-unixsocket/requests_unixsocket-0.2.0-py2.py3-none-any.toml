@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/d0/63/97662a6f7175c08381447a09f6bc35464075f0ea6549cf6daf2668b51f04/requests_unixsocket-0.2.0-py2.py3-none-any.whl'
+content-id = 'QmNUWKSjVS3QyeVYgbhZ3f9S1JRnwyH6HU67WbJ3P64qzk'
+extras = []
+dependencies = [
+	'requests>=1.1',
+	'urllib3>=1.8',
+]
