@@ -1,0 +1,12 @@
+source = 'https://files.pythonhosted.org/packages/6d/e3/0e3a9debfa5e89d9060f93d13e7ed7eedbdb90ee6b17dc8d6640b0513097/pytest_mypy-0.8.1-py3-none-any.whl'
+content-id = 'Qma4DsDN6TQQRqhxeKzvy1mQ7Gp4GSew1GoCnbNN9HMrUJ'
+requires-python = '>=3.5'
+extras = []
+dependencies = [
+	'attrs>=19.0',
+	'filelock>=3.0',
+	'pytest>=3.5',
+	'mypy>=0.500; python_version < "3.8"',
+	'mypy>=0.700; python_version >= "3.8" and python_version < "3.9"',
+	'mypy>=0.780; python_version >= "3.9"',
+]
