@@ -1,0 +1,6 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/588587/12cc683ecc68b114/pytest_localserver-0.5.0-py3-none-any.whl'
+content-id = 'QmNRf9SeoRisBeUA8bABr5tRjKofw8XDTrfRY49wbwWYtZ'
+extras = []
+dependencies = [
+	'werkzeug>=0.10',
+]
