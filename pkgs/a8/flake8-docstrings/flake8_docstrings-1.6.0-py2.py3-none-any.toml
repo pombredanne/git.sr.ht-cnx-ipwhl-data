@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/8b/ad/35dc9b3585ddbab617679b97487450f873e582408843c07fe97f524463c2/flake8_docstrings-1.6.0-py2.py3-none-any.whl'
+content-id = 'QmeJKgsX9e2k4XjSu6diKgRGVKmsZevsraY3uUxYbnZvAh'
+extras = []
+dependencies = [
+	'flake8>=3',
+	'pydocstyle>=2.1',
+]
