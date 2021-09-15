@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/76/4f/c8797e796199e55cf6c8979ecdf5f4b09b81e93f87b3193c759faea63263/sphinxext_rediraffe-0.2.7-py3-none-any.whl'
+content-id = 'QmS5uxaRwJLxf3hC63XsnhVJspTEGPRkmgxkYFNDCgsfHD'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'sphinx>=2.0',
+]
