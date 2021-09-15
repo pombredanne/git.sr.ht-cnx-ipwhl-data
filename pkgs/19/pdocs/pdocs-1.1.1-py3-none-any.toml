@@ -1,0 +1,11 @@
+source = 'https://files.pythonhosted.org/packages/03/71/48740a41c5ec0004c6465afda933cad4bb64b448e73ea87eb71a3fda1cab/pdocs-1.1.1-py3-none-any.whl'
+content-id = 'QmXJ6rhG19rYMXC9Un3JXFqmLgWt4YYhaUikbENLH5tb6g'
+requires-python = '<4.0,>=3.6'
+extras = []
+dependencies = [
+	'Mako<2.0,>=1.1',
+	'Markdown<4.0.0,>=3.0.0',
+	'dataclasses<0.8,>=0.7; python_version >= "3.6" and python_version < "3.7"',
+	'docstring_parser<0.8.0,>=0.7.2',
+	'hug<3.0,>=2.6',
+]
