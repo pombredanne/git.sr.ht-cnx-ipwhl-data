@@ -1,0 +1,17 @@
+source = 'https://files.pythonhosted.org/packages/5e/b6/5afe2978230b873e55da31b0ee2312ec0379780a8d61e6379d40dca3eb90/mkdocs-1.2.2-py3-none-any.whl'
+content-id = 'QmQL27R2ifAXW4ApUcWyY49aoiZkqDZ9Ffw3UaRwyFvKxA'
+requires-python = '>=3.6'
+extras = ['i18n']
+dependencies = [
+	'click>=3.3',
+	'Jinja2>=2.10.1',
+	'Markdown>=3.2.1',
+	'PyYAML>=3.10',
+	'watchdog>=2.0',
+	'ghp-import>=1.0',
+	'pyyaml-env-tag>=0.1',
+	'importlib-metadata>=3.10',
+	'packaging>=20.5',
+	'mergedeep>=1.3.4',
+	'babel>=2.9.0; extra == "i18n"',
+]
