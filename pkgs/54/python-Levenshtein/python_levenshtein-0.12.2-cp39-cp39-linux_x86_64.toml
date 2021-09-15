@@ -1,0 +1,6 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/588786/0c7cab9997965dc6/python_Levenshtein-0.12.2-cp39-cp39-linux_x86_64.whl'
+content-id = 'QmZury63kujvdmSXKum1aEuC7ZAErYcGVDirYg1MYqK7w6'
+extras = []
+dependencies = [
+	'setuptools',
+]
