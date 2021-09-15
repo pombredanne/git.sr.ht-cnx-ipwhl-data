@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/fd/be/ce7e79a7bf68ff6630f662f58a8dc68e2a602d8649a1c0e05c8e6b9a2177/pytest_mock-3.6.1-py3-none-any.whl'
+content-id = 'QmY8TG2vaui2i66TTvozc14d49m1J3F3x51CrJ2jGhXWm4'
+requires-python = '>=3.6'
+extras = ['dev']
+dependencies = [
+	'pytest>=5.0',
+	'pre-commit; extra == "dev"',
+	'tox; extra == "dev"',
+	'pytest-asyncio; extra == "dev"',
+]
