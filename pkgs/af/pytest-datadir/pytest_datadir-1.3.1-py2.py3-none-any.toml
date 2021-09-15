@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/3c/9f/8f4c540b8d7c78f88dcd560523cf0519196a0b15129bce5a1772b14dc9c4/pytest_datadir-1.3.1-py2.py3-none-any.whl'
+content-id = 'QmY15KgjYo5Mrsuihoamc6VxL9KeZ2w79JwEnPaqAMwfr5'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7'
+extras = []
+dependencies = [
+	'pytest>=2.7.0',
+	'pathlib2; python_version < "3.4"',
+]
