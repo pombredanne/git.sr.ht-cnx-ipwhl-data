@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/87/67/4df10786068766000518c6ad9c4a614e77585a12ab8f0654c776757ac9dc/pydocstyle-6.1.1-py3-none-any.whl'
+content-id = 'QmQ5viLYQcMrrexaG8BMt3fmxX4oSheagV2dMh6TLfyndc'
+requires-python = '>=3.6'
+extras = ['toml']
+dependencies = [
+	'snowballstemmer',
+	'toml; extra == "toml"',
+]
