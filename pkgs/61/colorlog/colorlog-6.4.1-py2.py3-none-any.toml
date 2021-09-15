@@ -1,0 +1,12 @@
+source = 'https://files.pythonhosted.org/packages/2d/93/4b0bb101e54206e92feb3c986c274902212b2ed8c55423e6e7f6d8b693ca/colorlog-6.4.1-py2.py3-none-any.whl'
+content-id = 'QmWzSjtdC9Jt8VF9ug31BPoJviUwgRdH5nuqtj3QdyUGMV'
+requires-python = '>=3.6'
+extras = ['development']
+dependencies = [
+	'colorama; sys_platform == "win32"',
+	'black; extra == "development"',
+	'flake8; extra == "development"',
+	'mypy; extra == "development"',
+	'pytest; extra == "development"',
+	'types-colorama; extra == "development"',
+]
