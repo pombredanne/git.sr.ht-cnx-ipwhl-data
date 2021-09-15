@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/14/0e/738dbd15b1afe372d0d788e1e2112cfa67c9cf9e1c777360eaf9cd429caf/uc_micro_py-1.0.1-py3-none-any.whl'
+content-id = 'QmVsvrmTE12FWx5XRbKWPt6tmZKm5Lj4LwAJbU6sEZARsL'
+requires-python = '>=3.6'
+extras = ['test']
+dependencies = [
+	'coverage; extra == "test"',
+	'pytest; extra == "test"',
+	'pytest-cov; extra == "test"',
+]
