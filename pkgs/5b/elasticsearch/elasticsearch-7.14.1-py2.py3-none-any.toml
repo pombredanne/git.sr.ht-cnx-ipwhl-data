@@ -1,0 +1,26 @@
+source = 'https://files.pythonhosted.org/packages/51/41/2227a1eee3f753c3f313b5ed81aa830995561689a9dc17f62920a2deed84/elasticsearch-7.14.1-py2.py3-none-any.whl'
+content-id = 'QmVKwnYJRrmqQohdPQpAcZMeXZTyr4ETTTLfRYTYcuWPws'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,<4,>=2.7'
+extras = [
+	'async',
+	# 'develop', 'docs', # FIXME: re-add this when upstream loose sphinx
+	'requests'
+]
+dependencies = [
+	'urllib3<2,>=1.21.1',
+	'certifi',
+	'aiohttp<4,>=3; extra == "async"',
+	'requests<3.0.0,>=2.0.0; extra == "develop"',
+	'coverage; extra == "develop"',
+	'mock; extra == "develop"',
+	'pyyaml; extra == "develop"',
+	'pytest; extra == "develop"',
+	'pytest-cov; extra == "develop"',
+	'sphinx<1.7; extra == "develop"',
+	'sphinx-rtd-theme; extra == "develop"',
+	'black; extra == "develop"',
+	'jinja2; extra == "develop"',
+	'sphinx<1.7; extra == "docs"',
+	'sphinx-rtd-theme; extra == "docs"',
+	'requests<3.0.0,>=2.4.0; extra == "requests"',
+]
