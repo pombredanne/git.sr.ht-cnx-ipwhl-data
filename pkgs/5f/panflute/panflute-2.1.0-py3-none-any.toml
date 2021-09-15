@@ -1,0 +1,22 @@
+source = 'https://files.pythonhosted.org/packages/69/f4/ada3bb52beacf53dfaff794737c6d9d2ea30b167343fee9c781cdb157723/panflute-2.1.0-py3-none-any.whl'
+content-id = 'QmbCYM5MZwoo6GnQxWrDBE1mZJ8cJyA2CcGomaF2fK6hk5'
+requires-python = '>=3.6'
+extras = [
+	'dev',
+	# 'pypi' # FIXME: re-add when twine is packaged
+]
+dependencies = [
+	'click<8,>=6',
+	'pyyaml<6,>=3',
+	'configparser; extra == "dev"',
+	'coverage; extra == "dev"',
+	'flake8; extra == "dev"',
+	'pandocfilters; extra == "dev"',
+	'pytest-cov; extra == "dev"',
+	'pytest; extra == "dev"',
+	'requests; extra == "dev"',
+	'docutils; extra == "pypi"',
+	'Pygments; extra == "pypi"',
+	'twine; extra == "pypi"',
+	'wheel; extra == "pypi"',
+]
