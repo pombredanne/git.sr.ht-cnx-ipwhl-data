@@ -1,0 +1,8 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/588567/6f4591608d34acb4/livereload-2.6.3-py2.py3-none-any.whl'
+content-id = 'Qme7zTBb57dx9z764A54JJGXWAvSpNs3i2HKhNn6eKCWbh'
+extras = []
+dependencies = [
+	'six',
+	'tornado<6; python_version == "2.7"',
+	'tornado; python_version > "2.7"',
+]
