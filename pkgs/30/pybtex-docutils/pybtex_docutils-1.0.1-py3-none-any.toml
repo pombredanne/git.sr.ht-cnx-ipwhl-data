@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/f5/ea/369444b3bb77295350c268bc6c0dc0cf4dece20c4c61487012abf4a8e96a/pybtex_docutils-1.0.1-py3-none-any.whl'
+content-id = 'Qmd9tqfyrLP8UT8rGWSuvPdHab3jY88UKSurohekiMmTY9'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'docutils>=0.8',
+	'pybtex>=0.16',
+]
