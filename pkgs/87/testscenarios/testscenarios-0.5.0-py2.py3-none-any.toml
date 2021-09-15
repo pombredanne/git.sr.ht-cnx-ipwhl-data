@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/da/25/2f10da0d5427989fefa5ab51e697bc02625bbb7de2be3bc8452462efac78/testscenarios-0.5.0-py2.py3-none-any.whl'
+content-id = 'QmUGp4MkCymJ8hW5ueniy9q3ao2KymbxbVqRCEYK7JunKb'
+extras = []
+dependencies = [
+	'pbr>=0.11',
+	'testtools',
+]
