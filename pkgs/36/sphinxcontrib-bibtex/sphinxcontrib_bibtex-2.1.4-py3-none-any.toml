@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/0e/13/24b1d6481e94143b5900c82ccac6de398d9f40ad0b42b5afc56ee3527eba/sphinxcontrib_bibtex-2.1.4-py3-none-any.whl'
+content-id = 'QmZJ5yTdGQtrjzCHfSKsby1MMh5CiahVXpBWLeFQbKvAaf'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'Sphinx>=2.1',
+	'docutils>=0.8',
+	'pybtex-docutils>=0.2.2',
+	'pybtex>=0.20',
+]
