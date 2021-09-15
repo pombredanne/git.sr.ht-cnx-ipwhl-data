@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/a8/28/7eed6bf76792f418029a18d5b2ace87ce7562927cdd00f1cefe481cd148f/fixtures-3.0.0-py2.py3-none-any.whl'
+content-id = 'QmRNFVHhzjtTf687sZ6qo4Ab8ozi4UeQ74rEwrENCX2d6c'
+extras = ['docs', 'test']
+dependencies = [
+	'pbr>=0.11',
+	'six',
+	'testtools>=0.9.22',
+	'docutils; extra == "docs"',
+	'mock; extra == "test"',
+]
