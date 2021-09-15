@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/70/12/d9b6bf8093906108017f3cdbecae3e2b3b4963c5112b28f0cd482b433182/sphinxcontrib_github_alt-1.2-py2.py3-none-any.whl'
+content-id = 'Qmdm5L3y3fq4g1Ebb3AMCNSeGt2uFAdCAzEi57FQEVKrFU'
+extras = []
+dependencies = [
+	'docutils',
+	'sphinx',
+]
