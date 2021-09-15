@@ -1,0 +1,5 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/588572/5a8c37ccc449a18d/docstring_parser-0.7.3-py3-none-any.whl'
+content-id = 'QmPTdZ3MpEfc5xzRT4QixUCHTEnBT8NoabprRCFXcD5zET'
+requires-python = '~=3.5'
+extras = []
+dependencies = []
