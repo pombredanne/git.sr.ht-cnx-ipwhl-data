@@ -1,0 +1,14 @@
+source = 'https://files.pythonhosted.org/packages/41/d4/e460dfcbcb0c2f390717c4b46503ac0a2c6e7de6258562bb455bffa28a21/nox-2021.6.12-py3-none-any.whl'
+content-id = 'QmUwn2pbCKcUadeD2SbgbKz6vbi7rNLEn3Gdm1izEgZkvh'
+requires-python = '>=3.6'
+extras = ['tox_to_nox']
+dependencies = [
+	'argcomplete<2.0,>=1.9.4',
+	'colorlog<7.0.0,>=2.6.1',
+	'packaging>=20.9',
+	'py<2.0.0,>=1.4.0',
+	'virtualenv>=14.0.0',
+	'importlib-metadata; python_version < "3.8"',
+	'jinja2; extra == "tox_to_nox"',
+	'tox; extra == "tox_to_nox"',
+]
