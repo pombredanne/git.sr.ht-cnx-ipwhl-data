@@ -1,0 +1,18 @@
+source = 'https://files.pythonhosted.org/packages/d0/d7/6e2d6c1f79b27a0fb47b3e51124c06341ed30e3a688655254248b6fa2809/flit-3.3.0-py3-none-any.whl'
+content-id = 'QmV3QMQh2pAGFAhD6MDbk4r5SPs8R5UUwa1zombqnjgRmf'
+requires-python = '>=3.6'
+extras = ['doc', 'test']
+dependencies = [
+	'flit_core>=3.3.0',
+	'requests',
+	'docutils',
+	'toml',
+	'zipfile36; python_version == "3.5"',
+	'sphinx; extra == "doc"',
+	'sphinxcontrib_github_alt; extra == "doc"',
+	'pygments-github-lexers; extra == "doc"',
+	'testpath; extra == "test"',
+	'responses; extra == "test"',
+	'pytest>=2.7.3; extra == "test"',
+	'pytest-cov; extra == "test"',
+]
