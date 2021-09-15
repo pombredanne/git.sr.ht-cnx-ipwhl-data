@@ -1,0 +1,11 @@
+source = 'https://files.pythonhosted.org/packages/88/de/be89fff5c30810afb101bdac2c8706764fafa8e950dc6ffa22092ad81035/python_subunit-1.4.0-py2.py3-none-any.whl'
+content-id = 'QmdYiUwMAinoSek75MehHnx6HJRXze8fipSUgDXqbTracB'
+extras = ['docs', 'test']
+dependencies = [
+	'extras',
+	'testtools>=0.9.34',
+	'docutils; extra == "docs"',
+	'fixtures; extra == "test"',
+	'testscenarios; extra == "test"',
+	'hypothesis; python_version != "3.2" and extra == "test"',
+]
