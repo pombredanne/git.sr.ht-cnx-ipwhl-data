@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/35/fa/6631b9aeb25e1bb62bf77c48c86b1677da98a52360cb9b5559dda8d08edb/pymdown_extensions-8.2-py3-none-any.whl'
+content-id = 'QmeG9LDhMMY4bAKRRwCArBxpKgd2veWs5kumaUFvYcFHxK'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'Markdown>=3.2',
+]
