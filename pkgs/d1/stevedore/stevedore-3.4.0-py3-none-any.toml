@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/b2/c5/036a9a6e220ea7406a36130e80cca33a3e6b98b5328cfdba4b46b2ed0786/stevedore-3.4.0-py3-none-any.whl'
+content-id = 'QmSKy3HaqvBxkA7cfY9338WQrsjsZPXLg3iyHV8KjE853a'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'pbr!=2.1.0,>=2.0.0',
+	'importlib-metadata>=1.7.0; python_version < "3.8"',
+]
