@@ -1,0 +1,13 @@
+source = 'https://files.pythonhosted.org/packages/25/04/f59887284d9ea7e5e1473b74177fc8fca43c949a683750c733a154ba8148/sphinx_autodoc_typehints-1.12.0-py3-none-any.whl'
+content-id = 'Qmc1RVm1qjWtEgENq3YmaZA65KKNfLJMPJ1t49jhdam9iz'
+requires-python = '>=3.6'
+extras = ['test', 'type_comments']
+dependencies = [
+	'Sphinx>=3.0',
+	'pytest>=3.1.0; extra == "test"',
+	'typing-extensions>=3.5; extra == "test"',
+	'sphobjinv>=2.0; extra == "test"',
+	'Sphinx>=3.2.0; extra == "test"',
+	'dataclasses; python_version == "3.6" and extra == "test"',
+	'typed-ast>=1.4.0; python_version < "3.8" and extra == "type_comments"',
+]
