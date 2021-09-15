@@ -1,0 +1,11 @@
+source = 'https://files.pythonhosted.org/packages/7e/7d/8fb7557b6c9298d2bcda57f4d070de443c6355dfb475582378e2aa16a02c/sphinx_autobuild-2021.3.14-py3-none-any.whl'
+content-id = 'QmQS43Zz72qhPv9x1qgAu15gVTYB2kuWECNaZXN9pT5efZ'
+requires-python = '>=3.6'
+extras = ['docs', 'test']
+dependencies = [
+	'sphinx',
+	'livereload',
+	'colorama',
+	'pytest; extra == "test"',
+	'pytest-cov; extra == "test"',
+]
