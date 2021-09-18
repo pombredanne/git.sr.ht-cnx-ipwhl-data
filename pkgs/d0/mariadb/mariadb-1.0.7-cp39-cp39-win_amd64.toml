@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/31/5c/ff7eed2654a58fb93051aba0287adcdb1f6b51f5de209a84916d5567298d/mariadb-1.0.7-cp39-cp39-win_amd64.whl'
+content-id = 'QmWUhDQLsAheBKVWtdgsK9tBkX3EdB1HGSWywczZgj86GQ'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
