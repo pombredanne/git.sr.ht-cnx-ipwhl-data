@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/63/15/1934083acfecfee06b7ddf048d9df6b59b2bf7f452cfac38ea54f738c5a4/mysqlclient-2.0.3-cp39-cp39-win_amd64.whl'
+content-id = 'QmadpVpoLZzj5PKt5aWuoWy6S2Hop4dWvmCUyxMe4dmvj3'
+requires-python = '>=3.5'
+extras = []
+dependencies = []
