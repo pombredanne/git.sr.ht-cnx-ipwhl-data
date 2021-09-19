@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/aa/69/260a4a1cc89cc00b51f432db048c396952f5c05dfa1345a1b3dbd9ea3544/numpy-1.21.2-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl'
+content-id = 'QmPeBVzWApdqSLfkVqD8i7kSZe4w8chDUXZFAzADRNt8fx'
+requires-python = '<3.11,>=3.7'
+extras = []
+dependencies = []
