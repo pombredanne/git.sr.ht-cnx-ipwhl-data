@@ -1,0 +1,12 @@
+source = 'https://files.pythonhosted.org/packages/a5/2c/c82570a1b4ae3f0e0359010719c02c8cf5534e51739fad2e5283f07efb32/pandas-1.3.3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl'
+content-id = 'QmPdhkHEpbEfWiTopoMsxQ8tk4NHWjyNeZPyYXgk9S6twJ'
+requires-python = '>=3.7.1'
+extras = ['test']
+dependencies = [
+	'numpy>=1.17.3',
+	'python-dateutil>=2.7.3',
+	'pytz>=2017.3',
+	'hypothesis>=3.58; extra == "test"',
+	'pytest>=6.0; extra == "test"',
+	'pytest-xdist; extra == "test"',
+]
