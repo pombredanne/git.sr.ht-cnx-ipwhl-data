@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/55/99/5c5cfb1ca079a910efcbb35b8ab3a4ddb50ddf7527dcfcae362eca7fc740/pyrsistent-0.18.0-cp39-cp39-win_amd64.whl'
+content-id = 'QmZ77mZmRorJ5fb8eCnnxCiW1TwsvFQw8XL7mKZHhnAQp2'
+requires-python = '>=3.6'
+extras = []
+dependencies = []

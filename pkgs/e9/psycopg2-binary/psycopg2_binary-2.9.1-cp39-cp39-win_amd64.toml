@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/0c/28/1d2982ca7b93c048fbda188334bd2ec6688c65fbbabd60950f89671a0a47/psycopg2_binary-2.9.1-cp39-cp39-win_amd64.whl'
+content-id = 'QmZvxWaSgJ8m8DJRwHTgJepVwaz5Fb6RcqeYWz1Q3dsrkQ'
+requires-python = '>=3.6'
+extras = []
+dependencies = []

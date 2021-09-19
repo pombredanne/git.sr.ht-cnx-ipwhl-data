@@ -1,0 +1,20 @@
+source = 'https://files.pythonhosted.org/packages/16/23/12f86ffae3fe727ff2f53675cb48645e8fbf1687e3028dfd646275fa4a64/zope.interface-5.4.0-cp38-cp38-win_amd64.whl'
+content-id = 'QmUrJx152gfbLecmAUxfQokKMb8JPbosbo8NMJ5U7PmTQX'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
+extras = [
+	'docs',
+	# Ignore development extras
+	# 'test',
+	# 'testing',
+]
+dependencies = [
+	'setuptools',
+	'Sphinx; extra == "docs"',
+	'repoze.sphinx.autointerface; extra == "docs"',
+	'coverage>=5.0.3; extra == "test"',
+	'zope.event; extra == "test"',
+	'zope.testing; extra == "test"',
+	'coverage>=5.0.3; extra == "testing"',
+	'zope.event; extra == "testing"',
+	'zope.testing; extra == "testing"',
+]

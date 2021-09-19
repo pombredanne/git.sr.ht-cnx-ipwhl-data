@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/de/30/63d7cde833867d8918051ee2f5b09c9e3b132a5990d8a1464f30e687f3c2/cmarkgfm-0.5.3-cp39-cp39-win_amd64.whl'
+content-id = 'QmSrAx9Lbfm42BBMTR2Qyjo3EVscr7nBwT81kKoCxUM8Zx'
+extras = []
+dependencies = [
+	'cffi>=1.0.0',
+]

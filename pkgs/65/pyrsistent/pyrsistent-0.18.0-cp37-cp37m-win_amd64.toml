@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/23/58/1bea09b76c845863aa10e7ef364d97101041b21952033f35f7444926093a/pyrsistent-0.18.0-cp37-cp37m-win_amd64.whl'
+content-id = 'QmahK2TYSqDeM1dQXuvpX3UxiaPvR8Qp9JKVX5HZMsGW2H'
+requires-python = '>=3.6'
+extras = []
+dependencies = []

@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/66/7a/9f3a49dea61e98ac8bd3b6b619da4fcb59053232a6e11e9e865dab7c16e0/PyYAML-5.4.1-cp37-cp37m-win_amd64.whl'
+content-id = 'QmZU7FxVitcwuD47jzPgp4Wd2c9m2PMzTbFmfKm74X5f5B'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*,>=2.7'
+extras = []
+dependencies = []

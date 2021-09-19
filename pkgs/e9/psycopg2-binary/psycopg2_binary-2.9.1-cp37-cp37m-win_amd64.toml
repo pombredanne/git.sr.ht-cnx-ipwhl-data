@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/00/3e/7331f2246bcb14248bf406974f22eee81d8c22ea3273cdbed552de9547dc/psycopg2_binary-2.9.1-cp37-cp37m-win_amd64.whl'
+content-id = 'QmbekGQugwwcvuKG7ztRHh8TdJkoXsfDNJXV3ZLPBvnK3w'
+requires-python = '>=3.6'
+extras = []
+dependencies = []

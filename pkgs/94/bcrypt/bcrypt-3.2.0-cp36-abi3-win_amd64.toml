@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/21/8d/ed20081491e71f078e61804fe0c8250167008cf3ff594e1fb396cf138f2b/bcrypt-3.2.0-cp36-abi3-win_amd64.whl'
+content-id = 'QmfTVPUk673v9N7jazVU14qmmZ2BfZPV6dpHKdGdmmBnr9'
+requires-python = '>=3.6'
+extras = ['tests', 'typecheck']
+dependencies = [
+	'cffi>=1.1',
+	'six>=1.4.1',
+	'pytest!=3.3.0,>=3.2.1; extra == "tests"',
+	'mypy; extra == "typecheck"',
+]

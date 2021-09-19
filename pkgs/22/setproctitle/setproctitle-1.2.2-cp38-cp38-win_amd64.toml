@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/38/7e/6794cfb1d910d982221f08b0617737e454470b53d67fbb3cf831ab891b81/setproctitle-1.2.2-cp38-cp38-win_amd64.whl'
+content-id = 'QmcB69dUduwXHZjBDqiJ33f3tY4GjZBewpLtEYLsqtCvmD'
+requires-python = '>=3.6'
+extras = [
+	# Ignore depvelopment extra
+	# 'test',
+]
+dependencies = [
+	'pytest<6.2,>=6.1; extra == "test"',
+]

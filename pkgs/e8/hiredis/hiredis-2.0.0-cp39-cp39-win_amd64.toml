@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/ee/ae/9163ea3b43070eb58e46db9f4e7a2debb589b25938e1bc4674091d7afab6/hiredis-2.0.0-cp39-cp39-win_amd64.whl'
+content-id = 'QmcH2rhNTWzXqncZH6zv58XeU3efYKxU7B4pqWe8iKvhBQ'
+requires-python = '>=3.6'
+extras = []
+dependencies = []

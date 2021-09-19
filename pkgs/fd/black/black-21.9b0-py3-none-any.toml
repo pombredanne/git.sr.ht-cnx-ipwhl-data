@@ -2,9 +2,12 @@ source = 'https://files.pythonhosted.org/packages/d2/16/a92c999103bee1236dd93f70
 content-id = 'QmfPfwicnFJZq9bqiPymYNz4cRjeNmaX7aj4cCLXV2MpH7'
 requires-python = '>=3.6.2'
 extras = [
-	'colorama', 'd',
-	# 'jupyter', # FIXME: re-add this when ipython is resolved
-	'python2', 'uvloop'
+	# FIXME: 'jupyter',
+	# See https://github.com/psf/black/issues/2257#issuecomment-922414671
+	# FIXME: 'uvloop'
+	'colorama',
+	'd',
+	'python2',
 ]
 dependencies = [
 	'click>=7.1.2',

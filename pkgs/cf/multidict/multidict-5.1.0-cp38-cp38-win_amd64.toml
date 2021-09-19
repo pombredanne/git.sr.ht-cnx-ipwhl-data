@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/c7/a5/cfce15381f0934345fc1737fb277450616066190bc140a67aed9b860d47e/multidict-5.1.0-cp38-cp38-win_amd64.whl'
+content-id = 'QmNSzhXsHuEtsmcJ6kezubAnCKC14NTbrEnMymykBJeZDX'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
