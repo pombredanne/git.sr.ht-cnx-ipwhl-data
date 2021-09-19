@@ -1,8 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/58/b8/168ff9a28e017368861abcf862dae22b93d3d5ad7087a36b707477e4572a/grpcio_tools-1.39.0-cp38-cp38-manylinux2014_x86_64.whl'
-content-id = 'QmR2v1URsXwbzHg5Ruo9dQ7JUksnKH8NKeLUDC5JrKpeSP'
-extras = []
-dependencies = [
-	'protobuf<4.0dev,>=3.5.0.post1',
-	'grpcio>=1.39.0',
-	'setuptools',
-]

@@ -1,9 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/9f/2a/3e2856d256339e144953e7d28401faee13d72142a73fa4c0d25746786025/grpcio-1.39.0-cp39-cp39-manylinux2014_x86_64.whl'
-content-id = 'QmRV4QMa4HKeyLqchWzLjVbSE6o51PcnYfRq277PNoFipr'
-extras = ['protobuf']
-dependencies = [
-	'six>=1.5.2',
-	'futures>=2.2.0; python_version < "3.2"',
-	'enum34>=1.0.4; python_version < "3.4"',
-	'grpcio-tools>=1.39.0; extra == "protobuf"',
-]

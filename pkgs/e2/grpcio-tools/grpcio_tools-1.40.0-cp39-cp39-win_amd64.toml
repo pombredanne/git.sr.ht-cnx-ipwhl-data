@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/2a/09/fea15447eda8f13689811cd2fd94bc837d00eb3c18e5672025ad5cf9ea26/grpcio_tools-1.40.0-cp39-cp39-win_amd64.whl'
+content-id = 'QmaGpLuVzZK7JxTdnaFPmynmHwBAiJguCNL5TszvvQBQoD'
+extras = []
+dependencies = [
+	'protobuf<4.0dev,>=3.5.0.post1',
+	'grpcio>=1.40.0',
+	'setuptools',
+]

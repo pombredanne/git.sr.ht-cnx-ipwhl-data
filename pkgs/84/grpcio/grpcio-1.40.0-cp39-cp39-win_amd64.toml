@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/e6/e7/30bc37e570091b39b678ef6cd9b04b5dfa85cb229d2f8a28a23b2e03ce84/grpcio-1.40.0-cp39-cp39-win_amd64.whl'
+content-id = 'QmWvTz1LudDC6BfUHWHgYWbuNoMsZcP3zhNUAhLCS8VqMs'
+extras = ['protobuf']
+dependencies = [
+	'six>=1.5.2',
+	'futures>=2.2.0; python_version < "3.2"',
+	'enum34>=1.0.4; python_version < "3.4"',
+	'grpcio-tools>=1.40.0; extra == "protobuf"',
+]
