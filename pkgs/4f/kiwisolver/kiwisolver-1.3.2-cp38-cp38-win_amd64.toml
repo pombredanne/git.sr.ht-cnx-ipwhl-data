@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/30/17/5474c0fcd670f1bb2204218bf3f444e6012a97f774336022612320ab4ea4/kiwisolver-1.3.2-cp38-cp38-win_amd64.whl'
+content-id = 'QmY24pcfkMVkz4SEsq6jQY1jHozGCoZV9qFZPtU9u5jnzZ'
+requires-python = '>=3.7'
+extras = []
+dependencies = []

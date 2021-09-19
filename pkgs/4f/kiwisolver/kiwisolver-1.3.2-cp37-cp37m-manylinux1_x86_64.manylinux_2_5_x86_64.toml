@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/09/6b/6e567cb2e86d4e5939a9233f8734e26021b6a9c1bc4b1edccba236a84cc2/kiwisolver-1.3.2-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl'
+content-id = 'QmUs9eKYUimTkhurSfvTQ1ufuDmntNBkQkjwgKtgRAVLQR'
+requires-python = '>=3.7'
+extras = []
+dependencies = []
