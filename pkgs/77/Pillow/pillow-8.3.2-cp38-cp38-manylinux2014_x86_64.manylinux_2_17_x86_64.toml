@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/f8/9e/6b0c9d6e2546faf92385a50ee02294a484ef2eb2170a63e05eb78d1742f7/Pillow-8.3.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl'
+content-id = 'QmYJigCL8creVkCEX5512WEWoewiEuY9KjFbva37h3Sy1A'
+requires-python = '>=3.6'
+extras = []
+dependencies = []

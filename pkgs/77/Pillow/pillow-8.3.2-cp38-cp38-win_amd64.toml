@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/fd/fc/fc1c5fc13d29360a4f8398d4d334030cea18d44f78c73efc08a3e808aa5f/Pillow-8.3.2-cp38-cp38-win_amd64.whl'
+content-id = 'QmSepXc8xQVe98GcN82z9sxz5UxxFSK3TzNykBWCMHMUGd'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
