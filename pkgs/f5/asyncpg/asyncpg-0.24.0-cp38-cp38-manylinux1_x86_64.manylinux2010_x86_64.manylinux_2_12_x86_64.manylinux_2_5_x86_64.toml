@@ -1,0 +1,26 @@
+source = 'https://files.pythonhosted.org/packages/31/f9/a9f5320296f75d2624592823a78779c24d6096bf9d3623134fb3de6ea83d/asyncpg-0.24.0-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl'
+content-id = 'QmXNXGG4RidxjEW8SDvHK46c1kJ45FNzRFQbTB2YZCiDPo'
+requires-python = '>=3.6.0'
+extras = [
+	# Ignore development extras
+	# 'dev',
+	# 'docs',
+	# 'test',
+]
+dependencies = [
+	'typing-extensions>=3.7.4.3; python_version < "3.8"',
+	'Cython<0.30.0,>=0.29.24; extra == "dev"',
+	'pytest>=6.0; extra == "dev"',
+	'Sphinx~=4.1.2; extra == "dev"',
+	'sphinxcontrib-asyncio~=0.3.0; extra == "dev"',
+	'sphinx-rtd-theme~=0.5.2; extra == "dev"',
+	'pycodestyle~=2.7.0; extra == "dev"',
+	'flake8~=3.9.2; extra == "dev"',
+	'uvloop>=0.15.3; (platform_system != "Windows" and python_version >= "3.7") and extra == "dev"',
+	'Sphinx~=4.1.2; extra == "docs"',
+	'sphinxcontrib-asyncio~=0.3.0; extra == "docs"',
+	'sphinx-rtd-theme~=0.5.2; extra == "docs"',
+	'pycodestyle~=2.7.0; extra == "test"',
+	'flake8~=3.9.2; extra == "test"',
+	'uvloop>=0.15.3; (platform_system != "Windows" and python_version >= "3.7") and extra == "test"',
+]
