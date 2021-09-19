@@ -1,6 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/4c/53/ddcef00219f2a3c863b24288e24a20c3070bd086a1e77706f22994a7f6db/protobuf-3.17.3-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl'
-content-id = 'QmUwXKSEf9wySno5aPu9EQm3PCfqcvanRadGCT4Q1ja6Xv'
-extras = []
-dependencies = [
-	'six>=1.9',
-]
