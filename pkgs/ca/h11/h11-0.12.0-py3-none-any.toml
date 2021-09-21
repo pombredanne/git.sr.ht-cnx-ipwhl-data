@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/60/0f/7a0eeea938eaf61074f29fed9717f2010e8d0e0905d36b38d3275a1e4622/h11-0.12.0-py3-none-any.whl'
+content-id = 'QmXTpaEJRDBB2AhXn4wJTp1M8Z7k7WTXTvqv8D4zYa2cJd'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
