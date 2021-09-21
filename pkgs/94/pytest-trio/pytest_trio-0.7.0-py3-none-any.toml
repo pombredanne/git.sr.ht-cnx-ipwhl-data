@@ -1,0 +1,10 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/592873/726f1d6a9d40c4fa/pytest_trio-0.7.0-py3-none-any.whl'
+content-id = 'QmV2E6zTvS8oAfwvXE7SwP4oW5CXCe6Cn1Fr38pTX7W3dX'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'trio>=0.15.0',
+	'async-generator>=1.9',
+	'outcome',
+	'pytest>=3.6',
+]
