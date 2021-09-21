@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/ea/25/0934b1d00f404d75335b144d4396e01998f25db8953bf54b4d6fe65b80ab/wsproto-1.0.0-py3-none-any.whl'
+content-id = 'Qmdoe74VXQUMH11iRmC4W6gJUXpHPjcmYWw1fEESk7PPnV'
+requires-python = '>=3.6.1'
+extras = []
+dependencies = [
+	'h11<1,>=0.9.0',
+	'dataclasses; python_version < "3.7"',
+]
