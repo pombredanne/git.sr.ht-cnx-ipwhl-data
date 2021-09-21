@@ -1,0 +1,16 @@
+source = 'https://files.pythonhosted.org/packages/a3/95/0e051fbebae0f23f980c0f29d79192d652b964a1a5bea426feb072ff89c6/Quart-0.15.1-py3-none-any.whl'
+content-id = 'QmZ2iDx67YW34cgLoESaptZjsrGqFUziAhDAkQPu4Egz9o'
+requires-python = '>=3.7.0'
+extras = ['dotenv']
+dependencies = [
+	'aiofiles',
+	'blinker',
+	'click',
+	'hypercorn>=0.11.2',
+	'itsdangerous',
+	'jinja2',
+	'toml',
+	'werkzeug>=2.0.0',
+	'typing-extensions; python_version < "3.8"',
+	'python-dotenv; extra == "dotenv"',
+]
