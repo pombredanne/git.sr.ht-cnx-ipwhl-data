@@ -3,9 +3,9 @@ content-id = 'QmcizkzEv3wzFqx1n2NK7QnSYGTjTL883JNJzZ4YMSx3Kz'
 requires-python = '>=3.5'
 extras = [
 	# Ignore development extras
-	# 'dev',
+	# 'dev', # FIXME: re-add when furo is packaged
 	# 'docs',
-	# 'tests',
+	'tests',
 ]
 dependencies = [
 	'cffi>=1.0.0',
