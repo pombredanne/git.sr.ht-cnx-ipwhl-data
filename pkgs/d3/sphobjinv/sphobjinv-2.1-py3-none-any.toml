@@ -1,9 +1,7 @@
 source = 'https://files.pythonhosted.org/packages/39/50/2575c045852f4d5e93af22485b7c2936b2c78c96b2ef6ce8a1e337dcc883/sphobjinv-2.1-py3-none-any.whl'
 content-id = 'QmQB3PxokiSumd57XjkmrvwQCoMFP5tHANdSuG4RhRcVb5'
 requires-python = '>=3.6'
-extras = [
-#'speedup' #FIXME: re-add when switch ci
-]
+extras = ['speedup']
 dependencies = [
 	'attrs>=19.2',
 	'certifi',
