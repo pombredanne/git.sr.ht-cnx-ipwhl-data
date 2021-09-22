@@ -2,7 +2,7 @@ source = 'https://files.pythonhosted.org/packages/99/84/14429a401f70d8b722116a4d
 content-id = 'QmPdZnjvJ22fyVfXCVow5bVNXt5YNfB7n2kxctyW5WaCeA'
 requires-python = '>=3.6'
 extras = [
-	# 'dev', #FIXME: re-add when package twine
+	# 'dev',
 	'test'
 	#'validate'#FIXME: contact upstream to loose mypy and re-add 
 ]
