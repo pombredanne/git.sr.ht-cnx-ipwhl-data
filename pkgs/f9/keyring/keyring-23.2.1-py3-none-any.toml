@@ -1,0 +1,23 @@
+source = 'https://files.pythonhosted.org/packages/58/b7/cc5a5321a6119e23ee85745ba204a67d646835e8882ba36eece32ee2b4e1/keyring-23.2.1-py3-none-any.whl'
+content-id = 'QmVg43wCrqGjFV7ptKiHAaKuJmpEmixjbzWKNn1pYZ2Lec'
+requires-python = '>=3.6'
+extras = [
+	'docs'
+	#'testing' #FIXME: re-add when pytest-checkdocs is added
+]
+dependencies = [
+	'importlib-metadata>=3.6',
+	'SecretStorage>=3.2; sys_platform == "linux"',
+	'jeepney>=0.4.2; sys_platform == "linux"',
+	'pywin32-ctypes!=0.1.0,!=0.1.1; sys_platform == "win32"',
+	'sphinx; extra == "docs"',
+	'jaraco.packaging>=8.2; extra == "docs"',
+	'rst.linker>=1.9; extra == "docs"',
+	'pytest>=4.6; extra == "testing"',
+	'pytest-checkdocs>=2.4; extra == "testing"',
+	'pytest-flake8; extra == "testing"',
+	'pytest-cov; extra == "testing"',
+	'pytest-enabler>=1.0.1; extra == "testing"',
+	'pytest-black>=0.3.7; platform_python_implementation != "PyPy" and extra == "testing"',
+	'pytest-mypy; platform_python_implementation != "PyPy" and extra == "testing"',
+]
