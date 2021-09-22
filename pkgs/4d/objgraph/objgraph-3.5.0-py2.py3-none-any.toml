@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/a9/79/9f47706447b9ba0003c0680da4fed1d502adf410e1d953b4d1a5d3486640/objgraph-3.5.0-py2.py3-none-any.whl'
+content-id = 'QmbzmcFXcHiCRUW5Zz17GcxUuJiwmtEGgtfckVcB1YGitT'
+extras = []
+dependencies = [
+	'graphviz',
+]
