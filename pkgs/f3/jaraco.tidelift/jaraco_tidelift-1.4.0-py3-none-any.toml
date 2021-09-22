@@ -1,0 +1,24 @@
+source = 'https://files.pythonhosted.org/packages/08/be/c48b5755aa9b71745d3ab801809697b0431e4fb8c7cb7d2185bc48d7cd29/jaraco.tidelift-1.4.0-py3-none-any.whl'
+content-id = 'QmV9zH7MrriU5otoiUTzECtzrXnryJv7eh4T7fGr1nM6Gb'
+requires-python = '>=3.6'
+extras = [
+	'docs'
+	# 'testing' #FIXME: re-add when pytest-checkdocs is added
+]
+dependencies = [
+	'autocommand',
+	'requests-toolbelt',
+	'keyring',
+	'importlib-resources>=1.6',
+	'sphinx; extra == "docs"',
+	'jaraco.packaging>=8.2; extra == "docs"',
+	'rst.linker>=1.9; extra == "docs"',
+	'pytest>=4.6; extra == "testing"',
+	'pytest-checkdocs>=2.4; extra == "testing"',
+	'pytest-flake8; extra == "testing"',
+	'pytest-cov; extra == "testing"',
+	'pytest-enabler>=1.0.1; extra == "testing"',
+	'types-docutils; extra == "testing"',
+	'pytest-black>=0.3.7; platform_python_implementation != "PyPy" and extra == "testing"',
+	'pytest-mypy; platform_python_implementation != "PyPy" and extra == "testing"',
+]
