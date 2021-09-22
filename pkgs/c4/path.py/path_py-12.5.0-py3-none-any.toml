@@ -1,0 +1,21 @@
+source = 'https://files.pythonhosted.org/packages/8f/04/130b7a538c25693c85c4dee7e25d126ebf5511b1eb7320e64906687b159e/path.py-12.5.0-py3-none-any.whl'
+content-id = 'QmS1mueCiAWgoDFT8gpk4KkNWku3oKAZFW2fo2yZTRXvQZ'
+requires-python = '>=3.5'
+extras = [
+	'docs'
+	# 'testing' #FIXME: re-add when pytest-checkdocs is added
+]
+dependencies = [
+	'path',
+	'sphinx; extra == "docs"',
+	'jaraco.packaging>=3.2; extra == "docs"',
+	'rst.linker>=1.9; extra == "docs"',
+	'pytest!=3.7.3,>=3.5; extra == "testing"',
+	'pytest-checkdocs>=1.2.3; extra == "testing"',
+	'pytest-flake8; extra == "testing"',
+	'pytest-black-multipy; extra == "testing"',
+	'pytest-cov; extra == "testing"',
+	'appdirs; extra == "testing"',
+	'packaging; extra == "testing"',
+	'pygments; extra == "testing"',
+]
