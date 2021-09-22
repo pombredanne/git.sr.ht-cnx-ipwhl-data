@@ -1,7 +1,11 @@
 source = 'https://files.pythonhosted.org/packages/a3/0f/3d989a90cd4533145c96860bc7eab1113ca14ea9bd731f1b7be7476e3637/requirementslib-1.5.16-py2.py3-none-any.whl'
 content-id = 'QmfDhMhQKqCvBnSBtBtVKCuLtmAwwSrLgZFHhxH1MEhUiT'
 requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
-extras = []
+extras = [
+	# 'dev', #FIXME: re-add when parver, towncrier
+	'tests',
+	# 'typing', #FIXME: re-add when pytype is packaged for Windows
+]
 dependencies = [
 	'appdirs',
 	'attrs>=19.2',
