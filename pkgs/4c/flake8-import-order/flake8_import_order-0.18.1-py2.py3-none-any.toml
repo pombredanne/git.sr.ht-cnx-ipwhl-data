@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/ab/52/cf2d6e2c505644ca06de2f6f3546f1e4f2b7be34246c9e0757c6048868f9/flake8_import_order-0.18.1-py2.py3-none-any.whl'
+content-id = 'QmUX3iL6Rz2rNngJy4hknhUNbYW3ayuwATgDo66RrPkA9w'
+extras = []
+dependencies = [
+	'pycodestyle',
+	'setuptools',
+	'enum34; python_version <= "2.7"',
+]
