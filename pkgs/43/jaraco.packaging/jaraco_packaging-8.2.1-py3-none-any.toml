@@ -1,0 +1,21 @@
+source = 'https://files.pythonhosted.org/packages/1e/85/49d4d2286dc5a1ed320a6926312753b939ad4b84184b2158beac75baf758/jaraco.packaging-8.2.1-py3-none-any.whl'
+content-id = 'QmQQZTHxoQeX3pCyhpveMXCGsdvi46LHcpcvWnUr5ysSsX'
+requires-python = '>=3.6'
+extras = [
+	'docs'
+	# 'testing' #FIXME: re-add when pytest-checkdocs is added
+]
+dependencies = [
+	'setuptools',
+	'importlib-metadata; python_version < "3.8"',
+	'sphinx; extra == "docs"',
+	'jaraco.packaging>=8.2; extra == "docs"',
+	'rst.linker>=1.9; extra == "docs"',
+	'pytest>=4.6; extra == "testing"',
+	'pytest-checkdocs>=2.4; extra == "testing"',
+	'pytest-flake8; extra == "testing"',
+	'pytest-cov; extra == "testing"',
+	'pytest-enabler>=1.0.1; extra == "testing"',
+	'pytest-black>=0.3.7; (platform_python_implementation != "PyPy" and python_version < "3.10") and extra == "testing"',
+	'pytest-mypy; (platform_python_implementation != "PyPy" and python_version < "3.10") and extra == "testing"',
+]
