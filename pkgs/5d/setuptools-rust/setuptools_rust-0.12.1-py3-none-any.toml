@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/82/2b/349ad916a2f032506a2c7c0810950a299f96e05d88b21797c2170bd6b2c6/setuptools_rust-0.12.1-py3-none-any.whl'
+content-id = 'QmWASf6mWw453LepaT4bot2MEJ9BAUcaZLeaRCXcck4btj'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'setuptools>=46.1',
+	'semantic-version>=2.6.0',
+	'toml>=0.9.0',
+]
