@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/0d/14/8a76b3e07e0bebcb18612a5b91893af52075e835be71c79b4ea4d2544c41/google_crc32c-1.2.0-cp38-cp38-macosx_10_9_universal2.whl'
+content-id = 'Qmd6HNkDJ15vTD1vT8evbA7knNb4isn9z1D67h7E7xQVi2'
+requires-python = '>=3.6'
+extras = ['testing']
+dependencies = [
+	'pytest; extra == "testing"',
+]

@@ -1,7 +1,9 @@
 source = 'https://files.pythonhosted.org/packages/dd/c9/4a9e524f549c37c8b1d3d0ef3bf54f59c2c7b6e41b72fbfba00e03e4de71/immutables-0.16-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl'
 content-id = 'Qmc5xkKpiqA5mfWaTfvQEpDYDH1YFghYcJk3VnZHuj9xz1'
 requires-python = '>=3.6'
-extras = []
+extras = [
+	#  # FIXME: re-add when they loose pycodestyle et al
+]
 dependencies = [
 	'typing-extensions>=3.7.4.3; python_version < "3.8"',
 	'flake8~=3.8.4; extra == "test"',

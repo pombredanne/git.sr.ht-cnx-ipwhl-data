@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/4d/b6/21b418b2b3dd548d2273d6963d66b3d775167da5f1a39e551ed0e857ccee/scipy-1.7.1-cp39-cp39-macosx_10_9_x86_64.whl'
+content-id = 'QmVEX36jY2trD2EivKEsXypjnPmWJAQ9bnCkvMTozbj2rF'
+requires-python = '<3.10,>=3.7'
+extras = []
+dependencies = [
+	'numpy<1.23.0,>=1.16.5',
+]

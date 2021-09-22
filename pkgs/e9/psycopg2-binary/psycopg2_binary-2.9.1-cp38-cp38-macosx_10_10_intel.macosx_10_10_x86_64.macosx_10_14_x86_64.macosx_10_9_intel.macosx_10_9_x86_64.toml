@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/f6/06/3b12886cb0a6f151c7a540766232c77ab0ce2fe37fcc90de37f02ee45711/psycopg2_binary-2.9.1-cp38-cp38-macosx_10_14_x86_64.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl'
+content-id = 'QmdKTWFZR25jSR74kQHMgbYYNK6VWfiFpxAJLyiKD5fc4k'
+requires-python = '>=3.6'
+extras = []
+dependencies = []

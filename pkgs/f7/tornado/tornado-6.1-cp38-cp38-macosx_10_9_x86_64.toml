@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/30/a7/b8b5a52ebc7a4b8b539a7f7259346c78a03da6b39c618c3ef1da7358377f/tornado-6.1-cp38-cp38-macosx_10_9_x86_64.whl'
+content-id = 'QmRHSk4W1phMorxu7fuzaunmMYE1ZWN2CN8Ej61jLozX9b'
+requires-python = '>=3.5'
+extras = []
+dependencies = []

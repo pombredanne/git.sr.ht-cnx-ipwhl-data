@@ -1,0 +1,18 @@
+source = 'https://files.pythonhosted.org/packages/85/36/8637de18f5b91c84942b36d5d47b74befb8b41af6574520f1ba23fae59c0/aiohttp-3.7.4.post0-cp38-cp38-macosx_10_14_x86_64.whl'
+content-id = 'QmfRzv8jHpY4R54tXShoQ9TxuHSzqu9S7LDUi6Z4L99Krb'
+requires-python = '>=3.6'
+extras = [
+	# 'speedups' # FIXME: re-add when brotlipy is added
+]
+dependencies = [
+	'attrs>=17.3.0',
+	'chardet<5.0,>=2.0',
+	'multidict<7.0,>=4.5',
+	'async-timeout<4.0,>=3.0',
+	'yarl<2.0,>=1.0',
+	'typing-extensions>=3.6.5',
+	'idna-ssl>=1.0; python_version < "3.7"',
+	'aiodns; extra == "speedups"',
+	'brotlipy; extra == "speedups"',
+	'cchardet; extra == "speedups"',
+]

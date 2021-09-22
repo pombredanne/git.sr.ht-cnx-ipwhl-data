@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/e9/2d/297c01c7ed7d4d040903807824dc64d4f7bb53c15183ac9d7cb496d843eb/PyYAML-5.4.1-cp39-cp39-macosx_10_9_x86_64.whl'
+content-id = 'QmVKYNsBf2VWajKW5nYy2xjttr9meH2wbDMSLJ1bgDjQTe'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*,>=2.7'
+extras = []
+dependencies = []

@@ -1,0 +1,12 @@
+source = 'https://files.pythonhosted.org/packages/fe/19/83ab423a7b69cafe4078dea751acdff7377e4b59c71e3718125ba3c341f9/psutil-5.8.0-cp37-cp37m-macosx_10_9_x86_64.whl'
+content-id = 'QmQfdGJN1sukiojTHkXttkaiueQ6HM1zchRfywd51JyDSH'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.6'
+extras = ['test']
+dependencies = [
+	'ipaddress; python_version < "3.0" and extra == "test"',
+	'mock; python_version < "3.0" and extra == "test"',
+	'unittest2; python_version < "3.0" and extra == "test"',
+	'enum34; python_version <= "3.4" and extra == "test"',
+	'pywin32; sys_platform == "win32" and extra == "test"',
+	'wmi; sys_platform == "win32" and extra == "test"',
+]

@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/1e/3e/f0abc15d5dac50939bccc589aae336d5ead4c72e7ad1039a2e0f3630ea92/lxml-4.6.3-cp37-cp37m-macosx_10_9_x86_64.whl'
+content-id = 'QmTTsBsruTCKfRUGk8Rua5vCuq2uyGBfQrGxH6AXJZuKcn'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
+extras = ['cssselect', 'html5', 'htmlsoup', 'source']
+dependencies = [
+	'cssselect>=0.7; extra == "cssselect"',
+	'html5lib; extra == "html5"',
+	'BeautifulSoup4; extra == "htmlsoup"',
+	'Cython>=0.29.7; extra == "source"',
+]

@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/4a/6d/eca004eeadcbf8bd64cc96feb9e355536147f0577420b44d80c7cac70767/backports.zoneinfo-0.2.1-cp38-cp38-macosx_10_14_x86_64.whl'
+content-id = 'QmY6Ue91fQs6panEmYXzgjk2U2isc8v5GoKHFqeYbADsWF'
+requires-python = '>=3.6'
+extras = ['tzdata']
+dependencies = [
+	'importlib-resources; python_version < "3.7"',
+	'tzdata; extra == "tzdata"',
+]

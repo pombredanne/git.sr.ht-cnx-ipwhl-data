@@ -1,0 +1,19 @@
+source = 'https://files.pythonhosted.org/packages/25/73/fc78a52dcf3be8c60587b588af6ec8b02b1aa48a9059438ab451f05983a0/argon2_cffi-21.1.0-cp35-abi3-macosx_10_14_x86_64.whl'
+content-id = 'QmSTpiZYCLftmDRyHPFMWdrg6Cr1N2teRyXVDWEfHGcqV8'
+requires-python = '>=3.5'
+extras = ['dev', 'docs', 'tests']
+dependencies = [
+	'cffi>=1.0.0',
+	'coverage[toml]>=5.0.2; extra == "dev"',
+	'hypothesis; extra == "dev"',
+	'pytest; extra == "dev"',
+	'sphinx; extra == "dev"',
+	'furo; extra == "dev"',
+	'wheel; extra == "dev"',
+	'pre-commit; extra == "dev"',
+	'sphinx; extra == "docs"',
+	'furo; extra == "docs"',
+	'coverage[toml]>=5.0.2; extra == "tests"',
+	'hypothesis; extra == "tests"',
+	'pytest; extra == "tests"',
+]

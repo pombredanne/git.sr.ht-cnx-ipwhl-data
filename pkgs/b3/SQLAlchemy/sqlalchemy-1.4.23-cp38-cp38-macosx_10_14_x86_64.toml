@@ -1,0 +1,46 @@
+source = 'https://files.pythonhosted.org/packages/07/31/8afeb4ff95c340442bf322cd79a440b2a3ca6e590d29d7eca64cdcb830ea/SQLAlchemy-1.4.23-cp38-cp38-macosx_10_14_x86_64.whl'
+content-id = 'QmRCCaamwasH2eEvKjnEKd9MF1f1CfWXzQgJvcg9eRht8U'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*,>=2.7'
+extras = [
+	'aiomysql', 'aiosqlite', 'asyncio',
+	# 'mariadb_connector', 'mssql', # FIXME: Can't build
+	'mssql_pymssql',
+	# 'mssql_pyodbc', # Can't build
+	# 'mypy', # depsck bug, maybe
+	# 'mysql', 'mysql_connector', # FIXME: Can't build
+	'oracle',
+	# 'postgresql', # Can't build
+	'postgresql_asyncpg', 'postgresql_pg8000', 'postgresql_psycopg2binary',
+	# 'postgresql_psycopg2cffi', # FIXME: Can't build
+	'pymysql',
+	# 'sqlcipher' # FIXME: re-add when sqlcipher3-binary is added
+]
+dependencies = [
+	'importlib-metadata; python_version < "3.8"',
+	'greenlet!=0.4.17; python_version >= "3" and platform_machine in "x86_64 X86_64 aarch64 AARCH64 ppc64le PPC64LE amd64 AMD64 win32 WIN32"',
+	'greenlet!=0.4.17; python_version >= "3" and extra == "aiomysql"',
+	'aiomysql; python_version >= "3" and extra == "aiomysql"',
+	'greenlet!=0.4.17; python_version >= "3" and extra == "aiosqlite"',
+	'aiosqlite; python_version >= "3" and extra == "aiosqlite"',
+	'greenlet!=0.4.17; python_version >= "3" and extra == "asyncio"',
+	'mariadb>=1.0.1; python_version >= "3" and extra == "mariadb_connector"',
+	'pyodbc; extra == "mssql"',
+	'pymssql; extra == "mssql_pymssql"',
+	'pyodbc; extra == "mssql_pyodbc"',
+	'sqlalchemy2-stubs; extra == "mypy"',
+	'mypy>=0.910; python_version >= "3" and extra == "mypy"',
+	'mysqlclient<2,>=1.4.0; python_version < "3" and extra == "mysql"',
+	'mysqlclient>=1.4.0; python_version >= "3" and extra == "mysql"',
+	'mysqlconnector; extra == "mysql_connector"',
+	'cx-oracle<8,>=7; python_version < "3" and extra == "oracle"',
+	'cx-oracle>=7; python_version >= "3" and extra == "oracle"',
+	'psycopg2>=2.7; extra == "postgresql"',
+	'greenlet!=0.4.17; python_version >= "3" and extra == "postgresql_asyncpg"',
+	'asyncpg; python_version >= "3" and extra == "postgresql_asyncpg"',
+	'pg8000>=1.16.6; extra == "postgresql_pg8000"',
+	'psycopg2-binary; extra == "postgresql_psycopg2binary"',
+	'psycopg2cffi; extra == "postgresql_psycopg2cffi"',
+	'pymysql<1; python_version < "3" and extra == "pymysql"',
+	'pymysql; python_version >= "3" and extra == "pymysql"',
+	'sqlcipher3-binary; python_version >= "3" and extra == "sqlcipher"',
+]

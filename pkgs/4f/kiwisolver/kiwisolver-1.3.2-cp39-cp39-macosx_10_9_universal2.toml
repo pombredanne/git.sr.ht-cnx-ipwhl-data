@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/86/3a/52a9163717351c20f35ea57552da06e7d82250d0eb8c34c03894066b067c/kiwisolver-1.3.2-cp39-cp39-macosx_10_9_universal2.whl'
+content-id = 'QmWPVk3aSVE2bmqvosk6nWidWGdSTRY6j36NX7qMxHr7Cc'
+requires-python = '>=3.7'
+extras = []
+dependencies = []

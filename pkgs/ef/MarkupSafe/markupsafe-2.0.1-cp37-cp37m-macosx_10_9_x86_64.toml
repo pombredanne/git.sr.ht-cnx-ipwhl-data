@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/75/90/b780381ddf38e2afd07a04746b5d3158a085464f7c757fc62cd198aa5379/MarkupSafe-2.0.1-cp37-cp37m-macosx_10_9_x86_64.whl'
+content-id = 'QmNgaZuaZzAp4oEdY9Wx8zXQUG69nzeJjdQtzY6WnwsNra'
+requires-python = '>=3.6'
+extras = []
+dependencies = []

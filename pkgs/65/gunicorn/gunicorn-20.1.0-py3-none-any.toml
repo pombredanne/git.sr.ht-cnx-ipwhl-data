@@ -1,7 +1,10 @@
 source = 'https://files.pythonhosted.org/packages/e4/dd/5b190393e6066286773a67dfcc2f9492058e9b57c4867a95f1ba5caf0a83/gunicorn-20.1.0-py3-none-any.whl'
 content-id = 'QmdZ9YAeJJ3TEU4NvNLPXPeFbS5ir7uga496FEhexifvJX'
 requires-python = '>=3.5'
-extras = ['eventlet', 'gevent', 'gthread', 'setproctitle', 'tornado']
+extras = [
+	'eventlet', 'gevent', 'gthread',
+	# 'setproctitle', # FIXME: re-add when setproctitle is added for mac
+	'tornado']
 dependencies = [
 	'setuptools>=3.0',
 	'eventlet>=0.24.1; extra == "eventlet"',

@@ -1,0 +1,13 @@
+source = 'https://files.pythonhosted.org/packages/5b/1c/67fb7b4099176d5fd977d2f365d422b49c362939982ac64abed7a3a0e26c/immutables-0.16-cp38-cp38-macosx_10_9_universal2.whl'
+content-id = 'QmUzFVGPJ8nehcJ3ZsZjVZMFfzzRMbkpreZF9r6itCE2ep'
+requires-python = '>=3.6'
+extras = [
+	# 'test' # FIXME: re-add when they loose pycodestyle et al
+]
+dependencies = [
+	'typing-extensions>=3.7.4.3; python_version < "3.8"',
+	'flake8~=3.8.4; extra == "test"',
+	'pycodestyle~=2.6.0; extra == "test"',
+	'mypy>=0.910; extra == "test"',
+	'pytest~=6.2.4; extra == "test"',
+]

@@ -1,0 +1,18 @@
+source = 'https://files.pythonhosted.org/packages/b3/fb/028b2dad9bda355c5a1aa9e9483d938cbc781ab6079fbf9162aa6aae47b3/zope.interface-5.4.0-cp37-cp37m-macosx_10_14_x86_64.whl'
+content-id = 'QmWdS5e4s61HDc4BV3CDEa7KX4RgieoBUCKzG2RLbWJD61'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
+extras = [
+	'docs'
+	#, 'test', 'testing' # FIXME: re-add when zope.testing is packaged
+]
+dependencies = [
+	'setuptools',
+	'Sphinx; extra == "docs"',
+	'repoze.sphinx.autointerface; extra == "docs"',
+	'coverage>=5.0.3; extra == "test"',
+	'zope.event; extra == "test"',
+	'zope.testing; extra == "test"',
+	'coverage>=5.0.3; extra == "testing"',
+	'zope.event; extra == "testing"',
+	'zope.testing; extra == "testing"',
+]

@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/40/d0/2d072b3b386156dada6d38c29d756b722d82ca38bfa3bacaaa6fcf765640/editdistance_s-1.0.0-cp36-abi3-macosx_10_14_x86_64.whl'
+content-id = 'QmWFnZjs4mn4RaMr4A4mbzPypsSveUHzba7tqegBtaHhat'
+requires-python = '>=3.6.1'
+extras = []
+dependencies = [
+	'cffi>=1',
+]

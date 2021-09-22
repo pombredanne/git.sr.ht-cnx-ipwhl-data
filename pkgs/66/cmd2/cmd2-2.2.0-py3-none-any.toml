@@ -3,7 +3,7 @@ content-id = 'QmPdZnjvJ22fyVfXCVow5bVNXt5YNfB7n2kxctyW5WaCeA'
 requires-python = '>=3.6'
 extras = [
 	# 'dev',
-	'test'
+	# 'test' # FIXME: re-add when gnureadline is packaged
 	#'validate'#FIXME: contact upstream to loose mypy and re-add 
 ]
 dependencies = [
