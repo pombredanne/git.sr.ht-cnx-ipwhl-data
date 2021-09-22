@@ -1,0 +1,6 @@
+source = 'https://github.com/ipwhl/cheese-maker/releases/download/python-levenshtein-0.12.2/python_Levenshtein-0.12.2-cp37-cp37m-macosx_10_9_x86_64.whl'
+content-id = 'QmYxe283rK7W7oeryVbqpJnGwdTDMTKpvDHMhRW9hWB1xA'
+extras = []
+dependencies = [
+	'setuptools',
+]
