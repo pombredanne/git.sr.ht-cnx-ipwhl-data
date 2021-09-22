@@ -2,8 +2,7 @@ source = 'https://files.pythonhosted.org/packages/7e/4d/5d97a8431861fae10d04a617
 content-id = 'QmRgdR7ivrJAd5BZe9tygrtiLub1WwAYvpXnWqobW6dtDn'
 requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5,>=2.7'
 extras = [
-	#'docs', 'test'
-	'dnspython', 'events', 'monitor', 'recommended'
+	'docs', 'test', 'dnspython', 'events', 'monitor', 'recommended'
 ]
 dependencies = [
 	'zope.event',
