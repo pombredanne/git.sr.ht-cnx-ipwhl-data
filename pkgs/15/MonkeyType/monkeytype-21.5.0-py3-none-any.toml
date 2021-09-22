@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/e1/0e/957a1697a47ba5d1093b50d6ab63d88a998cb9894102a9e5dceb9553dd2c/MonkeyType-21.5.0-py3-none-any.whl'
+content-id = 'Qmep2K4D2XMVPVGs2RAHrx7QrKg1CC4HvmCNsNjzkjkrFR'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'mypy-extensions',
+	'libcst>=0.3.7',
+]
