@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/ee/cc/f8782fb91a6a9e1b593c22e3b1a7354a9dbd6d632e63ddf122b2da49037b/pytest_rerunfailures-10.2-py3-none-any.whl'
+content-id = 'QmbWSbZCLRcmfsKoSiv4Rz269vSmrgKwBnGSdcLZBgQc7i'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'setuptools>=40.0',
+	'pytest>=5.3',
+]
