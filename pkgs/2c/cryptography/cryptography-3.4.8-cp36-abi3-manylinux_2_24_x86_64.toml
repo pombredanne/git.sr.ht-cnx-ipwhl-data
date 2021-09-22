@@ -1,7 +1,13 @@
 source = 'https://files.pythonhosted.org/packages/17/7e/cec41c164b42db6364b10e13d218c40e604cc6745448b9fcd9318f2d9556/cryptography-3.4.8-cp36-abi3-manylinux_2_24_x86_64.whl'
 content-id = 'QmSFpf3WZ5wV2qMote9LXEXcz4fWfQwwPVrtnCYpaWcnFA'
 requires-python = '>=3.6'
-extras = ['ssh']
+extras = [
+	'ssh',
+	'pep8test',
+	'docstest',
+	'test',
+	'docs'
+]
 dependencies = [
 	'cffi>=1.12',
 	'sphinx!=1.8.0,!=3.1.0,!=3.1.1,>=1.6.5; extra == "docs"',

@@ -3,12 +3,10 @@ content-id = 'QmQ67xGdWEwtsMobPue87S8oz2gr34Zv5i95G3sS52cjPg'
 requires-python = '>=3.6'
 extras = [
 	'ssh',
-	# Ignore development extras
-	# 'docs',
-	# 'docstest',
-	# 'pep8test',
-	# 'sdist',
-	# 'test',
+	'pep8test',
+	'docstest',
+	'test',
+	'docs'
 ]
 dependencies = [
 	'cffi>=1.12',
