@@ -2,7 +2,7 @@ source = 'https://files.pythonhosted.org/packages/5c/03/b7e605db4a57c0f6fba744b1
 content-id = 'QmRCiUey7TnRySCBkcaiwmFJFy8GJJP4HbBr7BVm7N383N'
 requires-python = '>=3.6'
 extras = [
-	# 'build', # FIXME: re-add when twine is packaged
+	'build',
 	'docs',
 	#'test' # FIXME: re-add when they upgrade version for pytest
 ]
