@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/55/00/732551b778a9597f85db9fd6fe8bf8b19e80524a49c39fe9c3bbba28eaa4/pytest_subtests-0.5.0-py3-none-any.whl'
+content-id = 'QmYMECLSFcY5ixj6QWWEra9fP1bxNcZxr5kboGqnQTr1jw'
+requires-python = '>=3.5'
+extras = []
+dependencies = [
+	'pytest>=5.3.0',
+]
