@@ -1,0 +1,23 @@
+source = 'https://files.pythonhosted.org/packages/14/e0/82469d637bc04fd020f6d8d6d8f12ccee0c54a13d02c5dd297cf74975113/pytest_enabler-1.2.0-py3-none-any.whl'
+content-id = 'QmP9NqifRagHhYwtd6EmZwrLmesrT2mUfMXdCmYAWiks9q'
+requires-python = '>=3.6'
+extras = [
+	'docs'
+	# 'testing' #FIXME: re-add when pytest-checkdocs is added
+]
+dependencies = [
+	'toml',
+	'jaraco.functools',
+	'jaraco.context',
+	'more-itertools',
+	'sphinx; extra == "docs"',
+	'jaraco.packaging>=8.2; extra == "docs"',
+	'rst.linker>=1.9; extra == "docs"',
+	'pytest!=3.7.3,>=3.5; extra == "testing"',
+	'pytest-checkdocs>=1.2.3; extra == "testing"',
+	'pytest-flake8; extra == "testing"',
+	'pytest-cov; extra == "testing"',
+	'pytest-enabler; extra == "testing"',
+	'pytest-black>=0.3.7; platform_python_implementation != "PyPy" and extra == "testing"',
+	'pytest-mypy; platform_python_implementation != "PyPy" and extra == "testing"',
+]
