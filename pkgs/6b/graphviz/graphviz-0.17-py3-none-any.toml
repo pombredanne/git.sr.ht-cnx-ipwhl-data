@@ -1,0 +1,18 @@
+source = 'https://files.pythonhosted.org/packages/97/14/b5eeeb6d24dbca0ada857ce4a453985df34d9512464bb20cc1a8aca44c54/graphviz-0.17-py3-none-any.whl'
+content-id = 'QmWazT3pRc75HWreaTPvSEBM6QFHAg4H3yTX4rohjPrhTm'
+requires-python = '>=3.6'
+extras = ['dev', 'docs', 'test']
+dependencies = [
+	'tox>=3; extra == "dev"',
+	'flake8; extra == "dev"',
+	'pep8-naming; extra == "dev"',
+	'wheel; extra == "dev"',
+	'twine; extra == "dev"',
+	'sphinx>=1.8; extra == "docs"',
+	'sphinx-autodoc-typehints; extra == "docs"',
+	'sphinx-rtd-theme; extra == "docs"',
+	'mock>=3; extra == "test"',
+	'pytest>=5.2; extra == "test"',
+	'pytest-mock>=2; extra == "test"',
+	'pytest-cov; extra == "test"',
+]
