@@ -1,0 +1,14 @@
+source = 'https://files.pythonhosted.org/packages/14/b8/bb3e34d71472140f9bfdf5d77cd063e2cc964b72b1bb0b70fe3c1e7db932/jeepney-0.7.1-py3-none-any.whl'
+content-id = 'QmXwhe3K8QSoptk5HuGbxtx93BRYniNwFg1jj9c6xGAuhg'
+requires-python = '>=3.6'
+extras = ['test', 'trio']
+dependencies = [
+	'pytest; extra == "test"',
+	'pytest-trio; extra == "test"',
+	'pytest-asyncio; extra == "test"',
+	'testpath; extra == "test"',
+	'trio; extra == "test"',
+	'async-timeout; extra == "test"',
+	'trio; extra == "trio"',
+	'async_generator; extra == "trio" and python_version == "3.6"',
+]
