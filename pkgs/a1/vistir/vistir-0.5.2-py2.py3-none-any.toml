@@ -1,7 +1,13 @@
 source = 'https://files.pythonhosted.org/packages/ec/fd/9c8a07336eb504f0c06777dc847b9e9a9eb283eff3ccc4ca1f6366f21f46/vistir-0.5.2-py2.py3-none-any.whl'
 content-id = 'QmYoR6susziegkAjqBuQYJHGWLuZZtHu6QbzmX4jhudB1q'
 requires-python = '!=3.0,!=3.1,!=3.2,!=3.3,>=2.7'
-extras = ['requests', 'spinner']
+extras = [
+	# 'dev', #FIXME: re-add when parver is packaged
+	'requests',
+	'spinner',
+	# 'tests' #FIXME: re-add when hypothesis-fspaths and pytest-rerunfailures are packaged
+	# 'typing' #FIXME: re-add when pytype is packaged for windows
+]
 dependencies = [
 	'colorama!=0.4.2,>=0.3.4',
 	'six',
