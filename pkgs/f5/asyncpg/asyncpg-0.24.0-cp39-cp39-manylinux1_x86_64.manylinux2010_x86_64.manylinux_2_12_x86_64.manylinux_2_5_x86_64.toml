@@ -3,9 +3,9 @@ content-id = 'QmdVxWBi5sbB5zJSiG9X5ii86QXdsVzrq35fsUTFeQ7tiw'
 requires-python = '>=3.6.0'
 extras = [
 	# Ignore development extras
-	# 'dev',
-	# 'docs',
-	# 'test',
+	# 'dev', # FIXME: contact upstream to loose sphinx-rtd-theme and re-add
+	# 'docs', # FIXME: contact upstream to loose sphinx-rtd-theme and re-add
+	'test',
 ]
 dependencies = [
 	'typing-extensions>=3.7.4.3; python_version < "3.8"',

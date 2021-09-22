@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/fc/a7/62ebc193e65bf5b732cad2906cafa9c9e07575b2c35c7366b5db51203dee/asyncpg-0.24.0-cp39-cp39-win_amd64.whl'
-content-id = 'Qmb8ggAATMAcPwwknxX4B1rF7Goa9i4urEsyp8h7pxGJVE'
+source = 'https://files.pythonhosted.org/packages/fc/c3/f517553ef975e96b0931ed180b3057fd060982941cfd9f8d42acdceca1ee/asyncpg-0.24.0-cp39-cp39-macosx_10_9_x86_64.whl'
+content-id = 'QmRsMD48cV6ocgwrUsXSNvMXp44JuU4jw8MDLhXmAtAPGg'
 requires-python = '>=3.6.0'
 extras = [
 	# Ignore development extras
