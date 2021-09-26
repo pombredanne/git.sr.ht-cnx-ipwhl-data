@@ -1,5 +1,5 @@
-source = 'https://github.com/ipwhl/cheese-maker/releases/download/python-levenshtein-0.12.2/python_Levenshtein-0.12.2-cp39-cp39-win_amd64.whl'
-content-id = 'QmNXnFckVYDNfLyquorZxgFibTpc9EGD44UqKzhod1k1vb'
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~cnx/595955/9766225921289d57/python_Levenshtein-0.12.2-cp39-cp39-win_amd64.whl'
+content-id = 'QmQB4yfSoXfVy8uwyABeEVTuqhhPcZoSLnqAY1GyVdsPVb'
 extras = []
 dependencies = [
 	'setuptools',
