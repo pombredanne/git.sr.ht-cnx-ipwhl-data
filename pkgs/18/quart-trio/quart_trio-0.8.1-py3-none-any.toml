@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/64/b6/d47e5ad3c2a31523e09dd2f256035adc70bd539981face614eb133fb2153/quart_trio-0.8.1-py3-none-any.whl'
+content-id = 'QmXAKL7xK97wRnyrmUn6CHwqSMjpD7p5hC2iAB5V4kMg4Z'
+requires-python = '>=3.7'
+extras = []
+dependencies = [
+	'hypercorn[trio]>=0.6.0',
+	'quart>=0.15',
+	'trio>=0.9.0',
+]
