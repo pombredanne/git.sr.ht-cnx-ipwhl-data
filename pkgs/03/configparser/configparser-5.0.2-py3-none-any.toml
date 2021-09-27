@@ -2,8 +2,8 @@ source = 'https://files.pythonhosted.org/packages/fd/01/ff260a18caaf4457eb028c96
 content-id = 'QmcqkPyK3ioBKkzTkrCqJvVr28owZNjXwVEeJEiuZb9Dwg'
 requires-python = '>=3.6'
 extras = [
-	# 'docs', # FIXME: re-add when jaraco.packaging and rst.linker is added
-	# 'testing' # FIXME: re-add when pytest-enabler, pytest-checkdocs is added
+	'docs',
+	# 'testing' # FIXME: re-add when pytest-checkdocs is added
 ]
 dependencies = [
 	'sphinx; extra == "docs"',
