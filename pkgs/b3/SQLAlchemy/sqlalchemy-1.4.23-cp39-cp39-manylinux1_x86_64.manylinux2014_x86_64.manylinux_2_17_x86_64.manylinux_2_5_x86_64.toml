@@ -6,7 +6,7 @@ extras = [
 	# 'mariadb_connector', 'mssql', # Can't build
 	'mssql_pymssql',
 	# 'mssql_pyodbc', # Can't build
-	# 'mypy', # depsck bug, maybe
+	'mypy',
 	# 'mysql', 'mysql_connector', # Can't build
 	'oracle',
 	# 'postgresql', # Can't build

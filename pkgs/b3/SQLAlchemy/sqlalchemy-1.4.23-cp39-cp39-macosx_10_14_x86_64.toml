@@ -6,7 +6,7 @@ extras = [
 	# 'mariadb_connector', 'mssql', # FIXME: Can't build
 	'mssql_pymssql',
 	# 'mssql_pyodbc', # Can't build
-	# 'mypy', # depsck bug, maybe
+	'mypy',
 	# 'mysql', 'mysql_connector', # FIXME: Can't build
 	# 'oracle', # FIXME: re-add when cx-oracle is built
 	# 'postgresql', # Can't build
