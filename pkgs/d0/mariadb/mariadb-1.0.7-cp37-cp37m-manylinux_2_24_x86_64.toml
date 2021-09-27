@@ -1,0 +1,5 @@
+source = 'https://gitlab.com/ipwhl/caseiculture/-/jobs/1626407130/artifacts/raw/wheelhouse/mariadb-1.0.7-cp37-cp37m-manylinux_2_24_x86_64.whl'
+content-id = 'QmcrytfXx2rFsvsurwcGNPeziKxZ9bjVxzBuKozAevdeHr'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
