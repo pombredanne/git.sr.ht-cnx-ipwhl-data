@@ -1,0 +1,7 @@
+source = 'https://gitlab.com/ipwhl/caseiculture/-/jobs/1628121557/artifacts/raw/wheelhouse/gssapi-1.7.0-cp38-cp38-manylinux_2_24_x86_64.whl'
+content-id = 'QmWahq8qTeAZyvE1HKfPpir3ydh7BRxU4oBDGi1jQZRAoZ'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'decorator',
+]

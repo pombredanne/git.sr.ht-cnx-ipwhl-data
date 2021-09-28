@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/7c/92/6e540e2d708433ea7887fca35c8bd1d017bf6ae34294dd2eb67d8217723d/gssapi-1.7.0-cp38-cp38-win_amd64.whl'
+content-id = 'QmcVvoBbMbAYg49XFkfjRAqGhpTeX2PJ3wXfaGkB73fzww'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'decorator',
+]

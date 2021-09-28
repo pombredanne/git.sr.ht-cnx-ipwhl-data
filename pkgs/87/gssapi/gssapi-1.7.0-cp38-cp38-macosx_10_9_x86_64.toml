@@ -1,0 +1,7 @@
+source = 'https://github.com/ipwhl/cheese-maker/releases/download/gssapi-1.7.0/gssapi-1.7.0-cp38-cp38-macosx_10_9_x86_64.whl'
+content-id = 'QmPxGx12ngUrHXygf4QLC2FXFiBVWYkD1EuFE4LuoXxjvq'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'decorator',
+]
