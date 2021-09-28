@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/07/f3/28cb22dc644c6de783ff0111a4ee02233c43963421dbdc2390b587d48078/mysql_connector_python-8.0.26-py2.py3-none-any.whl'
+content-id = 'QmShwnytcXMxQsfMRnKTzcJ8TiMWaqbpMPM6e8QB8j67ZK'
+extras = ['compression', 'dns-srv', 'gssapi']
+dependencies = [
+	'protobuf>=3.0.0',
+	'lz4>=2.1.6; extra == "compression"',
+	'zstandard>=0.12.0; extra == "compression"',
+	'dnspython>=1.16.0; extra == "dns-srv"',
+	'gssapi>=1.6.9; extra == "gssapi"',
+]
