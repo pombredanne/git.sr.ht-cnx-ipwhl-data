@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/33/a3/f5b4605290b9767e1b95eb55a0464a15ce10bac1ba353953dd5b73c52312/pytest_remotedata-0.3.2-py2.py3-none-any.whl'
+content-id = 'QmTPmWNgsjh5wHQ8gvqPBJbf8JMwrT7awbbEnJ2xyCkVrf'
+requires-python = '>=2.7'
+extras = []
+dependencies = [
+	'six',
+	'pytest>=3.1',
+]
