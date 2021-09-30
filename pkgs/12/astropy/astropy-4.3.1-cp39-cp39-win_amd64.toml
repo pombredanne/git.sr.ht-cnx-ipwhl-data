@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/39/6e/04fba8c047000e3d9f09879f4e24ff805edbc4bb3943ec3a31e18ed6cad4/astropy-4.3.1-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl'
-content-id = 'QmaETdNh6CPmbLzKRwCw4uqKTL2H8HGuNZiBFLHB4bbrqi'
+source = 'https://files.pythonhosted.org/packages/97/14/ea66de2469714db200e3490afe05cdbce91504675154166a0de8790ff5a8/astropy-4.3.1-cp39-cp39-win_amd64.whl'
+content-id = 'QmS7b6GiLqHLXHPYn4tZ8gHbBkzcPVmvRQoirAL6aWecRH'
 requires-python = '>=3.7'
 extras = [
 	# Ignore development extras
