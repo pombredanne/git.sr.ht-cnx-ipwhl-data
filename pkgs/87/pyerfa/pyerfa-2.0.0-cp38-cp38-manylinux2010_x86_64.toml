@@ -2,8 +2,7 @@ source = 'https://files.pythonhosted.org/packages/38/17/e5c10060dcebc500edf24046
 content-id = 'QmYz6oqMnzdHfkwVScMFp8z55Lm61CefRtfzeWEiZ1pCT9'
 requires-python = '>=3.7'
 extras = [
-	# Ignore development extras
-	# 'docs',
+	'docs',
 	'test',
 ]
 dependencies = [

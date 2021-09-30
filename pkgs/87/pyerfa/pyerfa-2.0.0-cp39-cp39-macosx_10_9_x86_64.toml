@@ -2,8 +2,7 @@ source = 'https://files.pythonhosted.org/packages/56/c6/b6155797464aab55340bf3ba
 content-id = 'QmeQBBDoyz5r8fZdMU24nMB9bnEmy3HztbxJhxUSaiL7D7'
 requires-python = '>=3.7'
 extras = [
-	# FIXME: re-add when sphinx-astropy is packaged
-	# 'docs',
+	'docs',
 	'test',
 ]
 dependencies = [
