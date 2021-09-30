@@ -2,10 +2,9 @@ source = 'https://files.pythonhosted.org/packages/55/51/db10eeac8748eee0af2b442d
 content-id = 'QmYZaJg6grYgCTLKAzJdNn1ZKFZwEYhA1PW3PbieW6PMuu'
 requires-python = '>=3.5'
 extras = [
-	# Ignore development extras
-	# 'docs',
-	# 'flake8',
-	# 'tests',
+	'docs',
+	'flake8',
+	'tests',
 ]
 dependencies = [
 	'sphinx>=1.6.0; extra == "docs"',
