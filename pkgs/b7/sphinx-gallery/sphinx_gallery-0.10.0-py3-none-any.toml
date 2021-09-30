@@ -1,0 +1,7 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/599024/69f09d5786a877b7/sphinx_gallery-0.10.0-py3-none-any.whl'
+content-id = 'Qma2Jcmr1kTsouDRagHTeczuK92g1XRgDRfFj7q9cL64iJ'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'sphinx>=1.8.3',
+]
