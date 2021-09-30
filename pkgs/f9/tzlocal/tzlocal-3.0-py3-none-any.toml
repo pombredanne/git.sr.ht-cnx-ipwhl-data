@@ -1,9 +1,7 @@
 source = 'https://files.pythonhosted.org/packages/99/73/0b78b979e457bde19266130929b1fceee7c31a2d68169048b34e997c5665/tzlocal-3.0-py3-none-any.whl'
 content-id = 'QmR2ZR9Tb58cVXHAmjUDYCT5uK5pbA9mZ36X9L2wGbkHAf'
 requires-python = '>=3.6'
-extras = [
-	#'test' # FIXME: re-add when pytest-mock is packaged
-]
+extras = [ 'test' ]
 dependencies = [
 	'tzdata; platform_system == "Windows"',
 	'backports.zoneinfo; python_version < "3.9"',
