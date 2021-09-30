@@ -2,7 +2,7 @@ source = 'https://files.pythonhosted.org/packages/f2/6c/2f3b930513bb971172ffceb6
 content-id = 'QmZ3qxnq6QLPhs8o7WhVq6TDoSq6aJXM6RgbaBdoHsf3X6'
 requires-python = '>=3.6'
 extras = [
-	#'docs', 'testing'
+	'docs',# 'testing' # FIXME: re-add when pytest-checkdocs is packaged
 ]
 dependencies = [
 	'zipp>=3.1.0; python_version < "3.10"',
