@@ -4,8 +4,8 @@ requires-python = '>=3.6'
 extras = [
 	'all',
 	# Ignore development extras
-	# 'docs',
-	# 'tests',
+	'docs',
+	# 'tests', # FIXME: re-add when they loosen the pytest version
 ]
 dependencies = [
 	'jmespath>=0.6.2',
