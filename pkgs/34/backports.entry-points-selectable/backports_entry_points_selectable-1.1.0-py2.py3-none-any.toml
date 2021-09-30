@@ -2,7 +2,7 @@ source = 'https://files.pythonhosted.org/packages/0c/cd/1e156227cad9f599524eb10a
 content-id = 'QmadvBkF8GiPuEUN3zwTAPyy5oM4wpg1GZvtbb1hxV7hjb'
 requires-python = '>=2.7'
 extras = [
-	#'docs', 'testing'
+	'docs', #'testing'
 ]
 dependencies = [
 	'importlib-metadata; python_version < "3.8"',
