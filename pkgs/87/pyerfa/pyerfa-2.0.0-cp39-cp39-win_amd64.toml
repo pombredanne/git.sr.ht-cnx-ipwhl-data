@@ -1,0 +1,14 @@
+source = 'https://files.pythonhosted.org/packages/8b/51/4df4f50398310cad82f26159ab225d354e8b1908552e4f389f0eff2272cf/pyerfa-2.0.0-cp39-cp39-win_amd64.whl'
+content-id = 'QmTWDpAwPoUjH6Ra3zmfZD1ZuwVz4uAzkTLDrXz5BjaYx9'
+requires-python = '>=3.7'
+extras = [
+	# FIXME: re-add when sphinx-astropy is packaged
+	# 'docs',
+	'test',
+]
+dependencies = [
+	'numpy>=1.17',
+	'sphinx-astropy>=1.3; extra == "docs"',
+	'pytest; extra == "test"',
+	'pytest-doctestplus>=0.7; extra == "test"',
+]
