@@ -1,0 +1,12 @@
+source = 'https://files.pythonhosted.org/packages/0b/66/c4fa8b43e3fe44bd9e8065932b47dd900f190e743180b32666153cf57be0/zope.i18nmessageid-5.0.1-cp37-cp37m-macosx_10_9_x86_64.whl'
+content-id = 'QmVrJvrtCtoBxaAgeJrAhLjkUqgNHipPGmYcrdM4uqVPiZ'
+extras = ['docs', 'test', 'testing']
+dependencies = [
+	'setuptools',
+	'six',
+	'Sphinx; extra == "docs"',
+	'zope.testrunner; extra == "test"',
+	'coverage; extra == "test"',
+	'zope.testrunner; extra == "testing"',
+	'coverage; extra == "testing"',
+]

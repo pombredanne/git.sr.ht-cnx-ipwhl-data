@@ -1,0 +1,12 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/598902/8a4c69c9f378b053/zope.i18nmessageid-5.0.1-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl'
+content-id = 'QmcEFE1dqu8gKU1isqLTnJVSSxNtk7UGVERpAtGG17GSu1'
+extras = ['docs', 'test', 'testing']
+dependencies = [
+	'setuptools',
+	'six',
+	'Sphinx; extra == "docs"',
+	'zope.testrunner; extra == "test"',
+	'coverage; extra == "test"',
+	'zope.testrunner; extra == "testing"',
+	'coverage; extra == "testing"',
+]
