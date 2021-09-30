@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/d0/ef/6281be4ef86a6a0e6f06004c2e4526de3d880f4eaf4210a07a269ad330b3/ruamel.yaml.jinja2-0.2.7-py2.py3-none-any.whl'
+content-id = 'QmbLZH6XXbDiQFCqkBDVTRxtfQE8YJMpuWHER8bP8XW34i'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'ruamel.yaml>=0.16.1',
+]

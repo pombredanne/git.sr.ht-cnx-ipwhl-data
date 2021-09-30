@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/d3/cc/248dfb697bb98152c187ced584e505124ed952529d7f8e74b28f6f4d6f31/ruamel.yaml-0.17.16-py3-none-any.whl'
+content-id = 'QmWCWZUFSKedG7gsMata3UGUDLeK1trk23NDH6jgtBqQ3E'
+requires-python = '>=3'
+extras = ['docs', 'jinja2']
+dependencies = [
+	'ruamel.yaml.clib>=0.1.2; platform_python_implementation == "CPython" and python_version < "3.10"',
+	'ryd; extra == "docs"',
+	'ruamel.yaml.jinja2>=0.2; extra == "jinja2"',
+]

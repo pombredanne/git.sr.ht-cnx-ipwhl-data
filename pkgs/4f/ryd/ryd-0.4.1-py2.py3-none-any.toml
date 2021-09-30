@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/25/74/eef310cc0d5667831c41214c57cf8d6fda3d780a4d2a9cbd3f249f837dbd/ryd-0.4.1-py2.py3-none-any.whl'
+content-id = 'QmYdMkkDDoEX2ZZdBcR7hEgCKphtnRFHoKzfgDKq6ysMnt'
+extras = []
+dependencies = [
+	'ruamel.appconfig',
+	'ruamel.std.argparse>=0.8',
+	'ruamel.std.pathlib',
+	'ruamel.yaml',
+]
