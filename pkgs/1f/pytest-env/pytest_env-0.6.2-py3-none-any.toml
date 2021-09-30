@@ -1,0 +1,6 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/599016/6d4f1dc7963c5e6e/pytest_env-0.6.2-py3-none-any.whl'
+content-id = 'QmYnM3dL5sCEGbkcGjU15kLFQtovVAykyJwfkmnAMFn64T'
+extras = []
+dependencies = [
+	'pytest>=2.6.0',
+]
