@@ -6,9 +6,8 @@ extras = [
 	'events',
 	'monitor',
 	'recommended',
-	# Ignore development extras
-	# 'docs',
-	# 'test',
+	'docs',
+	'test',
 ]
 dependencies = [
 	'zope.event',
