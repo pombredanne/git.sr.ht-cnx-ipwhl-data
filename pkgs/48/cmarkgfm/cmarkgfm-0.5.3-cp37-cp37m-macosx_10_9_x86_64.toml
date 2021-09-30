@@ -1,6 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/d9/fc/ed330f6e74ff28b181313def8fb08efb66d4b25bb6dcf9e627e4f4f08326/cmarkgfm-0.5.3-cp37-cp37m-macosx_10_9_x86_64.whl'
-content-id = 'QmWe5RXztoyspntX5p1JQjSnXV9zCWsnX3dRpEAx9rtfaR'
-extras = []
-dependencies = [
-	'cffi>=1.0.0',
-]
