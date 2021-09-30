@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/58/0b/85d15e21f660a8ea68b1e0286168938857391f4ec9f6d204d91c9e013826/pyquery-1.4.3-py3-none-any.whl'
+content-id = 'QmTtYtXuBidScjDcBDDbWdLWpFWDcYtTr5GnrtDG87FLVy'
+extras = []
+dependencies = [
+	'lxml>=2.1',
+	'cssselect>0.7.9',
+]
