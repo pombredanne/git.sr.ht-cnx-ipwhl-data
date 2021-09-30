@@ -4,7 +4,7 @@ requires-python = '>=3.7'
 extras = [
 	# Ignore development extras
 	# 'docs',
-	# 'test',
+	'test',
 ]
 dependencies = [
 	'numpy>=1.17',
