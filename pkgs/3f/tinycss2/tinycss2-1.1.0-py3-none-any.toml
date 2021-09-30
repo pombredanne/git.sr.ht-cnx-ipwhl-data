@@ -1,0 +1,14 @@
+source = 'https://files.pythonhosted.org/packages/65/f7/63bf697a7c7257d304269b49f1be3dfe429856889e93963d6f5790d77d82/tinycss2-1.1.0-py3-none-any.whl'
+content-id = 'QmSdp9HhRmGc5SsUerKoGSJRTCjbhPYw4A78goAJoK6Hjg'
+requires-python = '>=3.6'
+extras = ['doc', 'test']
+dependencies = [
+	'webencodings>=0.4',
+	'sphinx; extra == "doc"',
+	'sphinx_rtd_theme; extra == "doc"',
+	'pytest; extra == "test"',
+	'pytest-cov; extra == "test"',
+	'pytest-flake8; extra == "test"',
+	'pytest-isort; extra == "test"',
+	'coverage[toml]; extra == "test"',
+]
