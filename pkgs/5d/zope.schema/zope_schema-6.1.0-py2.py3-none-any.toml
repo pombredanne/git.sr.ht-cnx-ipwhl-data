@@ -3,7 +3,7 @@ content-id = 'QmcxPaG6PFvzxQYRspnMcv5ArJDGnpmTzW8RUZetmEHEDE'
 requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
 extras = [
 	'docs',
-	# 'test' # FIXME: re-add when zope.testing, zope.i18nmessageid, zope.testrunner are added
+	'test'
 ]
 dependencies = [
 	'setuptools',
