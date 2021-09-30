@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/15/70/aba454c03b2b64bf56fb0ed6653bee04d5804268b711e7f5790168fc2805/trustme-0.9.0-py2.py3-none-any.whl'
+content-id = 'Qmd2YxpkGCPkwM1b9UCHRFWmzttkBi8hmRNBPJvjwyfnDr'
+extras = []
+dependencies = [
+	'cryptography',
+	'idna',
+	'ipaddress; python_version < "3.3"',
+]
