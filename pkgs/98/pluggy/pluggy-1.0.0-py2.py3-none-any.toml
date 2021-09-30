@@ -2,7 +2,7 @@ source = 'https://files.pythonhosted.org/packages/9e/01/f38e2ff29715251cf25532b9
 content-id = 'QmY9viYMyGmgWCfDCMtL1sJ1ACmdwh4218P89or7ziwkiJ'
 requires-python = '>=3.6'
 extras = [
-	#'dev', 'testing'
+	'dev', # 'testing' # FIXME: re-add when pytest-benchmark is packaged
 ]
 dependencies = [
 	'importlib-metadata>=0.12; python_version < "3.8"',
