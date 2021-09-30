@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/50/54/4d66f58ff8f285029cbf2d5f0f6ccdcaede69d0b5be337319d03bc7a1e66/zope.testing-4.9-py2.py3-none-any.whl'
+content-id = 'QmRaJ6hFbYaikpEDCDLd3eZVd1faA46G5s7Mr5SSxKXG9H'
+extras = ['test']
+dependencies = [
+	'setuptools',
+	'zope.testrunner; extra == "test"',
+]
