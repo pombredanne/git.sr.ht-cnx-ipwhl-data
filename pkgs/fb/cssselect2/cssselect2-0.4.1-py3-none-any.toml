@@ -1,0 +1,15 @@
+source = 'https://files.pythonhosted.org/packages/99/da/c86ec74495c69518720652f8aa8ab642d8af61a2098eede9db8b03d3c8b4/cssselect2-0.4.1-py3-none-any.whl'
+content-id = 'QmcHnj2C22WMqWttgAjDX4gZwE24GAdJWbq1qVPaLRDzPi'
+requires-python = '>=3.6'
+extras = ['doc', 'test']
+dependencies = [
+	'tinycss2',
+	'webencodings',
+	'sphinx; extra == "doc"',
+	'sphinx_rtd_theme; extra == "doc"',
+	'pytest; extra == "test"',
+	'pytest-cov; extra == "test"',
+	'pytest-flake8; extra == "test"',
+	'pytest-isort; extra == "test"',
+	'coverage[toml]; extra == "test"',
+]
