@@ -1,0 +1,11 @@
+source = 'https://files.pythonhosted.org/packages/3f/dd/33f085e73ed2529d7c518f824d9a55f38e8bca68169c21df8728359d83e7/pytest_doctestplus-0.11.0-py3-none-any.whl'
+content-id = 'Qmc4KULqz2xBMebdyoQ4QrMz1GSxLjba2bBotouHjD1dgG'
+requires-python = '>=3.7'
+extras = ['test']
+dependencies = [
+	'pytest>=4.6',
+	'setuptools>=30.3.0',
+	'packaging>=17.0',
+	'pytest-remotedata>=0.3.2; extra == "test"',
+	'sphinx; extra == "test"',
+]
