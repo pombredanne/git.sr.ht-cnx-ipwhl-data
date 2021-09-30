@@ -1,0 +1,11 @@
+source = 'https://files.pythonhosted.org/packages/60/1d/9e398c53d6ae27d5ab312ddc16a9ffe1bee0dfdf1d6ec88c40b0ca97582e/numpydoc-1.1.0-py3-none-any.whl'
+content-id = 'QmW2QiaHAT16QzbTFq3cesPMRaWwdehR13peaYiZwyrqf4'
+requires-python = '>=3.5'
+extras = ['testing']
+dependencies = [
+	'Jinja2>=2.3',
+	'sphinx>=1.6.5',
+	'matplotlib; extra == "testing"',
+	'pytest; extra == "testing"',
+	'pytest-cov; extra == "testing"',
+]
