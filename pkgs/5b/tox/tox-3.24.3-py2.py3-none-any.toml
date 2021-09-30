@@ -2,7 +2,8 @@ source = 'https://files.pythonhosted.org/packages/26/90/ca4779bd06f0a35dc4b15101
 content-id = 'QmQmuK5Nvj7Yrd5Z3wGX46kGXdSJ5TMyGUagewmjsqPgj4'
 requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
 extras = [
-	#'docs', 'testing'
+	#'docs', # FIXME: re-add when towncrier is added
+	'testing'
 ]
 dependencies = [
 	'filelock>=3.0.0',
