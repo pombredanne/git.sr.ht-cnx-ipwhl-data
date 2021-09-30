@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/2a/1a/55aac95b3fe46de512905af49189f055df1404147bcedb3fe81476597799/zope.exceptions-4.4-py2.py3-none-any.whl'
+content-id = 'QmfNjy3Supc9D7UiQ2uusAQzKbWvGB3z87w5XSL4YyJ6Fj'
+extras = ['docs', 'test']
+dependencies = [
+	'setuptools',
+	'zope.interface',
+	'Sphinx; extra == "docs"',
+	'repoze.sphinx.autointerface; extra == "docs"',
+	'zope.testrunner; extra == "test"',
+]
