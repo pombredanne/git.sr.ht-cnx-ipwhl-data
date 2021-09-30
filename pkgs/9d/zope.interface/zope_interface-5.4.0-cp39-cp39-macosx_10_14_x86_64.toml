@@ -2,8 +2,8 @@ source = 'https://files.pythonhosted.org/packages/f4/4f/9147736d0fe135660784986a
 content-id = 'QmZQQbZ6eASwszGPMM9VmrQGN27Tsndo68w8QLZcZ4A7n7'
 requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
 extras = [
-	'docs'
-	#, 'test', 'testing' # FIXME: re-add when zope.testing is packaged
+	'docs',
+	'test', 'testing'
 ]
 dependencies = [
 	'setuptools',
