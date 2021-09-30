@@ -2,9 +2,8 @@ source = 'https://files.pythonhosted.org/packages/50/85/fa444619ba3709b8969a75bf
 content-id = 'QmPKsduwam2QTwAGzSPxRMaArhc65fFqWm931oW7BHDLpr'
 requires-python = '>=3.5'
 extras = [
-	# Ignore development extras
-	# 'dev', # FIXME: re-add when furo is packaged
-	# 'docs',
+	'dev',
+	'docs',
 	'tests',
 ]
 dependencies = [
