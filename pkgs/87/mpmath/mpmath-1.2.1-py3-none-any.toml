@@ -1,0 +1,11 @@
+source = 'https://files.pythonhosted.org/packages/d4/cf/3965bddbb4f1a61c49aacae0e78fd1fe36b5dc36c797b31f30cf07dcbbb7/mpmath-1.2.1-py3-none-any.whl'
+content-id = 'QmTob1qT4ff4rj99qL2gmcT9XLYkgoQCsQ4svL68YR9MyB'
+extras = ['develop', 'tests']
+dependencies = [
+	'pytest>=4.6; extra == "develop"',
+	'pycodestyle; extra == "develop"',
+	'pytest-cov; extra == "develop"',
+	'codecov; extra == "develop"',
+	'wheel; extra == "develop"',
+	'pytest>=4.6; extra == "tests"',
+]
