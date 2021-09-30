@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/1e/8b/d19bde42575942a4f97111c4eb28183776b619fd2f1e8df76a4d52f3caa7/sphinxcontrib_autoprogram-0.1.7-py2.py3-none-any.whl'
+content-id = 'QmRXr153WiuLuBJiJc3LiFFFkk2ginu4BdhdgqA33FjBuz'
+extras = []
+dependencies = [
+	'Sphinx>=1.2',
+	'six',
+]
