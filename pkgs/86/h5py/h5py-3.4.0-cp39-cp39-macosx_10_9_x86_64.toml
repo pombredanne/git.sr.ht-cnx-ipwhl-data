@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/be/1f/67c3f2cc0a29c9bfc5ad71004a60d01ff1e4c4c44bd026eabaf07340e5c9/h5py-3.4.0-cp39-cp39-macosx_10_9_x86_64.whl'
+content-id = 'QmSHqzU4cmBm7qHobm8wdA1dUm2xDNCsBed8LmnUW3huAR'
+requires-python = '>=3.7'
+extras = []
+dependencies = [
+	'cached-property; python_version < "3.8"',
+	'numpy>=1.14.5; python_version == "3.7"',
+	'numpy>=1.17.5; python_version == "3.8"',
+	'numpy>=1.19.3; python_version >= "3.9"',
+]
