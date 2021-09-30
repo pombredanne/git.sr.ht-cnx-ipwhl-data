@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/49/8c/be4e675b5c38497f10e3eba89bf141ac7aa085db1a541294f0b60e4237a7/ruamel.yaml.clib-0.2.6-cp37-cp37m-win_amd64.whl'
+content-id = 'QmZcT264kQSDDVrdCYuBD2pfp7hruMtLLA1fxLdRbjJxSt'
+requires-python = '>=3.5'
+extras = []
+dependencies = []

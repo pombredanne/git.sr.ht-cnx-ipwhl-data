@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/d1/17/630d1d28e0fc442115280f3928b8a2b78a47b5c75bb619d16bfc4d046a69/ruamel.yaml.clib-0.2.6-cp37-cp37m-macosx_10_9_x86_64.whl'
+content-id = 'QmPBC3BAgAWvgCP3KCuEM9sHFrCrKCJytFPBoy93HjQ4ES'
+requires-python = '>=3.5'
+extras = []
+dependencies = []
