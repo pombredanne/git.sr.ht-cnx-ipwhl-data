@@ -2,7 +2,7 @@ source = 'https://files.pythonhosted.org/packages/85/36/8637de18f5b91c84942b36d5
 content-id = 'QmfRzv8jHpY4R54tXShoQ9TxuHSzqu9S7LDUi6Z4L99Krb'
 requires-python = '>=3.6'
 extras = [
-	# 'speedups' # FIXME: re-add when brotlipy is added
+	'speedups'
 ]
 dependencies = [
 	'attrs>=17.3.0',
