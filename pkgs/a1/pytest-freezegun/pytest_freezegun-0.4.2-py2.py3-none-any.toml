@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/9e/09/0bdd7d24b9d21453ad3364ae1efbd65082045bb6081b5fd5eade91a9b644/pytest_freezegun-0.4.2-py2.py3-none-any.whl'
+content-id = 'QmagWLoyiG21wxkMbq3RbQpYoNrzaFv3fDVzgj4v3qbot2'
+extras = []
+dependencies = [
+	'freezegun>0.3',
+	'pytest>=3.0.0',
+]
