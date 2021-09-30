@@ -3,9 +3,8 @@ content-id = 'QmUFuzoi8w5JaeSa777tUhRzRfpaSkf9dkKsvb5FRs7a5M'
 requires-python = '>=3.6.2'
 extras = [
 	'trio',
-	# Ignore development extras
-	# 'doc',
-	# 'test',
+	'doc',
+	'test',
 ]
 dependencies = [
 	'idna>=2.8',
