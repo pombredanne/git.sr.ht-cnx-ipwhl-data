@@ -1,0 +1,15 @@
+source = 'https://files.pythonhosted.org/packages/e3/18/fb94d802f87ab9b5d302ff11eb79dd907c2d44c181f506271c66ddb9b33c/sphinx_astropy-1.6.0-py3-none-any.whl'
+content-id = 'QmaoYs96ksLvAUmn6YURiUEXrdVRnvBgUsDqyGf4n8gRb7'
+requires-python = '>=3.7'
+extras = ['all', 'tests']
+dependencies = [
+	'sphinx>=1.7',
+	'astropy-sphinx-theme',
+	'numpydoc',
+	'sphinx-automodapi',
+	'sphinx-gallery',
+	'pillow',
+	'pytest-doctestplus>=0.11',
+	'astropy; extra == "all"',
+	'pytest; extra == "tests"',
+]
