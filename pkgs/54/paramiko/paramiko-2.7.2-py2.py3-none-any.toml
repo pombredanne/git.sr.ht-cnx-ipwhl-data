@@ -3,9 +3,8 @@ content-id = 'QmNReRSufF4oB21sYS8nyAQDxQp5Jjb25VDjVoLrJvCZ5c'
 extras = [
 	'ed25519',
 	'invoke',
-	# See https://github.com/pythongssapi/python-gssapi/issues/200
-	# 'gssapi',
-	# 'all',
+	'gssapi',
+	'all',
 ]
 dependencies = [
 	'bcrypt>=3.1.3',
