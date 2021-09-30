@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/40/3a/60a9586c8680d49b427838aeda76335c2383ea4394d052ff8434aa13277a/pytest_isort-2.0.0-py3-none-any.whl'
+content-id = 'Qmd4bVepgZmdcwsu8mxtPF1tyrRGZ5gWpvTQF3bqgCtfH3'
+extras = ['tests']
+dependencies = [
+	'isort>=4.0',
+	'mock; extra == "tests"',
+]
