@@ -1,0 +1,17 @@
+source = 'https://files.pythonhosted.org/packages/f7/7d/74319e6b76dc576f6a812b7a04fdc949d11c14285e5a76b79b8692f5ba63/dulwich-0.20.25-cp37-cp37m-win_amd64.whl'
+content-id = 'QmNXPKXHboNxFkSn8FP8FxqcpYmBFnsGECmZ5iHYXJQrZo'
+requires-python = '>=3.5'
+extras = [
+	'fastimport',
+	'https',
+	# 'pgp', # FIXME: re-add when gpg is packaged
+	'watch'
+]
+dependencies = [
+	'urllib3>=1.24.1',
+	'certifi',
+	'fastimport; extra == "fastimport"',
+	'urllib3[secure]>=1.24.1; extra == "https"',
+	'gpg; extra == "pgp"',
+	'pyinotify; extra == "watch"',
+]

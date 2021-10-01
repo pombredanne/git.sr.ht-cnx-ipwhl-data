@@ -1,0 +1,17 @@
+source = 'https://files.pythonhosted.org/packages/91/36/5dfc4e32c7f905babd97a057583282a6375e813f7c35d9c1e5cfe283c6fe/dulwich-0.20.25-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl'
+content-id = 'QmPiUXZozyDStwkwADPpvujEUPcjp1VQP5x4wQj7ZZvupK'
+requires-python = '>=3.5'
+extras = [
+	'fastimport',
+	'https',
+	# 'pgp', # FIXME: re-add when gpg is packaged
+	'watch'
+]
+dependencies = [
+	'urllib3>=1.24.1',
+	'certifi',
+	'fastimport; extra == "fastimport"',
+	'urllib3[secure]>=1.24.1; extra == "https"',
+	'gpg; extra == "pgp"',
+	'pyinotify; extra == "watch"',
+]
