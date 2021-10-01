@@ -2,7 +2,7 @@ source = 'https://files.pythonhosted.org/packages/ba/4e/40c4a0aa7cd16ba77969d13e
 content-id = 'QmdXcNaLa6fohWDGX2PMRAfNV1NApADdun6XHCNpGCLwWn'
 requires-python = '!=3.0,!=3.1,!=3.2,!=3.3,!=3.4,>=2.7'
 extras = [
-	# 'dev', # FIXME: re-add when parver and towncrier is packaged
+	'dev',
 	# 'tests' # FIXME: contact upstream to loose pytest constraint
 ]
 dependencies = [
