@@ -1,7 +1,11 @@
 source = 'https://files.pythonhosted.org/packages/bd/25/5bdf7f1adeebd4e3fa76b2e2f045ae53ee208e40a4231ad0f0c3007e4353/setuptools-57.4.0-py3-none-any.whl'
 content-id = 'QmPS9ZPDAc5SudNQkEPcWzVyHmwvoXHdcmAzP6XAbWw7GS'
 requires-python = '>=3.6'
-extras = ['certs', 'ssl']
+extras = [
+	'docs',
+	'certs',
+	'ssl'
+]
 dependencies = [
 	'sphinx; extra == "docs"',
 	'jaraco.packaging>=8.2; extra == "docs"',
