@@ -1,0 +1,5 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/599502/93e3b987a272ec31/fastimport-0.9.14-py2.py3-none-any.whl'
+content-id = 'QmWLM2EQzGf95zPAWrX6nUP31rLff3SuRjW9thNfHnnoFE'
+requires-python = '>=3.5'
+extras = []
+dependencies = []
