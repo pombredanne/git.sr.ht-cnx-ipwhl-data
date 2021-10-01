@@ -2,7 +2,7 @@ source = 'https://files.pythonhosted.org/packages/ab/9f/a0d49dcde93f27125f011f8c
 content-id = 'QmSgztMaSe5sjgrqdhgvfHBF7rzfvAvi4ZgS5SBoBgaSSw'
 requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
 extras = [
-	#'docs',
+	'docs',
 	'testing'
 ]
 dependencies = [
