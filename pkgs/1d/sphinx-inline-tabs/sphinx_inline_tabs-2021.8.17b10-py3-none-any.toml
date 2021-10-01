@@ -1,0 +1,15 @@
+source = 'https://files.pythonhosted.org/packages/e6/1a/1948c172a8afe1867c176df7d4cb87cff13de8e3b6546a783f4fd2fc3c13/sphinx_inline_tabs-2021.8.17b10-py3-none-any.whl'
+content-id = 'QmdRbVZUxw4mjGXwAMzHKuXZ3hpzTE5aQhZeJDQSup6EhW'
+requires-python = '>=3.8'
+extras = [
+	# 'doc', # FIXME: re-add when myst-parser is packaged
+	'test'
+]
+dependencies = [
+	'sphinx>=3',
+	'myst-parser; extra == "doc"',
+	'furo; extra == "doc"',
+	'pytest; extra == "test"',
+	'pytest-cov; extra == "test"',
+	'pytest-xdist; extra == "test"',
+]
