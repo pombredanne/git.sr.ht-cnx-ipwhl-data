@@ -1,0 +1,12 @@
+source = 'https://files.pythonhosted.org/packages/7a/26/2cd8eab76d9f1475068d9d3e6904967921244df11002abfbfc9630642ee9/pytest_astropy_header-0.1.2-py2.py3-none-any.whl'
+content-id = 'QmdNbjeX3deXSbuiunU3F7iQwgAsQqhNG5F2LPKEELX8eP'
+extras = ['test']
+dependencies = [
+	'pytest>=2.8',
+	'pytest; extra == "test"',
+	'pytest-cov; extra == "test"',
+	'codecov; extra == "test"',
+	'coverage; extra == "test"',
+	'numpy; extra == "test"',
+	'astropy; extra == "test"',
+]
