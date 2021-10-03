@@ -5,7 +5,7 @@ extras = [
 	# Ignore development extras
 	# 'all', # FIXME: re-add when ipython, dask, bottleneck, jplephem are added
 	# 'docs', # FIXME: re-add when sphinx-changelog, are packaged and maintainer loosen sphinx
-	# 'test', # FIXME: re-add when pytest-astropy, sgp4, skyfield is added
+	# 'test', # FIXME: re-add when ipython is added
 ]
 dependencies = [
 	'numpy>=1.17',
