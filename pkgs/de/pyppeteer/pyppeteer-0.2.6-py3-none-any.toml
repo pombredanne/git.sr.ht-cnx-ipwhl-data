@@ -1,0 +1,12 @@
+source = 'https://files.pythonhosted.org/packages/ba/68/9b4a31277ec342730bf31ffe0f9dbf2d02411ba32438b142f3a111816804/pyppeteer-0.2.6-py3-none-any.whl'
+content-id = 'QmUvKRDAGz8W4pdcFN1gg6wN9Kh4rktuyWdVnrzAR6aJzJ'
+requires-python = '<4.0.0,>=3.6.1'
+extras = []
+dependencies = [
+	'appdirs<2.0.0,>=1.4.3',
+	'importlib-metadata>=1.4',
+	'pyee<9.0.0,>=8.1.0',
+	'tqdm<5.0.0,>=4.42.1',
+	'urllib3<2.0.0,>=1.25.8',
+	'websockets<10.0,>=9.1',
+]
