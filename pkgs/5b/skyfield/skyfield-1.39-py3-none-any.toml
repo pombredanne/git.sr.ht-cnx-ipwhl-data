@@ -1,0 +1,9 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/600838/c66ec31f83352a8e/skyfield-1.39-py3-none-any.whl'
+content-id = 'QmeJ6SnEhu217HscZQxhG11cgQZmWgF5CMNS6cmJb68eBG'
+extras = []
+dependencies = [
+	'certifi>=2017.4.17',
+	'jplephem>=2.13',
+	'numpy',
+	'sgp4>=2.2',
+]
