@@ -1,0 +1,11 @@
+source = 'https://files.pythonhosted.org/packages/41/0e/3e5b400dbb68948aa960be24e8b1dc8cd43177e0891b0ae81515901176da/check_manifest-0.47-py3-none-any.whl'
+content-id = 'QmUzyqHQqUxsbX1AntDHAfUyNDBEZVR4VckDGK7PLrrxzu'
+requires-python = '>=3.6'
+extras = ['test']
+dependencies = [
+	'build>=0.1',
+	'setuptools',
+	'toml',
+	'mock>=3.0.0; extra == "test"',
+	'pytest; extra == "test"',
+]

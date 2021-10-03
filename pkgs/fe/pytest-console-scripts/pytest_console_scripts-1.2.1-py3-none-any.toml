@@ -1,0 +1,7 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/600901/733297c60cc50a55/pytest_console_scripts-1.2.1-py3-none-any.whl'
+content-id = 'QmTnLy4ySKUNU9QdjZ2qyqeK7kf3GT3pHi9dBGUxp1vtxm'
+extras = []
+dependencies = [
+	'pytest>=4.0.0',
+	'mock>=2.0.0',
+]
