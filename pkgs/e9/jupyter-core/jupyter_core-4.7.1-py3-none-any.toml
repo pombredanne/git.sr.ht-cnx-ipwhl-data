@@ -1,8 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/53/40/5af36bffa0af3ac71d3a6fc6709de10e4f6ff7c01745b8bc4715372189c9/jupyter_core-4.7.1-py3-none-any.whl'
-content-id = 'QmbaL2x1nxPceWEVAc1RBHo3dF85q7KjyMwhcZKn2L1RZa'
-requires-python = '>=3.6'
-extras = []
-dependencies = [
-	'traitlets',
-	'pywin32>=1.0; sys_platform == "win32"',
-]
