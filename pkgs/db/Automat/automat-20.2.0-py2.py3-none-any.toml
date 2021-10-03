@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/dd/83/5f6f3c1a562674d65efc320257bdc0873ec53147835aeef7762fe7585273/Automat-20.2.0-py2.py3-none-any.whl'
+content-id = 'QmTrCy8CDcBK2vi94CjNa4bKADTiYWgYphY46DryVV8vYq'
+extras = ['visualize']
+dependencies = [
+	'attrs>=19.2.0',
+	'six',
+	'graphviz>0.5.1; extra == "visualize"',
+	'Twisted>=16.1.1; extra == "visualize"',
+]
