@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/50/b9/3615ebfc3120bb949c3725b50793f42c3230d0175d6cfd358ea8bb6928ff/pytest_tornasync-0.6.0.post2-py3-none-any.whl'
+content-id = 'QmfZqXnYaKNhii57DhD6NVMzWHvr2bqJJXGyXfThEEX5ZN'
+extras = []
+dependencies = [
+	'pytest>=3.0',
+	'tornado>=5.0',
+]
