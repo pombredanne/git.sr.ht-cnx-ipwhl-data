@@ -1,0 +1,11 @@
+source = 'https://files.pythonhosted.org/packages/1e/3c/e7452af7da4fb1b8c21520bf201c373571d95f9bc715a51499ff1fe57638/pytest_qt-4.0.2-py2.py3-none-any.whl'
+content-id = 'QmPYcL2hJ2YpQpemhQTriEDTkkauDgu3xMCpwJXCYrYNUK'
+requires-python = '>=3.6'
+extras = ['dev', 'doc']
+dependencies = [
+	'pytest>=3.0.0',
+	'pre-commit; extra == "dev"',
+	'tox; extra == "dev"',
+	'sphinx; extra == "doc"',
+	'sphinx-rtd-theme; extra == "doc"',
+]
