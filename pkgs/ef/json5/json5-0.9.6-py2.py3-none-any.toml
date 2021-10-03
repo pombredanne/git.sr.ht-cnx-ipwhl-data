@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/7e/8e/ebde0a31c71e7098b3014faf46c80bdbcadb3c23b0ac7c7646b2af7d302e/json5-0.9.6-py2.py3-none-any.whl'
+content-id = 'QmSu4atPrgns3yAR9317XmwoESH2Tqfp9ayWHHt8Ej8FQ9'
+extras = ['dev']
+dependencies = [
+	'hypothesis; extra == "dev"',
+]
