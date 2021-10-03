@@ -1,0 +1,12 @@
+source = 'https://files.pythonhosted.org/packages/eb/4d/2c07c13682465e0d2159af292fa20cee26e6a6e322c02764e0ac5d74a824/nbsphinx-0.8.7-py3-none-any.whl'
+content-id = 'Qmaket5HYPS6AJ612X6TTBUV54kfR5Gwk6gxCpBivdt6Xe'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'docutils',
+	'jinja2',
+	'nbconvert!=5.4',
+	'nbformat',
+	'sphinx>=1.8',
+	'traitlets',
+]
