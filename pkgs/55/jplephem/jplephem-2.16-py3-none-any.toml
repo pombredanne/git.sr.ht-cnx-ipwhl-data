@@ -1,0 +1,6 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/600838/c66ec31f83352a8e/jplephem-2.16-py3-none-any.whl'
+content-id = 'QmUajDq5ArWkCGhsZ3iUStFGvM2vowZNjmURhkvVR2e18N'
+extras = []
+dependencies = [
+	'numpy',
+]
