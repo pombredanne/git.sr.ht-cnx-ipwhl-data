@@ -1,0 +1,33 @@
+source = 'https://files.pythonhosted.org/packages/25/83/c711332a3531afcc1a76e523bc1ceec309497d5faa99260fd50e920e7686/notebook-6.4.4-py3-none-any.whl'
+content-id = 'QmY8EywBpxHdrzCbZB7bqiXBTEoabCbukZg9h7uiS558UZ'
+requires-python = '>=3.6'
+extras = ['docs', 'json-logging', 'test']
+dependencies = [
+	'jinja2',
+	'tornado>=6.1',
+	'pyzmq>=17',
+	'argon2-cffi',
+	'ipython-genutils',
+	'traitlets>=4.2.1',
+	'jupyter-core>=4.6.1',
+	'jupyter-client>=5.3.4',
+	'nbformat',
+	'nbconvert',
+	'ipykernel',
+	'Send2Trash>=1.5.0',
+	'terminado>=0.8.3',
+	'prometheus-client',
+	'sphinx; extra == "docs"',
+	'nbsphinx; extra == "docs"',
+	'sphinxcontrib-github-alt; extra == "docs"',
+	'sphinx-rtd-theme; extra == "docs"',
+	'myst-parser; extra == "docs"',
+	'json-logging; extra == "json-logging"',
+	'pytest; extra == "test"',
+	'coverage; extra == "test"',
+	'requests; extra == "test"',
+	'nbval; extra == "test"',
+	'selenium; extra == "test"',
+	'pytest-cov; extra == "test"',
+	'requests-unixsocket; sys_platform != "win32" and extra == "test"',
+]
