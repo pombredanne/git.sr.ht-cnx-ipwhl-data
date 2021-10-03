@@ -1,0 +1,25 @@
+source = 'https://files.pythonhosted.org/packages/a5/83/d4232dc1399a93d5b6f665c92156cf564b25b4d51a641bcdf904796704ee/jupyterlab-3.1.14-py3-none-any.whl'
+content-id = 'QmY2TpZcCHBs4NmXRKG1WPAu5oge1PXusHhyq7efpins66'
+requires-python = '>=3.6'
+extras = ['test', 'ui-tests']
+dependencies = [
+	'ipython',
+	'packaging',
+	'tornado>=6.1.0',
+	'jupyter-core',
+	'jupyterlab-server~=2.3',
+	'jupyter-server~=1.4',
+	'nbclassic~=0.2',
+	'jinja2>=2.1',
+	'coverage; extra == "test"',
+	'pytest>=6.0; extra == "test"',
+	'pytest-cov; extra == "test"',
+	'pytest-console-scripts; extra == "test"',
+	'pytest-check-links>=0.5; extra == "test"',
+	'jupyterlab-server[test]~=2.2; extra == "test"',
+	'requests; extra == "test"',
+	'requests-cache; extra == "test"',
+	'virtualenv; extra == "test"',
+	'check-manifest; extra == "test"',
+	'build; extra == "ui-tests"',
+]
