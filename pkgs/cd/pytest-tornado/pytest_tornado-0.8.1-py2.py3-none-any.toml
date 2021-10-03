@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/e7/7f/111eb35d4f4ea7a654294b76f3d98eee6c704282fd028ae37bfc259e2216/pytest_tornado-0.8.1-py2.py3-none-any.whl'
+content-id = 'QmaHQH5bdhFnrouzML6wxYaPocaqi6DJKoRcgQCQA9VUsx'
+extras = []
+dependencies = [
+	'pytest>=3.6',
+	'tornado>=4.1',
+	'setuptools',
+]
