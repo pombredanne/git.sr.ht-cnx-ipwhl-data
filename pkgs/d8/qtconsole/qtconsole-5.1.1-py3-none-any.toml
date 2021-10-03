@@ -1,0 +1,18 @@
+source = 'https://files.pythonhosted.org/packages/3a/57/c8fc1fc6fb6bc03caca20ace9cd0ac0e16cc052b51cbe3acbeeb53abcb18/qtconsole-5.1.1-py3-none-any.whl'
+content-id = 'QmRqr6toGAycxMPn5HKMMHu1EcNaBizvWpjpH9GQutKxLC'
+requires-python = '>=3.6'
+extras = ['doc', 'test']
+dependencies = [
+	'traitlets',
+	'ipython-genutils',
+	'jupyter-core',
+	'jupyter-client>=4.1',
+	'pygments',
+	'ipykernel>=4.1',
+	'qtpy',
+	'pyzmq>=17.1',
+	'Sphinx>=1.3; extra == "doc"',
+	'flaky; extra == "test"',
+	'pytest; extra == "test"',
+	'pytest-qt; extra == "test"',
+]
