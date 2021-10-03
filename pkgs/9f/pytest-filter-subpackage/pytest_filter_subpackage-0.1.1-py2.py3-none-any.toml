@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/a7/0f/a9625b73f6dde09bf766123bf9e98b97018a8cc36d564553ec6484b5349a/pytest_filter_subpackage-0.1.1-py2.py3-none-any.whl'
+content-id = 'QmQosVk8yScae9GybuyQfyBqjVmxtQ6iQfewf2mQqhGGtm'
+requires-python = '>=3.6'
+extras = ['test']
+dependencies = [
+	'pytest>=3.0',
+	'pytest; extra == "test"',
+	'pytest-doctestplus; extra == "test"',
+	'pytest-cov; extra == "test"',
+]
