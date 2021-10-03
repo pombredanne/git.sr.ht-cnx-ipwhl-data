@@ -1,0 +1,22 @@
+source = 'https://files.pythonhosted.org/packages/93/5a/5e93f280ec7be676b5a57f305350f439d31ced168bca04e6ffa64b575664/service_identity-21.1.0-py2.py3-none-any.whl'
+content-id = 'QmYD1rNQfVE8NrPfnJd5svAbsAQsmtnB5Wqp4J6FYcWqC5'
+extras = ['dev', 'docs', 'idna', 'tests']
+dependencies = [
+	'attrs>=19.1.0',
+	'pyasn1-modules',
+	'pyasn1',
+	'cryptography',
+	'six',
+	'ipaddress; python_version < "3.3"',
+	'coverage[toml]>=5.0.2; extra == "dev"',
+	'pytest; extra == "dev"',
+	'sphinx; extra == "dev"',
+	'furo; extra == "dev"',
+	'idna; extra == "dev"',
+	'pyOpenSSL; extra == "dev"',
+	'sphinx; extra == "docs"',
+	'furo; extra == "docs"',
+	'idna; extra == "idna"',
+	'coverage[toml]>=5.0.2; extra == "tests"',
+	'pytest; extra == "tests"',
+]
