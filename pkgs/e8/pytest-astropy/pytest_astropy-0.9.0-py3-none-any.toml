@@ -1,0 +1,17 @@
+source = 'https://files.pythonhosted.org/packages/73/22/64e32dcc1d512269a2fb9a0dab7ba497dc9eb380103a6a56341c39014457/pytest_astropy-0.9.0-py3-none-any.whl'
+content-id = 'QmSzTywvNWvS4gvUCJXgWdVZWEnFe2rTHARDfPXxLX6FwZ'
+requires-python = '>=3.7'
+extras = []
+dependencies = [
+	'pytest>=4.6',
+	'pytest-doctestplus>=0.11.0',
+	'pytest-remotedata>=0.3.1',
+	'pytest-openfiles>=0.3.1',
+	'pytest-astropy-header>=0.1.2',
+	'pytest-arraydiff>=0.1',
+	'pytest-filter-subpackage>=0.1',
+	'pytest-cov>=2.3.1',
+	'pytest-mock>=2.0',
+	'attrs>=19.2.0',
+	'hypothesis>=5.1',
+]
