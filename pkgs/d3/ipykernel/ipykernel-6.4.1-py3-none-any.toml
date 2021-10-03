@@ -1,0 +1,21 @@
+source = 'https://files.pythonhosted.org/packages/4a/c8/2a8a5cb1afdecfa92c000e3a5d63a9fdd1b7fe77570f65536b3f05a05f14/ipykernel-6.4.1-py3-none-any.whl'
+content-id = 'QmY27zwuWV9MUtWfhpg5acPv8oiQVeYj6gqRz9N2wxZAFH'
+requires-python = '>=3.7'
+extras = ['test']
+dependencies = [
+	'ipython-genutils',
+	'debugpy<2.0,>=1.0.0',
+	'ipython<8.0,>=7.23.1',
+	'traitlets<6.0,>=4.1.0',
+	'jupyter-client<8.0',
+	'tornado<7.0,>=4.2',
+	'matplotlib-inline<0.2.0,>=0.1.0',
+	'appnope; platform_system == "Darwin"',
+	'importlib-metadata<5; python_version < "3.8.0"',
+	'argcomplete>=1.12.3; python_version < "3.8.0"',
+	'pytest!=5.3.4; extra == "test"',
+	'pytest-cov; extra == "test"',
+	'flaky; extra == "test"',
+	'nose; extra == "test"',
+	'ipyparallel; extra == "test"',
+]
