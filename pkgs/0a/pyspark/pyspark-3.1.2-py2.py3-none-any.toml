@@ -1,0 +1,11 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/599540/79ebbde074de4ae6/pyspark-3.1.2-py2.py3-none-any.whl'
+content-id = 'QmR5jaifkQhgBCTmszNxje2UuXXcuy3351gbkurrDDL9Tx'
+requires-python = '>=3.6'
+extras = ['ml', 'mllib', 'sql']
+dependencies = [
+	'py4j==0.10.9',
+	'numpy>=1.7; extra == "ml"',
+	'numpy>=1.7; extra == "mllib"',
+	'pandas>=0.23.2; extra == "sql"',
+	'pyarrow>=1.0.0; extra == "sql"',
+]
