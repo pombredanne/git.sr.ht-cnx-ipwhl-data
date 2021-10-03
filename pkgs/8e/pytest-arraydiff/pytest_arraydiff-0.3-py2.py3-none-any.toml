@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/b2/dd/0096e95a7da9d6cd566c35bd85b97659303007c2e8a3573c5d51fbf5da3d/pytest_arraydiff-0.3-py2.py3-none-any.whl'
+content-id = 'Qmcy2WS17eRyM6GdFqnAJmcf2uanhmDsjev3ks5C6Sjawv'
+extras = []
+dependencies = [
+	'numpy',
+	'six',
+	'pytest',
+]
