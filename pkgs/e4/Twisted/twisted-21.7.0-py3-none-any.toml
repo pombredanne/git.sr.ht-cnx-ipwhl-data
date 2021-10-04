@@ -1,7 +1,21 @@
 source = 'https://files.pythonhosted.org/packages/b5/0c/7a1a943edce164c77c98f044175d801b572bb36936e9b4d5805a850525e7/Twisted-21.7.0-py3-none-any.whl'
 content-id = 'QmNtv4RtkBTTvUR6AtZUwURjAMQU9fqfBcbXo4KyW7dxyB'
 requires-python = '>=3.6.7'
-extras = ['all_non_platform', 'conch', 'contextvars', 'dev', 'dev_release', 'http2', 'macos_platform', 'mypy', 'osx_platform', 'serial', 'test', 'tls', 'windows_platform']
+extras = [
+	# 'all_non_platform', # FIXME: re-add when they loose dependencies for h2
+	'conch',
+	'contextvars',
+	# 'dev', # FIXME: re-add when they loose dependencies for sphinx*
+	# 'dev_release', # FIXME: re-add when they loose dependencies for sphinx
+	# 'http2', # FIXME: re-add when they loose dependencies
+	# 'macos_platform', # FIXME: re-add when they loose dependencies for h2
+	# 'mypy', # FIXME: re-add when they loose dependencies for h2
+	# 'osx_platform', # FIXME: re-add when they loose dependencies for h2
+	'serial',
+	'test',
+	'tls',
+	# 'windows_platform' FIXME: re-add when they loose dependencies for pywin32
+]
 dependencies = [
 	'zope.interface>=4.4.2',
 	'constantly>=15.1',
