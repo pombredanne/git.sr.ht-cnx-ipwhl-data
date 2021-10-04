@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/fa/d8/87378e57aa2dd1dc358aaa2cebabd505ba7f40a8b548b53a6f7e70317f78/hidapi-0.10.1-cp38-cp38-manylinux2014_x86_64.whl'
+content-id = 'QmYFvR6oMr1BPVpEAYYST2wFXTtsn8qmscy3mdxac1SGb7'
+extras = []
+dependencies = [
+	'setuptools>=19.0',
+]

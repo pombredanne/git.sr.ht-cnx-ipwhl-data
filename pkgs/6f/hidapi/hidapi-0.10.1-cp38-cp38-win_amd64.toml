@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/c7/11/6ec0656ff96f46ab765c7fcf9ea96208a168568cd64bdefe5fc44415dcec/hidapi-0.10.1-cp38-cp38-win_amd64.whl'
+content-id = 'QmVBTNzEprsPc2jYUcEcTL6gbMNTPKS24BqG7pER94Jpfe'
+extras = []
+dependencies = [
+	'setuptools>=19.0',
+]

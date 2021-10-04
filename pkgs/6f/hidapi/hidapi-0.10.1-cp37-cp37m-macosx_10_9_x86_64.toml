@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/82/4a/f0634b2cea7ee5ed4c4dc1e9a86e49df9df8b7794723a7d728156e03993a/hidapi-0.10.1-cp37-cp37m-macosx_10_9_x86_64.whl'
+content-id = 'Qma2LcB3Ua2hYhip41ywNDQhqqaBZPJkr1QKhPNm9a71ku'
+extras = []
+dependencies = [
+	'setuptools>=19.0',
+]
