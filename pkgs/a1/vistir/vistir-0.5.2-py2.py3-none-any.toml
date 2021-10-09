@@ -2,11 +2,12 @@ source = 'https://files.pythonhosted.org/packages/ec/fd/9c8a07336eb504f0c06777dc
 content-id = 'QmYoR6susziegkAjqBuQYJHGWLuZZtHu6QbzmX4jhudB1q'
 requires-python = '!=3.0,!=3.1,!=3.2,!=3.3,>=2.7'
 extras = [
-	'dev',
 	'requests',
 	'spinner',
-	# 'tests' #FIXME: re-add pytest-rerunfailures are loosened
-	# 'typing' #FIXME: re-add when pytype is packaged for windows
+	# Ignore development extras
+	# 'dev',
+	# 'tests',
+	# 'typing',
 ]
 dependencies = [
 	'colorama!=0.4.2,>=0.3.4',

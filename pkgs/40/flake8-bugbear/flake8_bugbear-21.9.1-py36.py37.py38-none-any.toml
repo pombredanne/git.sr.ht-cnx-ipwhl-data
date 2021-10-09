@@ -1,7 +1,10 @@
 source = 'https://files.pythonhosted.org/packages/af/05/78e3a1ba32d820226a4a0b00c79265b555aae3d8ea1bb1d338c1fd6b7099/flake8_bugbear-21.9.1-py36.py37.py38-none-any.whl'
 content-id = 'QmS4C3Yy45WSBwm3YBq7wVjVj3rPqYFy9cpVda33xxLzDo'
 requires-python = '>=3.6'
-extras = ['dev']
+extras = [
+	# Ignore development extra
+	# 'dev',
+]
 dependencies = [
 	'flake8>=3.0.0',
 	'attrs>=19.2.0',

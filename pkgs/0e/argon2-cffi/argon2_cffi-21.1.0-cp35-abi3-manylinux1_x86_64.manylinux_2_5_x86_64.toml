@@ -2,9 +2,10 @@ source = 'https://files.pythonhosted.org/packages/50/85/fa444619ba3709b8969a75bf
 content-id = 'QmPKsduwam2QTwAGzSPxRMaArhc65fFqWm931oW7BHDLpr'
 requires-python = '>=3.5'
 extras = [
-	'dev',
 	'docs',
-	'tests',
+	# Ignore development extras
+	# 'dev',
+	# 'tests',
 ]
 dependencies = [
 	'cffi>=1.0.0',

@@ -22,5 +22,5 @@ dependencies = [
 	'sphinx-rtd-theme; extra == "docs"',
 	'zope.interface; extra == "docs"',
 	'pytest<7.0.0,>=6.0.0; extra == "tests"',
-	'coverage[toml]==5.0.4; extra == "tests"', # FIXME: contact upstream
+	'coverage[toml]==5.0.4; extra == "tests"',
 ]

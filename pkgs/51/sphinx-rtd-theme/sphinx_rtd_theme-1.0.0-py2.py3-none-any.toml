@@ -2,7 +2,8 @@ source = 'https://files.pythonhosted.org/packages/e0/d2/3818e4730e314719e27f639c
 content-id = 'QmXYsYEy4nDw1C9beRphzbETLoE4JeGTUcgGxm3pN75sVp'
 requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7'
 extras = [
-	# 'dev' # FIXME: Ignore due to transifex-client sdist+complex deps
+	# Development extra, awaiting transifex-client
+	# 'dev',
 ]
 dependencies = [
 	'sphinx>=1.6',

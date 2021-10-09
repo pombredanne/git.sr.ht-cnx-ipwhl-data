@@ -2,7 +2,8 @@ source = 'https://files.pythonhosted.org/packages/07/be/87f2a4932fc2f3676411edc1
 content-id = 'QmZNURpao9d6wovM8XNkbKVMi49Hf4mdf2sFK84cxSoSLE'
 requires-python = '>=3.6'
 extras = [
-	#  # FIXME: re-add when they loose pycodestyle et al
+	# Ignore development extra
+	# 'test',
 ]
 dependencies = [
 	'typing-extensions>=3.7.4.3; python_version < "3.8"',

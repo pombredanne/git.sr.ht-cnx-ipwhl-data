@@ -2,8 +2,9 @@ source = 'https://files.pythonhosted.org/packages/58/b7/cc5a5321a6119e23ee85745b
 content-id = 'QmVg43wCrqGjFV7ptKiHAaKuJmpEmixjbzWKNn1pYZ2Lec'
 requires-python = '>=3.6'
 extras = [
-	'docs'
-	#'testing' #FIXME: re-add when pytest-checkdocs is added
+	'docs',
+	# Development extra, awaiting pytest-checkdocs
+	# 'testing',
 ]
 dependencies = [
 	'importlib-metadata>=3.6',

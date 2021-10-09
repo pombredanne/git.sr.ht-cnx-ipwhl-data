@@ -2,9 +2,10 @@ source = 'https://files.pythonhosted.org/packages/a3/0f/3d989a90cd4533145c96860b
 content-id = 'QmfDhMhQKqCvBnSBtBtVKCuLtmAwwSrLgZFHhxH1MEhUiT'
 requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
 extras = [
-	'dev',
-	'tests',
-	# 'typing', #FIXME: re-add when pytype is packaged for Windows
+	# Ignore development extras
+	# 'dev',
+	# 'tests',
+	# 'typing',
 ]
 dependencies = [
 	'appdirs',

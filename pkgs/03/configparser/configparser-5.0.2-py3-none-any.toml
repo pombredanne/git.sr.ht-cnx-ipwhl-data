@@ -3,7 +3,8 @@ content-id = 'QmcqkPyK3ioBKkzTkrCqJvVr28owZNjXwVEeJEiuZb9Dwg'
 requires-python = '>=3.6'
 extras = [
 	'docs',
-	# 'testing' # FIXME: re-add when pytest-checkdocs is added
+	# Development extra, awaiting pytest-checkdocs
+	# 'testing',
 ]
 dependencies = [
 	'sphinx; extra == "docs"',

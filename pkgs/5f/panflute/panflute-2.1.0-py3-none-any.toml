@@ -3,7 +3,8 @@ content-id = 'QmbCYM5MZwoo6GnQxWrDBE1mZJ8cJyA2CcGomaF2fK6hk5'
 requires-python = '>=3.6'
 extras = [
 	'dev',
-	'pypi'
+	# Ignore development extra
+	# 'pypi',
 ]
 dependencies = [
 	'click<8,>=6',

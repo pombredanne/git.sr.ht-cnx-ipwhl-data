@@ -2,8 +2,9 @@ source = 'https://files.pythonhosted.org/packages/6b/60/b097e9bbcfbe270bc7d5a9e5
 content-id = 'Qmdn4GXofJWHgW4iP2C1RfVeBjwEUbTvq8vRhr67T81G55'
 requires-python = '>=3.6'
 extras = [
-	# 'doc', # FIXME: re-add when various sphinx extras are added
-	'test'
+	'test',
+	# Ignore development extra
+	# 'doc',
 ]
 dependencies = [
 	'beautifulsoup4',

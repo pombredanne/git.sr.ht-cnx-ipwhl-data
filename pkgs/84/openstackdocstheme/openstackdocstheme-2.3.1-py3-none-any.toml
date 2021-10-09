@@ -1,8 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/9f/62/58622c83e0067259a213660047ee18ff149e85aa908ae68c9b0f32b7f93e/openstackdocstheme-2.3.1-py3-none-any.whl'
-content-id = 'QmcUBRSJ26tYMAH8Pvus6MAB6RN3MLcsQ36qkz6ZSWkQBs'
-requires-python = '>=3.6'
-extras = []
-dependencies = [
-	'dulwich>=0.15.0',
-	'pbr!=2.1.0,>=2.0.0',
-]

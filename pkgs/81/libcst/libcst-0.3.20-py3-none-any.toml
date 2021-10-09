@@ -2,9 +2,8 @@ source = 'https://files.pythonhosted.org/packages/13/e8/77a4c58b8a604b7adda96857
 content-id = 'QmeYywpevFy3kRFrr6RWg4AKy31d4C1stWCZoNGUTy4c5u'
 requires-python = '>=3.6'
 extras = [
-	# 'dev'
-# FIXME: re-add the extra when following packages are satisfied: fixit, hypothesmit, jupyter, hypothesis, black, nbsphinx, pyre-check
-# Contact upstream to loosen the dependency
+	# Ignore development extra
+	# 'dev',
 ]
 dependencies = [
 	'typing-extensions>=3.7.4.2',

@@ -1,9 +1,0 @@
-source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/587800/71e933b4ee67b98d/pytest_black-0.3.12-py3-none-any.whl'
-content-id = 'QmTbjgDJvQbnPu4JFrk8ghaH38rLRqbCW6D9E5Riz7VR7o'
-requires-python = '>=2.7'
-extras = []
-dependencies = [
-	'pytest>=3.5.0',
-	'toml',
-	'black; python_version >= "3.6"',
-]

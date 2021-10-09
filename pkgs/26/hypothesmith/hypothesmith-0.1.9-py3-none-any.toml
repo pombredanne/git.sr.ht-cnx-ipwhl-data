@@ -1,9 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/bc/d2/55d4b1a487818b6e81a696e023a44736166ba575569e43ee8eedef88199f/hypothesmith-0.1.9-py3-none-any.whl'
-content-id = 'QmSZBgZeEz56ccfzRY4sUMMrDxKYiY9PKVaTLmno1VN4jv'
-requires-python = '>=3.6'
-extras = []
-dependencies = [
-	'hypothesis>=5.41.0',
-	'lark-parser>=0.7.2',
-	'libcst>=0.3.8',
-]

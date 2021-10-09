@@ -2,9 +2,10 @@ source = 'https://files.pythonhosted.org/packages/bd/25/5bdf7f1adeebd4e3fa76b2e2
 content-id = 'QmPS9ZPDAc5SudNQkEPcWzVyHmwvoXHdcmAzP6XAbWw7GS'
 requires-python = '>=3.6'
 extras = [
-	'docs',
 	'certs',
-	'ssl'
+	'ssl',
+	# Ignore development extra
+	# 'docs',
 ]
 dependencies = [
 	'sphinx; extra == "docs"',

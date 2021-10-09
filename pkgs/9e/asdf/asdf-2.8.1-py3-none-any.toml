@@ -3,9 +3,9 @@ content-id = 'QmbsVcRXekk5GrhCbv2sDjrs42KWpGoJt2tN3Edu4hpNkR'
 requires-python = '>=3.6'
 extras = [
 	'all',
-	# Ignore development extras
-	'docs',
-	# 'tests', # FIXME: re-add when they loosen the pytest version
+	# Ignore development extra
+	# 'docs',
+	# 'tests',
 ]
 dependencies = [
 	'jmespath>=0.6.2',

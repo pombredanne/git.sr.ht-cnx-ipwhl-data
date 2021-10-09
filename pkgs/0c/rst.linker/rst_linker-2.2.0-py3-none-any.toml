@@ -2,8 +2,9 @@ source = 'https://files.pythonhosted.org/packages/5b/9d/432ef3822c2e2a3f00305de6
 content-id = 'QmWusyu46sKgsCxZRnjyCbea5zCxhnty3aDgLbuL4pZZMM'
 requires-python = '>=3.6'
 extras = [
-	'docs'
-	# 'testing' #FIXME: re-add when pytest-checkdocs is added
+	'docs',
+	# Development extra, awaiting pytest-checkdocs
+	# 'testing',
 ]
 dependencies = [
 	'python-dateutil',

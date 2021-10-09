@@ -1,9 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/72/ff/28cffe7b4ee3b1823db5a1186521e48b898dffade680405c690915e5ce8f/eventlet-0.31.1-py2.py3-none-any.whl'
-content-id = 'QmS9RvYYAMTDpUVr7c23zg5pjpQMWJhpxvmRavvWb8UhoF'
-extras = []
-dependencies = [
-	'dnspython<2.0.0,>=1.15.0',
-	'greenlet>=0.3',
-	'six>=1.10.0',
-	'monotonic>=1.4; python_version < "3.5"',
-]

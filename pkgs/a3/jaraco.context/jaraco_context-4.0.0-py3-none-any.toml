@@ -2,8 +2,9 @@ source = 'https://files.pythonhosted.org/packages/73/25/03d48691bd2f99637856ce53
 content-id = 'QmZbdR1BeyhUsciMwz5SuC8kc1JUh7xTzVJA4jda1dPZaw'
 requires-python = '>=3.6'
 extras = [
-	'docs'
-	#'testing' #FIXME: re-add when pytest-checkdocs is added
+	'docs',
+	# Development extra, awaiting pytest-checkdocs
+	# 'testing',
 ]
 dependencies = [
 	'sphinx; extra == "docs"',

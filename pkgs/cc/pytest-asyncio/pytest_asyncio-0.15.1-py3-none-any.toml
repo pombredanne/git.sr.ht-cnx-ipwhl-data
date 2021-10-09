@@ -1,7 +1,10 @@
 source = 'https://files.pythonhosted.org/packages/c3/8a/a3454b14124af9858fc2936f85abc4972f26a2bbd4ffd4251aad7ec17dd7/pytest_asyncio-0.15.1-py3-none-any.whl'
 content-id = 'QmNMG2yX5kDFwDeLTFpyuKetGGkLuB1kukBAhGPXqGUUXQ'
 requires-python = '>=3.6'
-extras = ['testing']
+extras = [
+	# Ignore development extra
+	# 'testing',
+]
 dependencies = [
 	'pytest>=5.4.0',
 	'coverage; extra == "testing"',

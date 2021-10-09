@@ -1,6 +1,0 @@
-source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/596845/7761adaf2491eb64/hypothesis_fspaths-0.1-py2.py3-none-any.whl'
-content-id = 'QmXypxuo8ovLfaLpQy1BzKtpJUBUsetGgfYK2z4wRZsXNE'
-extras = []
-dependencies = [
-	'hypothesis',
-]

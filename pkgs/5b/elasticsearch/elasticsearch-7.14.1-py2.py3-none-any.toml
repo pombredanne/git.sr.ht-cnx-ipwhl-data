@@ -3,8 +3,10 @@ content-id = 'QmVKwnYJRrmqQohdPQpAcZMeXZTyr4ETTTLfRYTYcuWPws'
 requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,<4,>=2.7'
 extras = [
 	'async',
-	# 'develop', 'docs', # FIXME: re-add this when upstream loose sphinx
 	'requests'
+	# Ignore development extras
+	# 'develop',
+	# 'docs',
 ]
 dependencies = [
 	'urllib3<2,>=1.21.1',

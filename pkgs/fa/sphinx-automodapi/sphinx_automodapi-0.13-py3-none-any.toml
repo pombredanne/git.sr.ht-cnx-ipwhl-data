@@ -2,7 +2,8 @@ source = 'https://files.pythonhosted.org/packages/16/08/83a3ee2cd420043538d195f0
 content-id = 'Qma2HACvrDT9abUKW7DQMT5N3yUtqTB4FGaEmpTMqfoobn'
 requires-python = '>=3.6'
 extras = [
-	# 'test' # FIXME: re-add when they loosen dep for coverage
+	# Ignore development extra
+	# 'test',
 ]
 dependencies = [
 	'sphinx>=1.7',

@@ -1,7 +1,15 @@
 source = 'https://files.pythonhosted.org/packages/00/e4/da1509e64a92e32ec8df97f5c4372e7f0e56b5b0bad299da61a9632b900c/cryptography-3.4.8-cp36-abi3-macosx_10_10_x86_64.whl'
 content-id = 'QmV2vN3Xdi3dzvuMRUGxWhJb1FWBKhVM2NBgz1Wey9xLAx'
 requires-python = '>=3.6'
-extras = ['docs', 'docstest', 'pep8test', 'sdist', 'ssh', 'test']
+extras = [
+	'docs',
+	'sdist',
+	'ssh',
+	# Ignore development extras
+	# 'docstest',
+	# 'pep8test',
+	# 'test',
+]
 dependencies = [
 	'cffi>=1.12',
 	'sphinx!=1.8.0,!=3.1.0,!=3.1.1,>=1.6.5; extra == "docs"',

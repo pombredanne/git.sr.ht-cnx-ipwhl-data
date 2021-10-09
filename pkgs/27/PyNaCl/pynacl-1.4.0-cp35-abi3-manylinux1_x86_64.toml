@@ -1,7 +1,11 @@
 source = 'https://files.pythonhosted.org/packages/9d/57/2f5e6226a674b2bcb6db531e8b383079b678df5b10cdaa610d6cf20d77ba/PyNaCl-1.4.0-cp35-abi3-manylinux1_x86_64.whl'
 content-id = 'QmZP4NjyPQAnMUbDnmWi6Gwmc9Qtujcb8RUcjz1bznZDu7'
 requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7'
-extras = ['docs']
+extras = [
+	'docs',
+	# Ignore development extra
+	# 'tests',
+]
 dependencies = [
 	'six',
 	'cffi>=1.4.1',

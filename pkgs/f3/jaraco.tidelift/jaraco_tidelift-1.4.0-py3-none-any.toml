@@ -2,8 +2,9 @@ source = 'https://files.pythonhosted.org/packages/08/be/c48b5755aa9b71745d3ab801
 content-id = 'QmV9zH7MrriU5otoiUTzECtzrXnryJv7eh4T7fGr1nM6Gb'
 requires-python = '>=3.6'
 extras = [
-	'docs'
-	# 'testing' #FIXME: re-add when pytest-checkdocs is added
+	'docs',
+	# Development extra, awaiting pytest-checkdocs
+	# 'testing',
 ]
 dependencies = [
 	'autocommand',

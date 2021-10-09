@@ -1,8 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/db/33/fa0668c9647a271aa1534da6711a8b80616e2d457be391eebc6490e5ba4f/sphinxcontrib_towncrier-0.2.0a0-py3-none-any.whl'
-content-id = 'QmPpYFTqYDuBLiaDwHk4kw5kSvWL3A53fsv7XRh6igwrdn'
-requires-python = '>=3.6'
-extras = []
-dependencies = [
-	'sphinx',
-	'towncrier',
-]

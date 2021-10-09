@@ -2,7 +2,10 @@ source = 'https://files.pythonhosted.org/packages/50/38/2a0825302b207ff694cb501f
 content-id = 'QmPU3tp9q4BN78ZgzJde2mtwVLeYF1tezx9E48TPgJbvdB'
 requires-python = '>=3.7'
 extras = [
-	# 'dev', 'docs', 'test' # FIXME: contact upstream to loosen dependency
+	# Ignore development extras
+	# 'dev',
+	# 'docs',
+	# 'test',
 ]
 dependencies = [
 	'Cython<0.30.0,>=0.29.24; extra == "dev"',

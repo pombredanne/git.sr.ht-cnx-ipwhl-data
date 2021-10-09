@@ -1,7 +1,8 @@
 source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/587798/f8a6c7cda75733f7/ghp_import-2.0.1-py3-none-any.whl'
 content-id = 'QmTGryvndqkrhEqasNUdjCrfoucfxuDH2NdL2VRzjNNuqP'
 extras = [
-	'dev'
+	# Ignore development extra
+	# 'dev',
 ]
 dependencies = [
 	'python-dateutil>=2.8.1',

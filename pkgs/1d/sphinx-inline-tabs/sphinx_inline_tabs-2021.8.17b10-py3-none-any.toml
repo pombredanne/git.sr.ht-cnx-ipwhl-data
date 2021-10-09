@@ -2,8 +2,9 @@ source = 'https://files.pythonhosted.org/packages/e6/1a/1948c172a8afe1867c176df7
 content-id = 'QmdRbVZUxw4mjGXwAMzHKuXZ3hpzTE5aQhZeJDQSup6EhW'
 requires-python = '>=3.8'
 extras = [
-	# 'doc', # FIXME: re-add when myst-parser is packaged
-	'test'
+	'test',
+	# Development extra, awaiting myst-parser
+	# 'doc',
 ]
 dependencies = [
 	'sphinx>=3',

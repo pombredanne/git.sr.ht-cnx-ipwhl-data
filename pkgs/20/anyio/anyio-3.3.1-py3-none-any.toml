@@ -4,7 +4,8 @@ requires-python = '>=3.6.2'
 extras = [
 	'trio',
 	'doc',
-	'test',
+	# Ignore development extra
+	# 'test',
 ]
 dependencies = [
 	'idna>=2.8',

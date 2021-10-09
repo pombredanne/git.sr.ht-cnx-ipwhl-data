@@ -2,8 +2,9 @@ source = 'https://files.pythonhosted.org/packages/b8/74/bee5fc115949747465351175
 content-id = 'QmfJx9GwbYCKkwXvN9e3kiSqReNtqQmeXAg4aigtbjuyFQ'
 requires-python = '>=3.6'
 extras = [
-	'docs'
-	# 'testing' #FIXME: re-add when pytest-checkdocs is added
+	'docs',
+	# Development extra, awaiting pytest-checkdocs
+	# 'testing',
 ]
 dependencies = [
 	'more-itertools',

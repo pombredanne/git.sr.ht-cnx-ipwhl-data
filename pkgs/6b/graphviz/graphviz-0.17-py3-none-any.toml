@@ -1,7 +1,12 @@
 source = 'https://files.pythonhosted.org/packages/97/14/b5eeeb6d24dbca0ada857ce4a453985df34d9512464bb20cc1a8aca44c54/graphviz-0.17-py3-none-any.whl'
 content-id = 'QmWazT3pRc75HWreaTPvSEBM6QFHAg4H3yTX4rohjPrhTm'
 requires-python = '>=3.6'
-extras = ['dev', 'docs', 'test']
+extras = [
+	'docs',
+	'test',
+	# Ignore development extra
+	# 'dev',
+]
 dependencies = [
 	'tox>=3; extra == "dev"',
 	'flake8; extra == "dev"',

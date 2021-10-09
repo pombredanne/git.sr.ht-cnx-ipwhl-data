@@ -3,6 +3,6 @@ content-id = 'Qmem9QJun2gVCbDY74QNYjP1pz8fStvZS4pL8dmE25wrrj'
 requires-python = '>=3.5'
 extras = []
 dependencies = [
-	'falcon==2.0.0', # FIXME: ask upstream to loosen this as falcon is 3.0 already
+	'falcon==2.0.0',
 	'requests',
 ]

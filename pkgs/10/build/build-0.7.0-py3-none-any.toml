@@ -2,8 +2,12 @@ source = 'https://files.pythonhosted.org/packages/46/28/70768d6585162eb29df181ae
 content-id = 'Qmc8ZexhK3MdJJp47EFhT2LQPWSkbv1JZXu6R4BQduXNRw'
 requires-python = '>=3.6'
 extras = [
-	# 'docs', # FIXME: re-add when they loosen dependency on sphinx
-	'test', 'typing', 'virtualenv']
+	'test',
+	'typing',
+	'virtualenv',
+	# Ignore development extra
+	# 'docs',
+]
 dependencies = [
 	'packaging>=19.0',
 	'pep517>=0.9.1',

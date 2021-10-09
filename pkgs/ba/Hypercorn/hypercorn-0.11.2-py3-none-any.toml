@@ -2,8 +2,11 @@ source = 'https://files.pythonhosted.org/packages/68/53/9ceb193c35ce828936cb522b
 content-id = 'QmYHXpJjPDbExYy72ZP7Qncy86knmCnPJZEzpRURYX7NG6'
 requires-python = '>=3.7'
 extras = [
-	'h3', 'tests', 'trio'
-	# 'uvloop' # FIXME: include this when uvloop is packaged for Windows
+	# FIXME: 'uvloop',
+	'h3',
+	'trio',
+	# Ignore development extra
+	# 'tests',
 ]
 dependencies = [
 	'h11',

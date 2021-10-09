@@ -2,11 +2,13 @@ source = 'https://files.pythonhosted.org/packages/b6/32/e82e51a64280b16647af538b
 content-id = 'QmQ67xGdWEwtsMobPue87S8oz2gr34Zv5i95G3sS52cjPg'
 requires-python = '>=3.6'
 extras = [
+	'docs',
+	'sdist',
 	'ssh',
-	'pep8test',
-	'docstest',
-	'test',
-	'docs'
+	# Ignore development extras
+	# 'docstest',
+	# 'pep8test',
+	# 'test',
 ]
 dependencies = [
 	'cffi>=1.12',
