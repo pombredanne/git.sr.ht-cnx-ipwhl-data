@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/20/32/b8221152dfd277fdd4efd2a119aa8f2331309617573d5c632be239481533/asaman-0.1.6-py3-none-any.whl'
+content-id = 'QmP5kCzXKcGJyjMDzNAGLdEvd8EzV3YG4CJUctKkEv48vE'
+extras = []
+dependencies = [
+	'Click',
+	'pep517',
+	'build',
+	'setuptools',
+]
