@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/73/a1/e347135b0ebb4d4c29a4258cb6d2e03c2d0c4ea207bf9ce5d255d7887a56/httpcore-0.13.7-py3-none-any.whl'
+content-id = 'QmeRQQWpUn7AQTsoyJB4unuhR4o9aCgK8797QQAcvC5D3z'
+requires-python = '>=3.6'
+extras = ['http2']
+dependencies = [
+	'h11<0.13,>=0.11',
+	'sniffio==1.*',
+	'anyio==3.*',
+	'h2<5,>=3; extra == "http2"',
+]
