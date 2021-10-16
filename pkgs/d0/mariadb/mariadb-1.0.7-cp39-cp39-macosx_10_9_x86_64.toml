@@ -1,0 +1,5 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/608932/2c8f1a818893a18c/mariadb-1.0.7-cp39-cp39-macosx_10_9_x86_64.whl'
+content-id = 'Qma57TDce6ZvfcUixJY1DvTtSf8nqTkT9UEJbSYYRnQZoL'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
