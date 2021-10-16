@@ -1,0 +1,5 @@
+source = 'https://gitlab.com/ipwhl/caseiculture/-/jobs/1685943492/artifacts/raw/wheelhouse/mysqlclient-2.0.3-cp37-cp37m-manylinux_2_24_x86_64.whl'
+content-id = 'QmbrDWppPg637wTWFhAvyyAn2f72U21nQZi3dk3XtVsxcT'
+requires-python = '>=3.5'
+extras = []
+dependencies = []
