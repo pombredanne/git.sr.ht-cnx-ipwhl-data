@@ -1,0 +1,5 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/617886/75ce5a4acfe124bd/mysqlclient-2.0.3-cp37-cp37m-macosx_10_9_x86_64.whl'
+content-id = 'QmWf8cUy1BaMuMs7juNSS4bBoGiQTyZAdy6vHVuSHkshLx'
+requires-python = '>=3.5'
+extras = []
+dependencies = []
