@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/d8/b2/15bf6781a861bbc5dd801d467f26448fb322bfedcd30f2e62b148d104dfb/feedparser-6.0.8-py3-none-any.whl'
+content-id = 'QmXAUwT8DBFkXYNXW38Xku4gxe2kEmft7jdjzn8RVge9M5'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'sgmllib3k',
+]
