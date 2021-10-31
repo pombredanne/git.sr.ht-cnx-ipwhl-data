@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/82/ea/ae63fdfb45a604c8eccd8e0f9b7b0241a02ec89ba595d6188850ca4dc259/loca-2.0.1-py3-none-any.whl'
+content-id = 'QmXaYnVz8adidSExr2n9aZEDt6s5Rdyu3qSy4SkQTBcm8R'
+requires-python = '>=3.7'
+extras = []
+dependencies = []
