@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/31/bb/011e99ffd8396f56ace1437a085d73829d865e70ae7ef6765c47606c37e1/pygame-2.0.2-cp37-cp37m-win_amd64.whl'
+content-id = 'QmUEU1AscjwF9ZWjdTzYzXTHsFifXqZj5xGJEssH4tjpQW'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
+extras = []
+dependencies = []
