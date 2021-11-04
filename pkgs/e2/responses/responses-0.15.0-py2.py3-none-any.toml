@@ -1,7 +1,10 @@
-source = 'https://files.pythonhosted.org/packages/7b/9b/d4f61d21bf2c9a653d02bf5ef8910c03e0cbc876db5eebae358421261b4c/responses-0.14.0-py2.py3-none-any.whl'
-content-id = 'QmViUJE3tJ5yqVJn8AaUf3kmoHrgvb7zediLhWJBuiMP2E'
+source = 'https://files.pythonhosted.org/packages/55/03/bf9b983e68724fc83942666454f6f7a9b024203ff15d0065e4ea482542ef/responses-0.15.0-py2.py3-none-any.whl'
+content-id = 'QmVKqECUm99VvprMYfLn1hLkiXF57RWHHA2ZTngkNoZAQj'
 requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
-extras = ['tests']
+extras = [
+	# Ignore development extra
+	# 'tests',
+]
 dependencies = [
 	'requests>=2.0',
 	'urllib3>=1.25.10',
