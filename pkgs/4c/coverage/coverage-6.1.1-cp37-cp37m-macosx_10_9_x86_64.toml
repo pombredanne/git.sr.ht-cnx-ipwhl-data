@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/4e/c9/e830bde1d6f2fb3a73095a38a9edb18197299e219fd701e62caa15e0b74d/coverage-6.1.1-cp37-cp37m-macosx_10_9_x86_64.whl'
+content-id = 'QmTDWoV8hDoRTGehgykqMgFmxwWX1YLTrKVdU2E1kVhaGu'
+requires-python = '>=3.6'
+extras = ['toml']
+dependencies = [
+	'tomli; extra == "toml"',
+]

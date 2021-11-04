@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/cd/9c/94a004a0dc57ac49d72fed80d282b844f0dd1f27f0c5ac7da85d8e3a406e/coverage-6.1.1-cp37-cp37m-win_amd64.whl'
+content-id = 'QmcwA1t2y7jZs1RCfRma64Vk1Yo7z2FxxafGD4cWeNVSqK'
+requires-python = '>=3.6'
+extras = ['toml']
+dependencies = [
+	'tomli; extra == "toml"',
+]
