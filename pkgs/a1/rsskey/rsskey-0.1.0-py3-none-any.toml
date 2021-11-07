@@ -1,0 +1,11 @@
+source = 'https://files.pythonhosted.org/packages/7d/b6/6e33143307bb7ec18bba0b1304f081a8511ebe827967bf76712fbdd3b944/rsskey-0.1.0-py3-none-any.whl'
+content-id = 'QmXmtWxqvpK3N5P7pNF8WUcmFZfaW3bW7t6buvLVgZGM6T'
+requires-python = '>=3.7'
+extras = []
+dependencies = [
+	'feedparser',
+	'httpx',
+	'loca',
+	'markdownify',
+	'trio',
+]
