@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/ab/9f/a0d49dcde93f27125f011f8ce60f86840bc69c95695ed8ed2d77adb2cb8c/virtualenv-20.7.2-py2.py3-none-any.whl'
-content-id = 'QmSgztMaSe5sjgrqdhgvfHBF7rzfvAvi4ZgS5SBoBgaSSw'
+source = 'https://files.pythonhosted.org/packages/ac/8a/05e8d8a3ac88a3c4ebec1fe2b1b4730e6e6ebdddb52cfd6cea6803de4624/virtualenv-20.10.0-py2.py3-none-any.whl'
+content-id = 'Qmb8VwX7pAYVQHHY9BPGcChbhhbZKbEcHktrinFQfRh2y2'
 requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
 extras = [
 	'testing',
@@ -9,7 +9,7 @@ extras = [
 dependencies = [
 	'backports.entry-points-selectable>=1.0.4',
 	'distlib<1,>=0.3.1',
-	'filelock<4,>=3.0.0',
+	'filelock<4,>=3.2',
 	'platformdirs<3,>=2',
 	'six<2,>=1.9.0',
 	'pathlib2<3,>=2.3.3; python_version < "3.4" and sys_platform != "win32"',
@@ -19,7 +19,7 @@ dependencies = [
 	'sphinx>=3; extra == "docs"',
 	'sphinx-argparse>=0.2.5; extra == "docs"',
 	'sphinx-rtd-theme>=0.4.3; extra == "docs"',
-	'towncrier>=19.9.0rc1; extra == "docs"',
+	'towncrier>=21.3; extra == "docs"',
 	'coverage>=4; extra == "testing"',
 	'coverage-enable-subprocess>=1; extra == "testing"',
 	'flaky>=3; extra == "testing"',
