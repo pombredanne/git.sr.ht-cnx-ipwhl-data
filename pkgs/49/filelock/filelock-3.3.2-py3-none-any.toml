@@ -1,0 +1,14 @@
+source = 'https://files.pythonhosted.org/packages/31/24/ee722b92f23b9ebd87783e893a75352c048bbbc1f67dce0d63b58b46cb48/filelock-3.3.2-py3-none-any.whl'
+content-id = 'QmUkYz9prZ9usVdR4nUB5WgFvo1u61hGVkzvAQVeqpadFQ'
+requires-python = '>=3.6'
+extras = ['docs', 'testing']
+dependencies = [
+	'furo>=2021.8.17b43; extra == "docs"',
+	'sphinx>=4.1; extra == "docs"',
+	'sphinx-autodoc-typehints>=1.12; extra == "docs"',
+	'covdefaults>=1.2.0; extra == "testing"',
+	'coverage>=4; extra == "testing"',
+	'pytest>=4; extra == "testing"',
+	'pytest-cov; extra == "testing"',
+	'pytest-timeout>=1.4.2; extra == "testing"',
+]
