@@ -1,13 +1,13 @@
-source = 'https://files.pythonhosted.org/packages/d0/d7/6e2d6c1f79b27a0fb47b3e51124c06341ed30e3a688655254248b6fa2809/flit-3.3.0-py3-none-any.whl'
-content-id = 'QmV3QMQh2pAGFAhD6MDbk4r5SPs8R5UUwa1zombqnjgRmf'
+source = 'https://files.pythonhosted.org/packages/0c/05/d39cd39a8429ebcda598a69c2b8cc2c06f8b96c3818a6fb7961a58e29ed4/flit-3.4.0-py3-none-any.whl'
+content-id = 'QmZDAA3f5ni6VZWxQKqobkfD5shNbb7cyN2y83SpzDxAtH'
 requires-python = '>=3.6'
 extras = ['doc', 'test']
 dependencies = [
-	'flit_core>=3.3.0',
+	'flit_core>=3.4.0',
 	'requests',
 	'docutils',
-	'toml',
-	'zipfile36; python_version == "3.5"',
+	'tomli',
+	'tomli-w',
 	'sphinx; extra == "doc"',
 	'sphinxcontrib_github_alt; extra == "doc"',
 	'pygments-github-lexers; extra == "doc"',
