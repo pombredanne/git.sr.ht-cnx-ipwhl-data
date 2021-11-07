@@ -1,11 +1,12 @@
-source = 'https://files.pythonhosted.org/packages/bd/25/5bdf7f1adeebd4e3fa76b2e2f045ae53ee208e40a4231ad0f0c3007e4353/setuptools-57.4.0-py3-none-any.whl'
-content-id = 'QmPS9ZPDAc5SudNQkEPcWzVyHmwvoXHdcmAzP6XAbWw7GS'
+source = 'https://files.pythonhosted.org/packages/70/e9/84e2865fddfaba4506bc5d293d2a535bf27e31b12ca16d31564f8ce28cdb/setuptools-58.5.3-py3-none-any.whl'
+content-id = 'QmbyMovNYmEUH1rv3V51xWTgLPX1LbrYyY3T3HzJ376eZ8'
 requires-python = '>=3.6'
 extras = [
 	'certs',
 	'ssl',
-	# Ignore development extra
+	# Ignore development extras
 	# 'docs',
+	# 'testing',
 ]
 dependencies = [
 	'sphinx; extra == "docs"',
@@ -16,7 +17,7 @@ dependencies = [
 	'sphinx-inline-tabs; extra == "docs"',
 	'sphinxcontrib-towncrier; extra == "docs"',
 	'furo; extra == "docs"',
-	'pytest>=4.6; extra == "testing"',
+	'pytest>=6; extra == "testing"',
 	'pytest-checkdocs>=2.4; extra == "testing"',
 	'pytest-flake8; extra == "testing"',
 	'pytest-cov; extra == "testing"',
@@ -32,6 +33,6 @@ dependencies = [
 	'pytest-xdist; extra == "testing"',
 	'sphinx; extra == "testing"',
 	'jaraco.path>=3.2.0; extra == "testing"',
-	'pytest-black>=0.3.7; (platform_python_implementation != "PyPy" and python_version < "3.10") and extra == "testing"',
-	'pytest-mypy; (platform_python_implementation != "PyPy" and python_version < "3.10") and extra == "testing"',
+	'pytest-black>=0.3.7; platform_python_implementation != "PyPy" and extra == "testing"',
+	'pytest-mypy; platform_python_implementation != "PyPy" and extra == "testing"',
 ]
