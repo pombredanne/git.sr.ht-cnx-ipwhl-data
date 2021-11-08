@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/04/a2/d918dcd22354d8958fe113e1a3630137e0fc8b44859ade3063982eacd2a4/idna-3.3-py3-none-any.whl'
+content-id = 'QmXoFVMjEEhJJyWwCHVT94d7Z27FJAXj3UVwYGm3ZXZz3c'
+requires-python = '>=3.5'
+extras = []
+dependencies = []
