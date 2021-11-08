@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/6d/6c/9908d4db66488217c665a9a5744319406e41f3c46fa5929a8886f2fe1090/tomli-1.2.2-py3-none-any.whl'
+content-id = 'QmcP2MCJJA7MQt2RLzk3GoBRuBya5iWBg97ewRqY4fapSQ'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
