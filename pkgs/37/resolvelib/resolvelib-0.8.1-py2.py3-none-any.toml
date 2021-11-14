@@ -1,0 +1,26 @@
+source = 'https://files.pythonhosted.org/packages/98/c0/46cfa3f56e43033b705965120058c018375600fa8fdb44c4e53d75820673/resolvelib-0.8.1-py2.py3-none-any.whl'
+content-id = 'Qmb4kNWmo8egK7PZMZwvo5j8zxJnDG7qoTm5Tm13zAaePY'
+extras = [
+	'test',
+	# Ignore development extras
+	# 'examples',
+	# 'lint',
+	# 'release',
+]
+dependencies = [
+	'html5lib; extra == "examples"',
+	'packaging; extra == "examples"',
+	'pygraphviz; extra == "examples"',
+	'requests; extra == "examples"',
+	'black; extra == "lint"',
+	'flake8; extra == "lint"',
+	'mypy; extra == "lint"',
+	'isort; extra == "lint"',
+	'types-requests; extra == "lint"',
+	'build; extra == "release"',
+	'towncrier; extra == "release"',
+	'twine; extra == "release"',
+	'commentjson; extra == "test"',
+	'packaging; extra == "test"',
+	'pytest; extra == "test"',
+]
