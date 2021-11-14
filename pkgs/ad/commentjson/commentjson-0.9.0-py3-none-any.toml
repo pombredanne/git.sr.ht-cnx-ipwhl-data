@@ -1,0 +1,6 @@
+source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~cnx/627459/a2a2eb476c1b55a3/commentjson-0.9.0-py3-none-any.whl'
+content-id = 'QmUNyrD3UGmbi91C5cMvQmWQ3Av3mNcMgxRKDwdHzmprQd'
+extras = []
+dependencies = [
+	'lark-parser<0.8.0,>=0.7.1',
+]
