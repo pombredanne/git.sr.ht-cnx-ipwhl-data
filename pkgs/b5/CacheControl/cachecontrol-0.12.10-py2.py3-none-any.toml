@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/d3/39/b7cd9ef1be03ac33e71f76837a23d59842b016e5159cf5aff30c0b340907/CacheControl-0.12.10-py2.py3-none-any.whl'
+content-id = 'QmWJ4qrUFPQwGWXPPWbu8UvZatTrR27CZfnLMzPKX3QPVd'
+requires-python = '>=3.6'
+extras = ['filecache', 'redis']
+dependencies = [
+	'requests',
+	'msgpack>=0.5.2',
+	'lockfile>=0.9; extra == "filecache"',
+	'redis>=2.10.5; extra == "redis"',
+]
