@@ -1,0 +1,12 @@
+source = 'https://files.pythonhosted.org/packages/f2/a5/f86bc8d67c979020438c8559cc70cfe3a1643fd160d35e09c9cca6a09189/tenacity-8.0.1-py3-none-any.whl'
+content-id = 'QmYja8EUYupHGodprkUtFRWXucTLAHajKW4JhHBMPZcPBV'
+requires-python = '>=3.6'
+extras = [
+	# Ignore development extra
+	# 'doc',
+]
+dependencies = [
+	'reno; extra == "doc"',
+	'sphinx; extra == "doc"',
+	'tornado>=4.5; extra == "doc"',
+]
