@@ -30,5 +30,5 @@ environment:
   PIP_DISABLE_PIP_VERSION_CHECK: 1
   PIP_FORCE_REINSTALL: 1
   PIP_INDEX_URL: >-
-    http://localhost:8080/ipfs/QmcnVtqAup63oj2ZwEu6BWgSoyJNJZganQBxfB2SysjTBX
+    http://localhost:8080/ipfs/QmRmcXayah2kc4J9YPwJ3Sq92Euy7uzDqRL8G45Km3aVrJ
   PIP_QUIET: 1
