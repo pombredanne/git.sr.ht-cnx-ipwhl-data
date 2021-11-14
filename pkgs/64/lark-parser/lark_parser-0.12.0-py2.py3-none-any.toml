@@ -1,8 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/76/00/90f05db333fe1aa6b6ffea83a35425b7d53ea95c8bba0b1597f226cf1d5f/lark_parser-0.12.0-py2.py3-none-any.whl'
-content-id = 'QmQFV4HEKAJFNrP25Ugb2VturvMcgwVGwVZgwKYfc18qJh'
-extras = ['atomic_cache', 'nearley', 'regex']
-dependencies = [
-	'atomicwrites; extra == "atomic_cache"',
-	'js2py; extra == "nearley"',
-	'regex; extra == "regex"',
-]
