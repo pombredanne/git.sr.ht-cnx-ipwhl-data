@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/64/27/33375772e61eab2f7d0a7289dc5c20cdd134bcc846122b52b18d974266ff/PySide6-6.2.1-6.2.1-cp36.cp37.cp38.cp39.cp310-abi3-macosx_10_14_x86_64.whl'
+content-id = 'QmUgN5Ekhc8eWQ6pAq2ZzpAEN6uNoexSXKqHDZ92BdDQa5'
+requires-python = '<3.11,>=3.6'
+extras = []
+dependencies = [
+	'shiboken6==6.2.1',
+]
