@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/b1/0a/c31552befb2d6b7648c48d4e4b6f3157b919947808f3808ad445eab3560a/shiboken6-6.2.1-6.2.1-cp36.cp37.cp38.cp39.cp310-abi3-macosx_10_14_x86_64.whl'
+content-id = 'QmdADSe7PjUfrEVgUTtUYzoQqqfgHmBhaMu946JnCgY4mC'
+requires-python = '<3.11,>=3.6'
+extras = []
+dependencies = []
