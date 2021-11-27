@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/3b/87/fe94898f2d44a93a35d5aa74671ed28094d80753a1113d68b799fab6dc22/aiosignal-1.2.0-py3-none-any.whl'
+content-id = 'QmZrfYdNzbh4uP7hovd4WRKu4Ztzbyr8Gxx22UDj6PSEJ1'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'frozenlist>=1.1.0',
+]
