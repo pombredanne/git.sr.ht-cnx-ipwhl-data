@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/e8/b6/8d17e169d577ca7678b11cd0d3ceebb0a6089a7f4a2de4b945fe4b1c86db/asynctest-0.13.0-py3-none-any.whl'
+content-id = 'QmTTDko4BsmmfT6fmkcPPS7EifVfHA9wEoALP5ZwhiM7ZA'
+requires-python = '>=3.5'
+extras = []
+dependencies = []
