@@ -1,0 +1,17 @@
+source = 'https://files.pythonhosted.org/packages/1a/ae/a2dfd99042b8952e86ea6cd6ad5ba8b81c3f9f150e24475cf55e09fbe3e4/Arpeggio-1.10.2-py2.py3-none-any.whl'
+content-id = 'Qme3jRZt2rgeSZeYnS7qT4eBi2vExZgFmSz8bwF2HuGB2N'
+extras = [
+	'test',
+	# Ignore development extra
+	# 'dev',
+]
+dependencies = [
+	'wheel; extra == "dev"',
+	'mkdocs; extra == "dev"',
+	'mike; extra == "dev"',
+	'twine; extra == "dev"',
+	'flake8; extra == "test"',
+	'coverage; extra == "test"',
+	'coveralls; extra == "test"',
+	'pytest; extra == "test"',
+]
