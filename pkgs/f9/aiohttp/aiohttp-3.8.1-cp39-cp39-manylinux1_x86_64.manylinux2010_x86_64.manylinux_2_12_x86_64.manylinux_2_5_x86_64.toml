@@ -1,0 +1,19 @@
+source = 'https://files.pythonhosted.org/packages/e9/13/21e7f1d0d1932b321cdeaea01d5008285dac3b088af855c5c3d8714dba7b/aiohttp-3.8.1-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl'
+content-id = 'QmRTNvrq4xieQEsySxYhYZPXQ5akU846bWSdPQLF9AEntX'
+requires-python = '>=3.6'
+extras = ['speedups']
+dependencies = [
+	'attrs>=17.3.0',
+	'charset-normalizer<3.0,>=2.0',
+	'multidict<7.0,>=4.5',
+	'async-timeout<5.0,>=4.0.0a3',
+	'yarl<2.0,>=1.0',
+	'frozenlist>=1.1.1',
+	'aiosignal>=1.1.2',
+	'idna-ssl>=1.0; python_version < "3.7"',
+	'asynctest==0.13.0; python_version < "3.8"',
+	'typing-extensions>=3.7.4; python_version < "3.8"',
+	'aiodns; extra == "speedups"',
+	'Brotli; extra == "speedups"',
+	'cchardet; extra == "speedups"',
+]

@@ -1,0 +1,19 @@
+source = 'https://files.pythonhosted.org/packages/a8/0e/068cb215e8709703c497fcd07e8a81e68b3eb8b83083f96e93ef964d4685/aiohttp-3.8.1-cp39-cp39-macosx_10_9_universal2.whl'
+content-id = 'QmQ3XyB8t9zLWLcMeKURjSNQBZuow4jembJjN6HfrEgBog'
+requires-python = '>=3.6'
+extras = ['speedups']
+dependencies = [
+	'attrs>=17.3.0',
+	'charset-normalizer<3.0,>=2.0',
+	'multidict<7.0,>=4.5',
+	'async-timeout<5.0,>=4.0.0a3',
+	'yarl<2.0,>=1.0',
+	'frozenlist>=1.1.1',
+	'aiosignal>=1.1.2',
+	'idna-ssl>=1.0; python_version < "3.7"',
+	'asynctest==0.13.0; python_version < "3.8"',
+	'typing-extensions>=3.7.4; python_version < "3.8"',
+	'aiodns; extra == "speedups"',
+	'Brotli; extra == "speedups"',
+	'cchardet; extra == "speedups"',
+]
