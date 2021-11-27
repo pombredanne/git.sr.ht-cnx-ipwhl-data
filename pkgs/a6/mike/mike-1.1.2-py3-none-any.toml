@@ -1,0 +1,15 @@
+source = 'https://files.pythonhosted.org/packages/66/8a/f226f8c512a4e3ee36438613fde32d371262e985643d308850cf4bdaed15/mike-1.1.2-py3-none-any.whl'
+content-id = 'QmWGeZkoP5g7JKRkJ38D7fuLm5FFXzEVhdok98H5mRf7n4'
+extras = ['dev', 'test']
+dependencies = [
+	'jinja2',
+	'mkdocs>=1.0',
+	'pyyaml>=5.1',
+	'verspec',
+	'coverage; extra == "dev"',
+	'flake8>=3.0; extra == "dev"',
+	'shtab; extra == "dev"',
+	'coverage; extra == "test"',
+	'flake8>=3.0; extra == "test"',
+	'shtab; extra == "test"',
+]
