@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/c9/ef/f678ab082625272981ff71f635c785d3f16580b72d528a64889dec5d0811/frozenlist-1.2.0-cp37-cp37m-win_amd64.whl'
+content-id = 'QmcTHJG29GSmBz1chSGKWzf5YS8ukXccHi2gXgwWvcN9us'
+requires-python = '>=3.6'
+extras = []
+dependencies = []

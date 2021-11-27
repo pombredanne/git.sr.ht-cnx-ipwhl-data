@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/38/35/1749a1619a49a20afcecc611378175190c86d7219c46011b1cbde99f8bc9/frozenlist-1.2.0-cp39-cp39-macosx_10_9_universal2.whl'
+content-id = 'Qmc9mtGewdomPb7m6yWDRke3zLVqAnnsY8yoephXjBoJtS'
+requires-python = '>=3.6'
+extras = []
+dependencies = []

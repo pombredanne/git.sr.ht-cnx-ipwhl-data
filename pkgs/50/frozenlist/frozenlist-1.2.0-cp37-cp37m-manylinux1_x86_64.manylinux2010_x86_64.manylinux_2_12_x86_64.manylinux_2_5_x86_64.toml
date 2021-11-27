@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/0a/a9/c17424ae021e6c53227b0b54da4506dcae81726f8cd56e6749caafe97d16/frozenlist-1.2.0-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl'
+content-id = 'QmRG65dLwoXguGBhkefyVe1Ly9iA4oU8UtVL8wDLauLNqB'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
