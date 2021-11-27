@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/a4/ce/3b6fee91c85626eaf769d617f1be9d2e15c1cca027bbdeb2e0d751469355/verspec-0.1.0-py3-none-any.whl'
+content-id = 'QmYNLmj7J2ww73M1x1ZZdcxFCTKa95Ju7K6Ncyf9LuzXS2'
+extras = ['test']
+dependencies = [
+	'coverage; extra == "test"',
+	'flake8>=3.7; extra == "test"',
+	'mypy; extra == "test"',
+	'pretend; extra == "test"',
+	'pytest; extra == "test"',
+]
