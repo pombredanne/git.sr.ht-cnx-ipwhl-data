@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/2c/03/e3e19d3faf430ede32e41221b294e37952e06acc96781c417ac25d4a0324/absl_py-1.0.0-py3-none-any.whl'
+content-id = 'QmPt4CZLUnT7ayEuaP3FWzcJ3roNMQ1XgNBXdwJ6ntvdKN'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'six',
+]
