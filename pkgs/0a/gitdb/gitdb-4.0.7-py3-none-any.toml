@@ -1,7 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/ea/e8/f414d1a4f0bbc668ed441f74f44c116d9816833a48bf81d22b697090dba8/gitdb-4.0.7-py3-none-any.whl'
-content-id = 'QmbNcqu1LAgcLEAA4SZMDxPtLqGfPf9o3ZYQGiuCewpX23'
-requires-python = '>=3.4'
-extras = []
-dependencies = [
-	'smmap<5,>=3.0.1',
-]
