@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/54/4f/1b294c1a4ab7b2ad5ca5fc4a9a65a22ef1ac48be126289d97668852d4ab3/Flask-2.0.1-py3-none-any.whl'
-content-id = 'QmSeLE9y8cSAExw1T5cnVFaDvfVqCyNaFKsNFsdYtTfQaM'
+source = 'https://files.pythonhosted.org/packages/8f/b6/b4fdcb6d01ee20f9cfe81dcf9d3cd6c2f874b996f186f1c0b898c4a59c04/Flask-2.0.2-py3-none-any.whl'
+content-id = 'QmVs7V6VtBGd3Up4fhNpMY2Arny2NqXbHwHxT9TZyL7LHT'
 requires-python = '>=3.6'
 extras = ['async', 'dotenv']
 dependencies = [
