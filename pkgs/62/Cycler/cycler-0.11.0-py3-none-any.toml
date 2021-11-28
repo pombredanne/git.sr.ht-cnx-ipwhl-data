@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/5c/f9/695d6bedebd747e5eb0fe8fad57b72fdf25411273a39791cde838d5a8f51/cycler-0.11.0-py3-none-any.whl'
+content-id = 'QmUFVor1pWf85iBdCJkCjSTVmDm2uF8VoL9DwnD915uw8k'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
