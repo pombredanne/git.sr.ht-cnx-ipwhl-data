@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/32/56/f3e180eea51e3e085b1da06233f6e6aa9adb04000d19ba91c29e44823bf7/flit_core-3.5.1-py3-none-any.whl'
+content-id = 'QmYNLVTeYtBspK5gC4Nttg7GTnkVpBfsSELwnRXUVHTvNE'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'tomli',
+]

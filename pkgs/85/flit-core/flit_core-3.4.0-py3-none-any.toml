@@ -1,7 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/16/3a/4e107184bbaff2f84d37813bc31f5e0499afa7b1db23419dee95640fc076/flit_core-3.4.0-py3-none-any.whl'
-content-id = 'QmTU7fuDBNUPLqH4jgF1CUj2fcgAAsz4rNG8bRMRgyzPTG'
-requires-python = '>=3.6'
-extras = []
-dependencies = [
-	'tomli',
-]
