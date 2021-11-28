@@ -1,0 +1,20 @@
+source = 'https://files.pythonhosted.org/packages/db/bd/47f14ff20bade1acdb53be6e985776b7280b78d654795b419c710f4118a2/furo-2021.11.23-py3-none-any.whl'
+content-id = 'QmSqEQvkjw8hUxdF1gKFKBLvUfVTKXDD8SxPpA72TRKrco'
+requires-python = '>=3.6'
+extras = [
+	'test',
+	# Ignore development extra
+	# 'doc',
+]
+dependencies = [
+	'beautifulsoup4',
+	'sphinx~=4.0',
+	'pygments~=2.7',
+	'pytest; extra == "test"',
+	'pytest-cov; extra == "test"',
+	'pytest-xdist; extra == "test"',
+	'myst-parser; extra == "doc"',
+	'sphinx-copybutton; extra == "doc"',
+	'sphinx-design; extra == "doc"',
+	'sphinx-inline-tabs; extra == "doc"',
+]
