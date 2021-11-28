@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/ea/c1/4740af52db75e6dbdd57fc7e9478439815bbac549c1c05881be27d19a17d/cachetools-4.2.4-py3-none-any.whl'
+content-id = 'QmSxADPXmd58vbBkEMjAJL4zJc4JEzVP2xEAFx37SDPsKW'
+requires-python = '~=3.5'
+extras = []
+dependencies = []
