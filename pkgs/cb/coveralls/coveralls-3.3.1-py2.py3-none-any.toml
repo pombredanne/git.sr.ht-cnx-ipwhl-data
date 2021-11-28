@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/56/d6/e95db3c56afd1eff815db7dda01908f5e57770e47042209db448ab496197/coveralls-3.3.1-py2.py3-none-any.whl'
+content-id = 'QmU4g4uyp8xzYiWAwyKFc4GCZXEqjhXWtA5WWygvpCBMbu'
+requires-python = '>=3.5'
+extras = ['yaml']
+dependencies = [
+	'coverage!=6.0.*,!=6.1,!=6.1.1,<7.0,>=4.1',
+	'docopt>=0.6.1',
+	'requests>=1.0.0',
+	'PyYAML>=3.10; extra == "yaml"',
+]
