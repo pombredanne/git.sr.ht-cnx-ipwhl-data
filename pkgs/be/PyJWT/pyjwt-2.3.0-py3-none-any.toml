@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/3f/32/d5d3cab27fee7f6b22d7cd7507547ae45d52e26030fa77d1f83d0526c6e5/PyJWT-2.1.0-py3-none-any.whl'
-content-id = 'QmXhV1cxVAK7KArXE9Qesmdwd3a65dGXHhcbYpedZjXe7m'
+source = 'https://files.pythonhosted.org/packages/2a/4d/67cc66a0c49003dc216fc73db2d05a3b80c7193167fd113da1f2c678ac2a/PyJWT-2.3.0-py3-none-any.whl'
+content-id = 'QmW1adJAEWjLtyFFY4SEy95ee1fzRYDk2jYJauQtZ5XzWX'
 requires-python = '>=3.6'
 extras = [
 	'crypto',
@@ -9,11 +9,11 @@ extras = [
 	# 'tests',
 ]
 dependencies = [
-	'cryptography<4.0.0,>=3.3.1; extra == "crypto"',
+	'cryptography>=3.3.1; extra == "crypto"',
 	'sphinx; extra == "dev"',
 	'sphinx-rtd-theme; extra == "dev"',
 	'zope.interface; extra == "dev"',
-	'cryptography<4.0.0,>=3.3.1; extra == "dev"',
+	'cryptography>=3.3.1; extra == "dev"',
 	'pytest<7.0.0,>=6.0.0; extra == "dev"',
 	'coverage[toml]==5.0.4; extra == "dev"',
 	'mypy; extra == "dev"',
