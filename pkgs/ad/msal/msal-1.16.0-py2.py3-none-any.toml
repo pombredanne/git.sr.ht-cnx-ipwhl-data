@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/32/51/df61b0beb9903b7f2c1da5c104c569349afb42b5ba3c6675e78ecc73c963/msal-1.16.0-py2.py3-none-any.whl'
+content-id = 'QmZSM99LsDCNjJqYVieNpsrYbukWs1DV4oR4KfUW63M8BL'
+extras = []
+dependencies = [
+	'requests<3,>=2.0.0',
+	'PyJWT[crypto]<3,>=1.0.0',
+	'cryptography<38,>=0.6',
+	'mock; python_version < "3.3"',
+]
