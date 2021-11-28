@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/31/24/ee722b92f23b9ebd87783e893a75352c048bbbc1f67dce0d63b58b46cb48/filelock-3.3.2-py3-none-any.whl'
-content-id = 'QmUkYz9prZ9usVdR4nUB5WgFvo1u61hGVkzvAQVeqpadFQ'
+source = 'https://files.pythonhosted.org/packages/e8/3b/b59c7bcacc4cccafcd6e927a9e191268657e79a0a75530132cbf03b22c47/filelock-3.4.0-py3-none-any.whl'
+content-id = 'QmT42EyjjX8PJLbXx6LhJYUuxsCLBgyW5CUoHHJzFEzvgj'
 requires-python = '>=3.6'
 extras = ['docs', 'testing']
 dependencies = [
