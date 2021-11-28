@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/99/84/14429a401f70d8b722116a4dfdd9e0be65353e6fb19b39c044d18ad259a6/cmd2-2.2.0-py3-none-any.whl'
-content-id = 'QmPdZnjvJ22fyVfXCVow5bVNXt5YNfB7n2kxctyW5WaCeA'
+source = 'https://files.pythonhosted.org/packages/00/07/6c5c0ce0647b0054b7ec459036497565f66b55ff5809934792917e161a3c/cmd2-2.3.2-py3-none-any.whl'
+content-id = 'QmeqDXGi3kN9etvrtkNfySCZ4hZ9b7VmtKu6eRJAbxQeEH'
 requires-python = '>=3.6'
 extras = [
 	# Ignore development extras
@@ -9,7 +9,6 @@ extras = [
 ]
 dependencies = [
 	'attrs>=16.3.0',
-	'colorama>=0.3.7',
 	'pyperclip>=1.6',
 	'wcwidth>=0.1.7',
 	'importlib-metadata>=1.6.0; python_version < "3.8"',
