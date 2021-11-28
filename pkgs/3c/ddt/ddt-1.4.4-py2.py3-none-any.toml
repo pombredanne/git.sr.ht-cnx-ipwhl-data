@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/16/51/45518c5a2f3ffc7fa782db8e34d4c6a619765fe5d19809030c771da44cfd/ddt-1.4.4-py2.py3-none-any.whl'
+content-id = 'QmWUGudZby3zKr8Q5kFSAGPAXAWyA97kzFtAjhvPW19rcM'
+extras = []
+dependencies = [
+	'enum34; python_version < "3"',
+]
