@@ -1,9 +1,9 @@
-source = 'https://files.pythonhosted.org/packages/01/e5/ff9609a85f71cd41d759307b9d385ace34d29378e4750d0a0240aad535cb/azure_storage_blob-12.8.1-py2.py3-none-any.whl'
-content-id = 'QmYRntyTMxtDS6L9BYo3voxNw5Ri46wtn2f4tmUm4QsHQu'
+source = 'https://files.pythonhosted.org/packages/41/f3/e2b3fa9de629ab76031588daf54b4c28d71bd3c209d8a3d4f470d87e98a7/azure_storage_blob-12.9.0-py2.py3-none-any.whl'
+content-id = 'Qmf1L3jMuBT1irSQ839yQ1ynfmxkkgSG1ZgQnnZqGa8PZr'
 extras = []
 dependencies = [
 	'azure-core<2.0.0,>=1.10.0',
-	'msrest>=0.6.18',
+	'msrest>=0.6.21',
 	'cryptography>=2.1.4',
 	'futures; python_version < "3.0"',
 	'azure-storage-nspkg<4.0.0,>=3.0.0; python_version < "3.0"',
