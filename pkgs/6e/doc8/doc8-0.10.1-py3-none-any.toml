@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/b1/93/c3cc4912ec21e88a85aa0a1a506f9a8a1d83a249b326fdeaea78e696d271/doc8-0.10.1-py3-none-any.whl'
+content-id = 'QmP1yFjv9BCmQm1CeY4MX3D8KDfahGvKkyrhF6biQiEMbq'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'docutils',
+	'restructuredtext-lint>=0.7',
+	'stevedore',
+	'Pygments',
+]
