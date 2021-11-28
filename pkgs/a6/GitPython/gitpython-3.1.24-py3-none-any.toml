@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/fd/05/4b2e29f82f40d3add50956bdb9c868b3608381810b630ea439bb588f558d/GitPython-3.1.24-py3-none-any.whl'
+content-id = 'QmPEo5rFVyLjknJrZV5Qyz8a3LaMTAiNZ3gKt4mHKRP6GT'
+requires-python = '>=3.7'
+extras = []
+dependencies = [
+	'gitdb<5,>=4.0.1',
+	'typing-extensions>=3.7.4.3; python_version < "3.10"',
+]

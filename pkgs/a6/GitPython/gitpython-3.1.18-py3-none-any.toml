@@ -1,8 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/bc/91/b38c4fabb6e5092ab23492ded4f318ab7299b19263272b703478038c0fbc/GitPython-3.1.18-py3-none-any.whl'
-content-id = 'QmUE8SxFUTishFopw8wgQJ2BW435qQ9RTDmYpVbkWqoPdb'
-requires-python = '>=3.6'
-extras = []
-dependencies = [
-	'gitdb<5,>=4.0.1',
-	'typing-extensions>=3.7.4.0; python_version < "3.8"',
-]
