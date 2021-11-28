@@ -1,5 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/4c/e5/9b2041fb6bedd8030e7a0cb19f3109e861647a947e6989b567d444c497e0/awscrt-0.11.24-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl'
-content-id = 'QmNeQNpSvMEwdJAox7aA7SHYbGMa1pewuT3m7XH6FXBxXV'
-requires-python = '>=3.6'
-extras = []
-dependencies = []

@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/1e/de/259d2b393540e27b1b36659315224f41ff1cba4b93ddc092533efc1e0a11/awscrt-0.12.5-cp37-cp37m-win_amd64.whl'
+content-id = 'Qma11anvYnnwZ8ZJk2EUE12hgmMZd7Ykzn69icfNL8Z1gg'
+requires-python = '>=3.6'
+extras = []
+dependencies = []

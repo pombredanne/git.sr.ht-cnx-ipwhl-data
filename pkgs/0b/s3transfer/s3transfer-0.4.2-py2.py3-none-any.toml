@@ -1,8 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/63/d0/693477c688348654ddc21dcdce0817653a294aa43f41771084c25e7ff9c7/s3transfer-0.4.2-py2.py3-none-any.whl'
-content-id = 'QmcF31VA2jLdp3jiewSUa2mNcjykuoqZHZh3RLtkrAiUp5'
-extras = ['crt']
-dependencies = [
-	'botocore<2.0a.0,>=1.12.36',
-	'futures<4.0.0,>=2.2.0; python_version == "2.7"',
-	'botocore[crt]<2.0a.0,>=1.20.29; extra == "crt"',
-]

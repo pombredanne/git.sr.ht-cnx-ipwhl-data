@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/87/5f/29a7c88b482427101e5bfd8d05dc31ac91671a618a65079eda0c54e4a080/awscrt-0.12.5-cp38-cp38-macosx_10_9_x86_64.whl'
+content-id = 'QmWLTReabfL3x8Qi4nMiK2VZrBwEgQWPWsU4iHZXcGrbTt'
+requires-python = '>=3.6'
+extras = []
+dependencies = []

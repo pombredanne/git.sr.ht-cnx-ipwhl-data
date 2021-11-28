@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/b7/3b/72af1de354bc7c6bb0ca5126973658a38db14b5cd5413b8f90ffa408f78b/botocore-1.23.14-py3-none-any.whl'
+content-id = 'QmcKgdpgdVxiJX9JAUWSGrSsitFWmmfhqnTCGSmiWL4hhZ'
+requires-python = '>=3.6'
+extras = ['crt']
+dependencies = [
+	'jmespath<1.0.0,>=0.7.1',
+	'python-dateutil<3.0.0,>=2.1',
+	'urllib3<1.27,>=1.25.4',
+	'awscrt==0.12.5; extra == "crt"',
+]
