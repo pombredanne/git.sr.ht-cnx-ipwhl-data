@@ -1,0 +1,13 @@
+source = 'https://files.pythonhosted.org/packages/d5/42/a00220ae61d06b5bb288c0006bfd32bd61b4ae61adaef61fe8ad3a8ff9c3/ghp_import-2.0.2-py3-none-any.whl'
+content-id = 'QmcSgHG3aF7Hy8u7fLyesVRvvjHm8k6L9LZyWKyWQ7vbVM'
+extras = [
+	# Ignore development extra
+	# 'dev',
+]
+dependencies = [
+	'python-dateutil>=2.8.1',
+	'twine; extra == "dev"',
+	'markdown; extra == "dev"',
+	'flake8; extra == "dev"',
+	'wheel; extra == "dev"',
+]
