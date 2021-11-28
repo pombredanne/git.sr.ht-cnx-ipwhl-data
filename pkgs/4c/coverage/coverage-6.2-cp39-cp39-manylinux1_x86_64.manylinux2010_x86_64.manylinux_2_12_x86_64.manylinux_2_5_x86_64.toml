@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/d2/41/87d1e548a0418b24cff9c60815ea2cc2d0e0cd4891337a24236a30a1d141/coverage-6.2-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl'
+content-id = 'QmYHpqDhmo1QKLPzpPYCC9yHCDkmPucQusM1Ajf4GjXA3d'
+requires-python = '>=3.6'
+extras = ['toml']
+dependencies = [
+	'tomli; extra == "toml"',
+]
