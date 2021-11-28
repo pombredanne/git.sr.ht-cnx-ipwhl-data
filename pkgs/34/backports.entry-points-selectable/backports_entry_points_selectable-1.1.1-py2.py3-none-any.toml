@@ -1,0 +1,21 @@
+source = 'https://files.pythonhosted.org/packages/6d/2e/a6789183415658c7f2c41da8599d53077bd222233039f5c92bffbf23b28d/backports.entry_points_selectable-1.1.1-py2.py3-none-any.whl'
+content-id = 'QmTQ3LY4aciSCnQKi5WHewGUraSMmrkARz92scoKoPDzJk'
+requires-python = '>=2.7'
+extras = [
+	'docs',
+	# Ignore development extra
+	# 'testing',
+]
+dependencies = [
+	'importlib-metadata; python_version < "3.8"',
+	'sphinx; extra == "docs"',
+	'jaraco.packaging>=8.2; extra == "docs"',
+	'rst.linker>=1.9; extra == "docs"',
+	'pytest; extra == "testing"',
+	'pytest-flake8; extra == "testing"',
+	'pytest-cov; extra == "testing"',
+	'pytest-black>=0.3.7; platform_python_implementation != "PyPy" and extra == "testing"',
+	'pytest-mypy; (platform_python_implementation != "PyPy" and python_version >= "3") and extra == "testing"',
+	'pytest-checkdocs>=2.4; python_version >= "3" and extra == "testing"',
+	'pytest-enabler>=1.0.1; python_version >= "3" and extra == "testing"',
+]
