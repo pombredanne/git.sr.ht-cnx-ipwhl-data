@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/70/e9/84e2865fddfaba4506bc5d293d2a535bf27e31b12ca16d31564f8ce28cdb/setuptools-58.5.3-py3-none-any.whl'
-content-id = 'QmbyMovNYmEUH1rv3V51xWTgLPX1LbrYyY3T3HzJ376eZ8'
+source = 'https://files.pythonhosted.org/packages/29/e3/a1edb6bef52fd8d4cbe62cf2b6b444e7145edf89fae7ce9bffbfb92ae8b9/setuptools-59.3.0-py3-none-any.whl'
+content-id = 'QmWVRgq6bzRxTKBJtnft52uBmsDeSfuCJpVNEVcXzXfYiB'
 requires-python = '>=3.6'
 extras = [
 	'certs',
@@ -29,7 +29,7 @@ dependencies = [
 	'wheel; extra == "testing"',
 	'paver; extra == "testing"',
 	'pip>=19.1; extra == "testing"',
-	'jaraco.envs; extra == "testing"',
+	'jaraco.envs>=2.2; extra == "testing"',
 	'pytest-xdist; extra == "testing"',
 	'sphinx; extra == "testing"',
 	'jaraco.path>=3.2.0; extra == "testing"',
