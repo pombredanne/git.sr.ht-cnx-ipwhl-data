@@ -1,20 +1,21 @@
-source = 'https://files.pythonhosted.org/packages/fd/01/ff260a18caaf4457eb028c96eeb405c4a230ca06c8ec9c1379f813caa52e/configparser-5.0.2-py3-none-any.whl'
-content-id = 'QmcqkPyK3ioBKkzTkrCqJvVr28owZNjXwVEeJEiuZb9Dwg'
+source = 'https://files.pythonhosted.org/packages/46/30/9adfc5e965764563caeb3ee7d3257fa0498bc44a865b900954c0baf0c4ae/configparser-5.1.0-py3-none-any.whl'
+content-id = 'QmVVQ5bPJRQ3JXkmo76krMG3RZYaTYope4V6dPwYWY6srr'
 requires-python = '>=3.6'
 extras = [
 	'docs',
-	# Development extra, awaiting pytest-checkdocs
+	# Ignore development extra
 	# 'testing',
 ]
 dependencies = [
 	'sphinx; extra == "docs"',
 	'jaraco.packaging>=8.2; extra == "docs"',
 	'rst.linker>=1.9; extra == "docs"',
-	'pytest>=4.6; extra == "testing"',
-	'pytest-checkdocs>=1.2.3; extra == "testing"',
+	'jaraco.tidelift>=1.4; extra == "docs"',
+	'pytest>=6; extra == "testing"',
+	'pytest-checkdocs>=2.4; extra == "testing"',
 	'pytest-flake8; extra == "testing"',
 	'pytest-cov; extra == "testing"',
-	'pytest-enabler; extra == "testing"',
+	'pytest-enabler>=1.0.1; extra == "testing"',
 	'pytest-black>=0.3.7; platform_python_implementation != "PyPy" and extra == "testing"',
 	'pytest-mypy; platform_python_implementation != "PyPy" and extra == "testing"',
 ]
