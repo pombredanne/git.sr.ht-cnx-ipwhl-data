@@ -1,9 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/d1/41/e6495bd7d3781cee623ce23ea6ac73282a373088fcd0ddc809a047b18eae/beautifulsoup4-4.9.3-py3-none-any.whl'
-content-id = 'QmSAeA3swp3o89w3pyR58qF7TSpf6HHcELrbQt5LNfQSyb'
-extras = ['html5lib', 'lxml']
-dependencies = [
-	'soupsieve<2.0,>1.2; python_version < "3.0"',
-	'soupsieve>1.2; python_version >= "3.0"',
-	'html5lib; extra == "html5lib"',
-	'lxml; extra == "lxml"',
-]
