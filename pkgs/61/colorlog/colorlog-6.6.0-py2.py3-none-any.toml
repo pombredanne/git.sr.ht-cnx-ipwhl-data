@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/2d/93/4b0bb101e54206e92feb3c986c274902212b2ed8c55423e6e7f6d8b693ca/colorlog-6.4.1-py2.py3-none-any.whl'
-content-id = 'QmWzSjtdC9Jt8VF9ug31BPoJviUwgRdH5nuqtj3QdyUGMV'
+source = 'https://files.pythonhosted.org/packages/7d/54/e24efe5469ecb2710112055de87a2900e9494810bcfc25c12c7a0723eb64/colorlog-6.6.0-py2.py3-none-any.whl'
+content-id = 'QmXeFxMiZi3noZYYsojuUt811VAZN2sRjqdU6enDhe7fHx'
 requires-python = '>=3.6'
 extras = [
 	# Ignore development extra
