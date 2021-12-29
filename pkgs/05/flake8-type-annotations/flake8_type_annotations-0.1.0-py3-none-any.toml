@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/04/e4/0ccc501ccadb718d8f71e70ccc9912a3266619008384b8773de787fa7c31/flake8_type_annotations-0.1.0-py3-none-any.whl'
+content-id = 'QmYQoH92RjWsCzjtqDYFEESRsQwRNBvv1rrEJVKuSbB8en'
+requires-python = '<4.0,>=3.6'
+extras = []
+dependencies = [
+	'flake8<4.0,>=3.5',
+]
