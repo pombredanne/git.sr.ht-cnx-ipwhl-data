@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/b7/08/e3e1340cbd7a0f1922a0358044d500b192570e1ce211d22b1e19b55956be/ukkonen-1.0.1-cp36-abi3-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl'
+content-id = 'QmaL6DzJTgbQi5HYpb3yqiVnQsLHhS6Dbj1YpDVBZmSQPT'
+requires-python = '>=3.6.1'
+extras = []
+dependencies = [
+	'cffi>=1',
+]

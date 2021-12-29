@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/a7/f8/1bb9106feefbf65a45c8ca1c6599ce9ae1a20c899a6005cd111f52671a75/ukkonen-1.0.1-cp36-abi3-win_amd64.whl'
+content-id = 'QmRhW9j1BU3ss5HBKucawwEGXVnQb3aEKHfNwriUZrwH2g'
+requires-python = '>=3.6.1'
+extras = []
+dependencies = [
+	'cffi>=1',
+]

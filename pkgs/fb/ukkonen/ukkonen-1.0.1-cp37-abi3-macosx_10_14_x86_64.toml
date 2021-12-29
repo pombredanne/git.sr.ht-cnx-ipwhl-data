@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/42/da/12bad63055db0fd8f12910d4e3ed8d76949099ddae744f8e8cebd5ea77b7/ukkonen-1.0.1-cp37-abi3-macosx_10_14_x86_64.whl'
+content-id = 'QmSNZLhfx1PKGFyqrrVQY2y3MPwgM8p2a1eNe93xQMQGXH'
+requires-python = '>=3.6.1'
+extras = []
+dependencies = [
+	'cffi>=1',
+]
