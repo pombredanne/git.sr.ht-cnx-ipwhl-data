@@ -1,8 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/80/21/ae597efc7ed8caaa43fb35062288baaf99a7d43ff0cf66452ddf47604ee6/Jinja2-3.0.1-py3-none-any.whl'
-content-id = 'QmXdesJd4fRSdtuEUsc7dmuXL91KfEVFTivoMWBbjm6xW4'
-requires-python = '>=3.6'
-extras = ['i18n']
-dependencies = [
-	'MarkupSafe>=2.0',
-	'Babel>=2.7; extra == "i18n"',
-]
