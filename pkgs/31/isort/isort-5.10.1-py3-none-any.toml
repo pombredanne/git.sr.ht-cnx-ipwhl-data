@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/c4/1d/f4e03047d6767e35c1efb13a280c1ef8b88807230f902da4cfc431a9f602/isort-5.9.3-py3-none-any.whl'
-content-id = 'QmRzy8s7j3saXHzWJKJrqmS9k9z4wNSchVjHu8VEwU8NiL'
+source = 'https://files.pythonhosted.org/packages/b8/5b/f18e227df38b94b4ee30d2502fd531bebac23946a2497e5595067a561274/isort-5.10.1-py3-none-any.whl'
+content-id = 'QmU51rtfrJvJeoacaikg6GgWKb3XJXLbNgN1n8wZxVYEXP'
 requires-python = '<4.0,>=3.6.1'
 extras = ['colors', 'pipfile_deprecated_finder', 'plugins', 'requirements_deprecated_finder']
 dependencies = [
