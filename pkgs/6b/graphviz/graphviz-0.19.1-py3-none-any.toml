@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/97/14/b5eeeb6d24dbca0ada857ce4a453985df34d9512464bb20cc1a8aca44c54/graphviz-0.17-py3-none-any.whl'
-content-id = 'QmWazT3pRc75HWreaTPvSEBM6QFHAg4H3yTX4rohjPrhTm'
+source = 'https://files.pythonhosted.org/packages/9d/fb/886e8ec7862989afc0c35d15813b6c665fe134cc6027cdde2fa300abe9a2/graphviz-0.19.1-py3-none-any.whl'
+content-id = 'Qmahr6TgsY9yhy3MpeHVBbDs6B3igVeUUdV48mJ7G1JB1H'
 requires-python = '>=3.6'
 extras = [
 	'docs',
@@ -16,8 +16,9 @@ dependencies = [
 	'sphinx>=1.8; extra == "docs"',
 	'sphinx-autodoc-typehints; extra == "docs"',
 	'sphinx-rtd-theme; extra == "docs"',
-	'mock>=3; extra == "test"',
-	'pytest>=5.2; extra == "test"',
-	'pytest-mock>=2; extra == "test"',
+	'pytest>=6; extra == "test"',
+	'pytest-mock>=3; extra == "test"',
+	'mock>=4; extra == "test"',
 	'pytest-cov; extra == "test"',
+	'coverage; extra == "test"',
 ]
