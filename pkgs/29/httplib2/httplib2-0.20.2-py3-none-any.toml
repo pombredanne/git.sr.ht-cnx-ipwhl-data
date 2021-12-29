@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/b3/20/511741a05f8a59dc98f5ad9962efdc4f7bc1126329234e18b13f0cb3ddc4/httplib2-0.20.2-py3-none-any.whl'
+content-id = 'QmZDq1hYWNiWcnEjLQpytazpviJ3jfgg3MmzYPp2BFLhKG'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7'
+extras = []
+dependencies = [
+	'pyparsing<3,>=2.4.2; python_version < "3.0"',
+	'pyparsing!=3.0.0,!=3.0.1,!=3.0.2,!=3.0.3,<4,>=2.4.2; python_version > "3.0"',
+]
