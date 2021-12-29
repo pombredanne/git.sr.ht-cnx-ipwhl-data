@@ -1,9 +1,9 @@
-source = 'https://files.pythonhosted.org/packages/f2/6c/2f3b930513bb971172ffceb63cf4e910944e57451724e69b1dec97cfefa6/importlib_resources-5.2.2-py3-none-any.whl'
-content-id = 'QmZ3qxnq6QLPhs8o7WhVq6TDoSq6aJXM6RgbaBdoHsf3X6'
+source = 'https://files.pythonhosted.org/packages/24/1b/33e489669a94da3ef4562938cd306e8fa915e13939d7b8277cb5569cb405/importlib_resources-5.4.0-py3-none-any.whl'
+content-id = 'QmPaxt88gn4LntSPr25eEfpJVETMwcKrahkgaCR84NfDbH'
 requires-python = '>=3.6'
 extras = [
 	'docs',
-	# Development extra, awaiting pytest-checkdocs
+	# Ignore development extras
 	# 'testing',
 ]
 dependencies = [
@@ -11,7 +11,7 @@ dependencies = [
 	'sphinx; extra == "docs"',
 	'jaraco.packaging>=8.2; extra == "docs"',
 	'rst.linker>=1.9; extra == "docs"',
-	'pytest>=4.6; extra == "testing"',
+	'pytest>=6; extra == "testing"',
 	'pytest-checkdocs>=2.4; extra == "testing"',
 	'pytest-flake8; extra == "testing"',
 	'pytest-cov; extra == "testing"',
