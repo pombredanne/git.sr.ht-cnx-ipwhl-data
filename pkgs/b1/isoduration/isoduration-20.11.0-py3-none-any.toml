@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/7b/55/e5326141505c5d5e34c5e0935d2908a74e4561eca44108fbfb9c13d2911a/isoduration-20.11.0-py3-none-any.whl'
+content-id = 'QmXTCvvbjNsibg5cvaAZcPS7z95A2XHK4G17mWd6f5itWX'
+requires-python = '>=3.7'
+extras = []
+dependencies = [
+	'arrow>=0.15.0',
+]
