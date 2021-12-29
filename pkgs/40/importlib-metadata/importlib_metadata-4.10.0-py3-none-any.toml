@@ -1,7 +1,12 @@
-source = 'https://files.pythonhosted.org/packages/09/24/707a687e93f72a8eeba442da7a70de79111eac3586544935d5c253bf8d7b/importlib_metadata-4.7.1-py3-none-any.whl'
-content-id = 'QmU2cgG4TWFYCKH7z7oeWsjrb7qfiFroqFX5vNmEwjQJD4'
-requires-python = '>=3.6'
-extras = []
+source = 'https://files.pythonhosted.org/packages/f9/6c/a14560ec00a14f50fdb3e91665563500b55f3c672e621c3ef159d351e9f7/importlib_metadata-4.10.0-py3-none-any.whl'
+content-id = 'QmWVw3i8SWvW2sNEZvxbruSkDEEcJ1AAsMBSxUsT39AN4E'
+requires-python = '>=3.7'
+extras = [
+	'docs',
+	# Ignore development extras
+	# 'perf',
+	# 'testing',
+]
 dependencies = [
 	'zipp>=0.5',
 	'typing-extensions>=3.6.4; python_version < "3.8"',
@@ -9,13 +14,12 @@ dependencies = [
 	'jaraco.packaging>=8.2; extra == "docs"',
 	'rst.linker>=1.9; extra == "docs"',
 	'ipython; extra == "perf"',
-	'pytest>=4.6; extra == "testing"',
+	'pytest>=6; extra == "testing"',
 	'pytest-checkdocs>=2.4; extra == "testing"',
 	'pytest-flake8; extra == "testing"',
 	'pytest-cov; extra == "testing"',
 	'pytest-enabler>=1.0.1; extra == "testing"',
 	'packaging; extra == "testing"',
-	'pep517; extra == "testing"',
 	'pyfakefs; extra == "testing"',
 	'flufl.flake8; extra == "testing"',
 	'pytest-perf>=0.9.2; extra == "testing"',
