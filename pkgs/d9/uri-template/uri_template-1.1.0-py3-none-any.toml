@@ -1,0 +1,13 @@
+source = 'https://files.pythonhosted.org/packages/e5/b9/6cf086d8aeda6ba04abc46da724818d48578398578ec64aa39bb7bb05997/uri_template-1.1.0-py3-none-any.whl'
+content-id = 'QmREC9XwSzDjB8rLagDHyV1A6hBovFHQgYyVGJ2VrkoUeB'
+requires-python = '>=3.6'
+extras = ['dev']
+dependencies = [
+	'mypy; extra == "dev"',
+	'flake8; extra == "dev"',
+	'flake8-import-order; extra == "dev"',
+	'flake8-annotations; extra == "dev"',
+	'flake8-type-annotations; extra == "dev"',
+	'flake8-docstrings; extra == "dev"',
+	'pep8-naming; extra == "dev"',
+]
