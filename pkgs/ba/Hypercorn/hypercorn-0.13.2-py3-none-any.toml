@@ -1,0 +1,15 @@
+source = 'https://files.pythonhosted.org/packages/c9/28/79bbca7d9218d37f8888a0f3215e7ba03851d1c77c11d841542e33cc3190/Hypercorn-0.13.2-py3-none-any.whl'
+content-id = 'QmZvAJwrpcpo9jNJgQKV7kXw45fg5QQe3MpkiphYyuv5uV'
+requires-python = '>=3.7'
+extras = ['h3', 'trio', 'uvloop']
+dependencies = [
+	'aioquic<1.0,>=0.9.0; extra == "h3"',
+	'h11',
+	'h2>=3.1.0',
+	'priority',
+	'toml',
+	'trio>=0.11.0; extra == "trio"',
+	'typing_extensions>=3.7.4; python_version < "3.8"',
+	'uvloop; platform_system != "Windows" and extra == "uvloop"',
+	'wsproto>=0.14.0',
+]
