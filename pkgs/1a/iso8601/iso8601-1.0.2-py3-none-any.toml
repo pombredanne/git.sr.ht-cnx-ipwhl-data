@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/df/e5/589bc81d410139ec4e4f37d9af5a50987566abf6d087b3c4fbed708109a9/iso8601-1.0.2-py3-none-any.whl'
+content-id = 'QmdFaeq6G7aYHTVH5tS5FksTeVbppw7aoxg35zZB1tTdZx'
+requires-python = '<4.0,>=3.6.2'
+extras = []
+dependencies = []
