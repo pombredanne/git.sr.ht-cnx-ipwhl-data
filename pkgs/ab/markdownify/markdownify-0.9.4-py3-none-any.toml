@@ -1,7 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/c2/f1/8c20588bc04a0503b24406c687a9d87a7dbb1957b320c67780329713cbe2/markdownify-0.9.4-py3-none-any.whl'
-content-id = 'QmeBJtfGZnJBPQ4JMVYaRVcD7rWbJbAjqE5oSQ9ofuZLLo'
-extras = []
-dependencies = [
-	'beautifulsoup4<5,>=4.9',
-	'six<2,>=1.15',
-]
