@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/41/d4/e460dfcbcb0c2f390717c4b46503ac0a2c6e7de6258562bb455bffa28a21/nox-2021.6.12-py3-none-any.whl'
-content-id = 'QmUwn2pbCKcUadeD2SbgbKz6vbi7rNLEn3Gdm1izEgZkvh'
+source = 'https://files.pythonhosted.org/packages/3e/fd/78635ba365b531c198fc7c8e6255e3b33d4d5996ebf59fc1293fd64221fd/nox-2021.10.1-py3-none-any.whl'
+content-id = 'QmPKY6dAzk4hqFxtGMTgEboe3aU9c6EbNr3ieFms8Mwg44'
 requires-python = '>=3.6'
 extras = ['tox_to_nox']
 dependencies = [
@@ -8,6 +8,7 @@ dependencies = [
 	'packaging>=20.9',
 	'py<2.0.0,>=1.4.0',
 	'virtualenv>=14.0.0',
+	'typing-extensions>=3.7.4; python_version < "3.8"',
 	'importlib-metadata; python_version < "3.8"',
 	'jinja2; extra == "tox_to_nox"',
 	'tox; extra == "tox_to_nox"',
