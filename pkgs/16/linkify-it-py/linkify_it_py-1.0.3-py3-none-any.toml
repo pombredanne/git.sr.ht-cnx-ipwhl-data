@@ -1,0 +1,25 @@
+source = 'https://files.pythonhosted.org/packages/ff/f1/74e54ab5ae6aa1d3b6dc5de56fecf57fe4873d8f6b2a72a1269dbedd111b/linkify_it_py-1.0.3-py3-none-any.whl'
+content-id = 'QmW7bcATij8MCQ4ZHYuy8kGJVEvM4aeaZdoWwDUvtPoyNB'
+requires-python = '>=3.6'
+extras = [
+	'test',
+	# Ignore development extras
+	# 'benchmark',
+	# 'dev',
+	# 'doc',
+]
+dependencies = [
+	'uc-micro-py',
+	'pytest; extra == "benchmark"',
+	'pytest-benchmark; extra == "benchmark"',
+	'pre-commit; extra == "dev"',
+	'isort; extra == "dev"',
+	'flake8; extra == "dev"',
+	'black; extra == "dev"',
+	'sphinx; extra == "doc"',
+	'sphinx-book-theme; extra == "doc"',
+	'myst-parser; extra == "doc"',
+	'coverage; extra == "test"',
+	'pytest; extra == "test"',
+	'pytest-cov; extra == "test"',
+]
