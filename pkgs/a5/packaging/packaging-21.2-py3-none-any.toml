@@ -1,7 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/b1/09/464d5df9f9ec1ab5054af6d097df6793e542f4aa426ba3062ec64409cab7/packaging-21.2-py3-none-any.whl'
-content-id = 'QmdiFwrUnpPmTn5SaJRw1nAXvpZNhU74JFqbR7z3DY6WoD'
-requires-python = '>=3.6'
-extras = []
-dependencies = [
-	'pyparsing<3,>=2.0.2',
-]
