@@ -1,0 +1,11 @@
+source = 'https://files.pythonhosted.org/packages/f2/26/76c71350c84bf42740a5cec20b428c77219abf2e251a1be31056952bb0de/msal_extensions-0.3.1-py2.py3-none-any.whl'
+content-id = 'QmNhVACwGzmx8vuJJVZ1X6YyEKSWzVN8vuu2zuEqDVVFUg'
+extras = []
+dependencies = [
+	'msal<2.0.0,>=0.4.1',
+	'pathlib2; python_version < "3.0"',
+	'portalocker<2,>=1.0; python_version == "2.7" and platform_system != "Windows"',
+	'portalocker<2,>=1.6; python_version == "2.7" and platform_system == "Windows"',
+	'portalocker<3,>=1.0; python_version >= "3.5" and platform_system != "Windows"',
+	'portalocker<3,>=1.6; python_version >= "3.5" and platform_system == "Windows"',
+]
