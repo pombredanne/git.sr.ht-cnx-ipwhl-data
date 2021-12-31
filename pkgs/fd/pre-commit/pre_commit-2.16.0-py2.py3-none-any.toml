@@ -1,0 +1,14 @@
+source = 'https://files.pythonhosted.org/packages/d9/70/47790ae4c87c7ea752715e1a3b6192be7ab2a02d38d86363b0d8bcef79ec/pre_commit-2.16.0-py2.py3-none-any.whl'
+content-id = 'QmTVuy4f5D1kT9ttXYqLQWR7aGeVo4U6QuMHAgjAGurvo8'
+requires-python = '>=3.6.1'
+extras = []
+dependencies = [
+	'cfgv>=2.0.0',
+	'identify>=1.0.0',
+	'nodeenv>=0.11.1',
+	'pyyaml>=5.1',
+	'toml',
+	'virtualenv>=20.0.8',
+	'importlib-resources<5.3; python_version < "3.7"',
+	'importlib-metadata; python_version < "3.8"',
+]
