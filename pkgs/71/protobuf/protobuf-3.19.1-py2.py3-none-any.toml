@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/c1/12/7479ece04931984162698bfaa05cbb2fc23d7f6ee1ab5146cfc6ade56a31/protobuf-3.19.1-py2.py3-none-any.whl'
+content-id = 'QmYeBPZSYeHtimGgKXfoeDqHySSdrZWGnZfJMa3ByL2XYz'
+requires-python = '>=3.5'
+extras = []
+dependencies = []
