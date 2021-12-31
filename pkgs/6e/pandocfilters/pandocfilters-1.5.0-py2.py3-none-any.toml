@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/5e/a8/878258cffd53202a6cc1903c226cf09e58ae3df6b09f8ddfa98033286637/pandocfilters-1.5.0-py2.py3-none-any.whl'
+content-id = 'QmU47YxetPz1DoQNromvKZ7fNoWH8gJ4XGtqx8FEJxynR6'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7'
+extras = []
+dependencies = []
