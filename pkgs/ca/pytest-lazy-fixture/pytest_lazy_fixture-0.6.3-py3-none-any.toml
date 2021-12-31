@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/2d/a1/2f2c1c2353350d66c4d110d283e422e4943eb5ad10effa9357ba66f7b5b9/pytest_lazy_fixture-0.6.3-py3-none-any.whl'
+content-id = 'Qmbq4iPd9Z8PqLqurEBvqVQWqFD5nuyui6wYTddt6jiY6v'
+extras = []
+dependencies = [
+	'pytest>=3.2.5',
+]
