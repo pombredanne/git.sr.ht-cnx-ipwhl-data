@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/9f/2a/28b02e3e7f7489258cf29d08ba374e6e435c152cead2e599b5c488dfbc28/pg8000-1.23.0-py3-none-any.whl'
+content-id = 'QmQ1erGgiMVgSELv636GAxmCz3yvw644Qa5qW3zeXXQJ9g'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'scramp>=1.4.1',
+]
