@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/00/f8/cf02ee8bcc8a39ad2e2992468fd6a6998795f4af9173090f6aaff8175318/pip_api-0.0.26-py3-none-any.whl'
+content-id = 'QmNfdwfTaKXtKrLqfodQZGP4vFU2L8kK3UhnikKofeuwm6'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'pip',
+]
