@@ -1,9 +1,7 @@
-source = 'https://files.pythonhosted.org/packages/a5/a6/45f6d6b848d7ac273f261b35ed048ea8f301d2ec0594fbcf7616b4012f45/platformdirs-2.2.0-py3-none-any.whl'
-content-id = 'Qmbs9m47fXP7LM1XL4thi9NopQjiaj8v4NMLyLqrQX7i6n'
-requires-python = '>=3.6'
-extras = [
-	'docs', 'test'
-]
+source = 'https://files.pythonhosted.org/packages/9f/3d/4606ee54e0af98aa8f9a672b5acfd69318a5917fbb9f8e2c3aaf9c2f293f/platformdirs-2.4.1-py3-none-any.whl'
+content-id = 'QmTXGrs3aPPz1nct9ZX4mKW34WMj3XCGtPu6FpKEHLMvXL'
+requires-python = '>=3.7'
+extras = ['docs', 'test']
 dependencies = [
 	'Sphinx>=4; extra == "docs"',
 	'furo>=2021.7.5b38; extra == "docs"',
