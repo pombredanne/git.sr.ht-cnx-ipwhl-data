@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/13/e8/77a4c58b8a604b7adda96857823e70e2e3f38b9ba315abfb56562a429616/libcst-0.3.20-py3-none-any.whl'
-content-id = 'QmeYywpevFy3kRFrr6RWg4AKy31d4C1stWCZoNGUTy4c5u'
+source = 'https://files.pythonhosted.org/packages/51/07/b24e2f08461eb9844e8d2c1c0b954050898766fd18a407af2b8376eef956/libcst-0.3.23-py3-none-any.whl'
+content-id = 'QmdN87E2bZ6G11m3tBxaSyvg9E7EMfTqk6r2M71NpNbRXi'
 requires-python = '>=3.6'
 extras = [
 	# Ignore development extra
@@ -10,18 +10,19 @@ dependencies = [
 	'typing-inspect>=0.4.0',
 	'pyyaml>=5.2',
 	'dataclasses>=0.6.0; python_version < "3.7"',
-	'black==20.8b1; extra == "dev"',
-	'codecov>=2.1.4; extra == "dev"',
+	'black==21.10b0; extra == "dev"',
 	'coverage>=4.5.4; extra == "dev"',
 	'fixit==0.1.1; extra == "dev"',
 	'flake8>=3.7.8; extra == "dev"',
 	'hypothesis>=4.36.0; extra == "dev"',
 	'hypothesmith>=0.0.4; extra == "dev"',
-	'isort==5.5.3; extra == "dev"',
 	'jupyter>=1.0.0; extra == "dev"',
 	'nbsphinx>=0.4.2; extra == "dev"',
-	'pyre-check==0.0.41; extra == "dev"',
-	'sphinx-rtd-theme>=0.4.3; extra == "dev"',
 	'prompt-toolkit>=2.0.9; extra == "dev"',
+	'pyre-check==0.9.3; extra == "dev"',
+	'setuptools-scm>=6.0.1; extra == "dev"',
+	'sphinx-rtd-theme>=0.4.3; extra == "dev"',
 	'tox>=3.18.1; extra == "dev"',
+	'ufmt==1.2; extra == "dev"',
+	'usort==0.6.3; extra == "dev"',
 ]

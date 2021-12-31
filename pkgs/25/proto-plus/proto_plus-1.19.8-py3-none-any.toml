@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/07/7b/de05a560f979c4b63b8c09163f533e4313b058f652d40677afeb6394e235/proto_plus-1.19.8-py3-none-any.whl'
+content-id = 'QmURxX6UXKgZUrLHSTEY5rJh9Jkpz3ADuFNDiE2ZDXuZvf'
+requires-python = '>=3.6'
+extras = ['testing']
+dependencies = [
+	'protobuf>=3.19.0',
+	'google-api-core[grpc]>=1.22.2; extra == "testing"',
+]
