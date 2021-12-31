@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/f0/ef/1398d9bf0e4cc6bbecec58d9c01bc5c558c3ccc66c1bd611c95ee4825075/lotide_luna-0.7.1-py3-none-any.whl'
+content-id = 'QmU7EN5Rkf7T4M2F2rRsuoTUPLYHRKbATYGgkYwvN8CPLx'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'django',
+	'requests',
+]
