@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/73/c3/d45171501210b0305f4c93fafe50950f0c2228e87034ceb51744bd03ff08/pbr-5.8.0-py2.py3-none-any.whl'
+content-id = 'QmSpGqJF7k1hXtzaqHePDGDD9ESeMBjjhK9G2WXjHtsMWc'
+requires-python = '>=2.6'
+extras = []
+dependencies = []
