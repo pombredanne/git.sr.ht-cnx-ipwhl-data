@@ -1,9 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/6e/33/1ae0f71395e618d6140fbbc9587cc3156591f748226075e0f7d6f9176522/Markdown-3.3.4-py3-none-any.whl'
-content-id = 'QmeHryfA1mb1XAPD4CmEWGnQVFErBFNyfUPjVmf22BH84Y'
-requires-python = '>=3.6'
-extras = ['testing']
-dependencies = [
-	'importlib-metadata; python_version < "3.8"',
-	'coverage; extra == "testing"',
-	'pyyaml; extra == "testing"',
-]
