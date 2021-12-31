@@ -1,7 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/77/83/1ef010f7c4563e218854809c0dff9548de65ebec930921dedf6ee5981f27/pkginfo-1.7.1-py2.py3-none-any.whl'
-content-id = 'QmYYTosiNQcUVkcP4A7Qk9CXq4DMA4URzMeGWPCvLoRLYJ'
-extras = ['testing']
-dependencies = [
-	'nose; extra == "testing"',
-	'coverage; extra == "testing"',
-]
