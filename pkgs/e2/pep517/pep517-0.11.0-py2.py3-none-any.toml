@@ -1,9 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/3b/da/bfa8de153f54df0b04ca634a4489d28758ab56b394931588627fcb49f44b/pep517-0.11.0-py2.py3-none-any.whl'
-content-id = 'QmUjm4URT16ybvsfCQubtGVrdYAuPiA6KnTg5Eza4TBXVL'
-extras = []
-dependencies = [
-	'toml; python_version < "3.6"',
-	'tomli; python_version >= "3.6"',
-	'importlib_metadata; python_version < "3.8"',
-	'zipp; python_version < "3.8"',
-]
