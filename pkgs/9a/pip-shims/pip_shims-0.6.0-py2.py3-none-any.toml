@@ -1,0 +1,25 @@
+source = 'https://files.pythonhosted.org/packages/b1/92/5a7cd40765ba29add1708fa4f5d513d02f6ee9a45121ed147c6085be5e10/pip_shims-0.6.0-py2.py3-none-any.whl'
+content-id = 'QmPPQDCYT1GAoRo4BDkha957YkYBQ67SchbMTNephZMU6r'
+requires-python = '>=3.6'
+extras = [
+	'dev',
+	'tests',
+	# Ignore development extra
+	# 'docs',
+]
+dependencies = [
+	'pip>=20',
+	'packaging',
+	'setuptools',
+	'wheel',
+	'pre-commit; extra == "dev"',
+	'nox; extra == "dev"',
+	'parver; extra == "dev"',
+	'sphinx<2.0; extra == "docs"',
+	'sphinx-rtd-theme; extra == "docs"',
+	'pytest-timeout; extra == "tests"',
+	'pytest; extra == "tests"',
+	'pytest-xdist; extra == "tests"',
+	'pytest-cov; extra == "tests"',
+	'readme-renderer[md]; python_version < "3.8" and extra == "tests"',
+]
