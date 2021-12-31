@@ -1,0 +1,11 @@
+source = 'https://files.pythonhosted.org/packages/9e/6d/40a24eaa03ea4418129708fd3f0f17eda73d568f16d4d4fd412566168b4c/prettytable-2.5.0-py3-none-any.whl'
+content-id = 'QmYYqny4fvCPU4KEp3rvhswaFTShN8vMk8DCdEbNqmgjsW'
+requires-python = '>=3.6'
+extras = ['tests']
+dependencies = [
+	'wcwidth',
+	'importlib-metadata; python_version < "3.8"',
+	'pytest; extra == "tests"',
+	'pytest-cov; extra == "tests"',
+	'pytest-lazy-fixture; extra == "tests"',
+]
