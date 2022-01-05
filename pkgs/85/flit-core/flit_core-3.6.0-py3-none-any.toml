@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/c8/e8/920a6b202831b9d0e21113dd5b7e78d094ca830c9dc4404e70367ff8b2eb/flit_core-3.6.0-py3-none-any.whl'
+content-id = 'QmNtF7bJcvAcUDSykFoSrqh5HtZyGDXurj9f2AxevaSQ2A'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
