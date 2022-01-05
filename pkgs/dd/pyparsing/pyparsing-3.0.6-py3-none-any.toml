@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/a0/34/895006117f6fce0b4de045c87e154ee4a20c68ec0a4c9a36d900888fb6bc/pyparsing-3.0.6-py3-none-any.whl'
+content-id = 'QmeU4Gz68nG3CKjxAVYdWT4aJuzoQxD7beJKG2mD7vrHeG'
+requires-python = '>=3.6'
+extras = ['diagrams']
+dependencies = [
+	'jinja2; extra == "diagrams"',
+	'railroad-diagrams; extra == "diagrams"',
+]
