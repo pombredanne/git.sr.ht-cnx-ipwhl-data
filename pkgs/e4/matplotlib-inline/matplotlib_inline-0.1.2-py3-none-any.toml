@@ -1,7 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/7f/de/6c111d687335729cf8c156394c8d119b0dc3c34b6966ff2a2f7fe4aa79cf/matplotlib_inline-0.1.2-py3-none-any.whl'
-content-id = 'QmUL2dCjDgm4iD51iSjmmAkbqdvcs9147F92uPx5W7F93g'
-requires-python = '>=3.5'
-extras = []
-dependencies = [
-	'traitlets',
-]
