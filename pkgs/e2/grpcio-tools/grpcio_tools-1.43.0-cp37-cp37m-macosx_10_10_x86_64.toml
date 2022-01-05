@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/20/25/d11f065bdeda07190d5fa723ee29a36c42288233485658bc2e3457a772d5/grpcio_tools-1.43.0-cp37-cp37m-macosx_10_10_x86_64.whl'
+content-id = 'QmczjkUyA9UQzW8iHxjV9GoCJXWrbNncb4J4wTgKE2sHwU'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'protobuf<4.0dev,>=3.5.0.post1',
+	'grpcio>=1.43.0',
+	'setuptools',
+]

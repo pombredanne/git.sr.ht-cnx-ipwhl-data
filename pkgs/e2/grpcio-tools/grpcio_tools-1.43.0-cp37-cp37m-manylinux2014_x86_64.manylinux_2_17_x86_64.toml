@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/a3/5e/6e476ffa95d88b8720a4ee1056ced83ab82de1c01e208952b679ad67fd63/grpcio_tools-1.43.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl'
+content-id = 'QmczEbmv1LBoHfFY7ZnF8Bfiix1i76SXTCuMM1jP6pfwSX'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'protobuf<4.0dev,>=3.5.0.post1',
+	'grpcio>=1.43.0',
+	'setuptools',
+]
