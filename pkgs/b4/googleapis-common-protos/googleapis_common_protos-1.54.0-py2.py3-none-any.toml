@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/5d/d2/38c15431197c137358968b5d2e17184832a4447d3580b03617824af71020/googleapis_common_protos-1.54.0-py2.py3-none-any.whl'
+content-id = 'QmeAoTh6U1jMB3fFHjjCP1fcwH6ezzyVWhk9QPtqVnhTc7'
+requires-python = '>=3.6'
+extras = ['grpc']
+dependencies = [
+	'protobuf>=3.12.0',
+	'grpcio>=1.0.0; extra == "grpc"',
+]
