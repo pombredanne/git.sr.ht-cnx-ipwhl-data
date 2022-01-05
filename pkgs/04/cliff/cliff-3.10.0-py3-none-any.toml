@@ -1,0 +1,13 @@
+source = 'https://files.pythonhosted.org/packages/19/80/d1b21a80864c6386c72d69de2e343188f3d97f7ab5646525c43f0e72b6fb/cliff-3.10.0-py3-none-any.whl'
+content-id = 'QmdgkytKMqq382JUcoXvMX956wZDRn95KSjeviTVqgrbMi'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'PrettyTable>=0.7.2',
+	'PyYAML>=3.12',
+	'autopage>=0.4.0',
+	'cmd2>=1.0.0',
+	'pbr!=2.1.0,>=2.0.0',
+	'pyparsing>=2.1.0',
+	'stevedore>=2.0.1',
+]
