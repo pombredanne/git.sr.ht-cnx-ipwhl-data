@@ -1,0 +1,12 @@
+source = 'https://files.pythonhosted.org/packages/66/45/353b78d9470e75b8ae5693e8e27cc0700df7dd66b2e9ec7320103aba372d/mkdocs_material-8.1.4-py2.py3-none-any.whl'
+content-id = 'QmSRn447m91skddC2Qc3aNuithTKkU4or6uqHeQ3vpjBW5'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'jinja2>=2.11.1',
+	'markdown>=3.2',
+	'mkdocs>=1.2.3',
+	'mkdocs-material-extensions>=1.0',
+	'pygments>=2.10',
+	'pymdown-extensions>=9.0',
+]
