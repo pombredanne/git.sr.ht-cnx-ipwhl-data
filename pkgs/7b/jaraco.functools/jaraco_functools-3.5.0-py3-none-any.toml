@@ -1,0 +1,22 @@
+source = 'https://files.pythonhosted.org/packages/fb/36/5b86ff4d8013596bd5276f7c1bcf500dc5993a2a9d07d5d3307f5f44e29f/jaraco.functools-3.5.0-py3-none-any.whl'
+content-id = 'QmVEzpngat19A1V9e376yqFq4R9xSj3xKZ8XMQAdEbGSdD'
+requires-python = '>=3.7'
+extras = [
+	'docs',
+	# Development extra, awaiting pytest-checkdocs
+	# 'testing',
+]
+dependencies = [
+	'more-itertools',
+	'sphinx; extra == "docs"',
+	'jaraco.packaging>=8.2; extra == "docs"',
+	'rst.linker>=1.9; extra == "docs"',
+	'pytest>=6; extra == "testing"',
+	'pytest-checkdocs>=2.4; extra == "testing"',
+	'pytest-flake8; extra == "testing"',
+	'pytest-cov; extra == "testing"',
+	'pytest-enabler>=1.0.1; extra == "testing"',
+	'jaraco.classes; extra == "testing"',
+	'pytest-black>=0.3.7; platform_python_implementation != "PyPy" and extra == "testing"',
+	'pytest-mypy; platform_python_implementation != "PyPy" and extra == "testing"',
+]
