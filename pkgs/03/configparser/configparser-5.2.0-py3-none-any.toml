@@ -1,10 +1,10 @@
-source = 'https://files.pythonhosted.org/packages/46/30/9adfc5e965764563caeb3ee7d3257fa0498bc44a865b900954c0baf0c4ae/configparser-5.1.0-py3-none-any.whl'
-content-id = 'QmVVQ5bPJRQ3JXkmo76krMG3RZYaTYope4V6dPwYWY6srr'
+source = 'https://files.pythonhosted.org/packages/2b/af/0e28626b47c84172a112397f034bb1b6349960ca6e0fe7c96666e0ccae69/configparser-5.2.0-py3-none-any.whl'
+content-id = 'QmaNUStvMuoJKGwDCkajGQq5zoq3CU1Wof2P57nrJWJXbW'
 requires-python = '>=3.6'
 extras = [
 	'docs',
-	# Ignore development extra
-	# 'testing',
+	# 'testing'
+	# FIXME: re-add when dependency is resolved
 ]
 dependencies = [
 	'sphinx; extra == "docs"',
@@ -16,6 +16,7 @@ dependencies = [
 	'pytest-flake8; extra == "testing"',
 	'pytest-cov; extra == "testing"',
 	'pytest-enabler>=1.0.1; extra == "testing"',
+	'types-backports; extra == "testing"',
 	'pytest-black>=0.3.7; platform_python_implementation != "PyPy" and extra == "testing"',
 	'pytest-mypy; platform_python_implementation != "PyPy" and extra == "testing"',
 ]
