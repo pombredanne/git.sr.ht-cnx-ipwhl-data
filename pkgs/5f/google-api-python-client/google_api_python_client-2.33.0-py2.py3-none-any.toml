@@ -1,0 +1,11 @@
+source = 'https://files.pythonhosted.org/packages/66/e8/edabba76d451d2f82f817d72f0ccddb1cb8dc9dda84596a973dc2ef6f10b/google_api_python_client-2.33.0-py2.py3-none-any.whl'
+content-id = 'QmNqSk4jKYruEqRMrS2Rj3TXV8KkED7Rvf6q93KqiF9CnV'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'httplib2<1dev,>=0.15.0',
+	'google-auth<3.0.0dev,>=1.16.0',
+	'google-auth-httplib2>=0.1.0',
+	'google-api-core<3.0.0dev,>=1.21.0',
+	'uritemplate<5,>=3.0.0',
+]
