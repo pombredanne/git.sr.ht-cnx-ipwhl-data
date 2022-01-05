@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/ca/7f/ae1f060366f2c59788bb3ee63350bb77e80e4cbe5dded267a04b8da04ae2/covdefaults-2.1.0-py2.py3-none-any.whl'
+content-id = 'QmVscjrxFMAJyAtDtxyLruPXSgFAzawvFnNsXd3MD1aNht'
+requires-python = '>=3.6.1'
+extras = []
+dependencies = [
+	'coverage>=6.0.2',
+]
