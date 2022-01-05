@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/64/e3/93d795382761ce296029c8a368973852a5d282e6aca39061e9d7103047f4/findimports-2.2.0-py2.py3-none-any.whl'
+content-id = 'QmS8Zj8LiqLdWJ2eyht8JDjtcU7HSthAsUrcxJyEU9mC7b'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
