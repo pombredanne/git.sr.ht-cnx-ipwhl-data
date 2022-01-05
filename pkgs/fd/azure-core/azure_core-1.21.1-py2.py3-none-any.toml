@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/a6/07/95105c0c1cc46a5c8b14e43c66fa8b50fe1e7f0918e8809a7422cb67a1cf/azure_core-1.21.1-py2.py3-none-any.whl'
+content-id = 'QmX7LNGHix5Bc9nNvUh2rAMcCPcuoP7YLkfsU2eYVJ7TAx'
+extras = []
+dependencies = [
+	'requests>=2.18.4',
+	'six>=1.11.0',
+	'azure-nspkg; python_version < "3.0"',
+	'enum34>=1.0.4; python_version < "3.4"',
+	'typing; python_version < "3.5"',
+]
