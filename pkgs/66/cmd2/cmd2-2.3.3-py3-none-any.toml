@@ -1,11 +1,11 @@
-source = 'https://files.pythonhosted.org/packages/00/07/6c5c0ce0647b0054b7ec459036497565f66b55ff5809934792917e161a3c/cmd2-2.3.2-py3-none-any.whl'
-content-id = 'QmeqDXGi3kN9etvrtkNfySCZ4hZ9b7VmtKu6eRJAbxQeEH'
+source = 'https://files.pythonhosted.org/packages/8c/0b/3d6c9940c81b55750cda9aa941599161e62678bd6baaea9863b5c75ad42b/cmd2-2.3.3-py3-none-any.whl'
+content-id = 'QmUrgNvSWbg82kRdTCfpxJfz1QyLm54tQkV9gzR5XtEHyg'
 requires-python = '>=3.6'
 extras = [
-	# Ignore development extras
-	# 'dev',
-	# 'test',
-	# 'validate',
+       # Ignore development extras
+       # 'dev',
+       # 'test',
+       # 'validate',
 ]
 dependencies = [
 	'attrs>=16.3.0',
