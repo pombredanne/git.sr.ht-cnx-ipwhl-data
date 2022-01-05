@@ -1,0 +1,14 @@
+source = 'https://files.pythonhosted.org/packages/20/49/b3e0edec68d81846f519c602ac38af9db86e1e71275528b3e814ae236063/pytest_cov-3.0.0-py3-none-any.whl'
+content-id = 'QmYzUffb5dgm5YRrEc1KEq2pECv1fdhZNyNzGDAaBfaSsF'
+requires-python = '>=3.6'
+extras = ['testing']
+dependencies = [
+	'pytest>=4.6',
+	'coverage[toml]>=5.2.1',
+	'fields; extra == "testing"',
+	'hunter; extra == "testing"',
+	'process-tests; extra == "testing"',
+	'six; extra == "testing"',
+	'pytest-xdist; extra == "testing"',
+	'virtualenv; extra == "testing"',
+]
