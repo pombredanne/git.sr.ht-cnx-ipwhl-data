@@ -1,9 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/2a/1a/3f7ab35740d75f1330e23662e8077468d7be55531d687a963c95f2e9ff02/aioquic-0.9.15-cp37-cp37m-win_amd64.whl'
-content-id = 'QmUUMZ1n2kY7mmGUx2aBYfu4gv1jSWJJs2nvqHET1DRxb6'
-extras = []
-dependencies = [
-	'certifi',
-	'cryptography>=2.5',
-	'pylsqpack<0.4.0,>=0.3.3',
-	'dataclasses; python_version < "3.7"',
-]

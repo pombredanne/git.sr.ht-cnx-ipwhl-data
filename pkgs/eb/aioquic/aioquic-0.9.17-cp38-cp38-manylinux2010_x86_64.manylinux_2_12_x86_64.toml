@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/14/a1/5af78a61770b466b8663ff435d7f072e2b853168fc1802b13f555e1d23f7/aioquic-0.9.17-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl'
+content-id = 'QmQHUtA8GoG9TvQUGsfGfMy8CAPCpo5sjYEDvNjFqTjrBH'
+extras = []
+dependencies = [
+	'certifi',
+	'cryptography<4,>=2.5',
+	'pylsqpack<0.4.0,>=0.3.3',
+	'dataclasses; python_version < "3.7"',
+]
