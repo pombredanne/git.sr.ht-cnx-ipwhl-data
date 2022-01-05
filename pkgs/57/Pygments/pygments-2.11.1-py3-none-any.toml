@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/61/f1/37071192452df97f9b952707515703e86e3f7123c2ed8a4010043acbc362/Pygments-2.11.1-py3-none-any.whl'
+content-id = 'QmV8aZrsTKTj8LxRHo4Gr4UzsuheAuvCdj884pxRYDgT7L'
+requires-python = '>=3.5'
+extras = []
+dependencies = []
