@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/d5/8e/fad835e31e3f54ea39d2b76027348a347433dcbc674a841ffe0716091c2d/jupyter_core-4.9.1-py3-none-any.whl'
+content-id = 'QmfF7jYBdC6XZHUSnp44qvq3c1w1Fa5K2yhv7siXNpqGDJ'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'traitlets',
+	'pywin32>=1.0; sys_platform == "win32" and platform_python_implementation != "PyPy"',
+]
