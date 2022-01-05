@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/18/4d/22a93473bca99c80f2d23f867ebbfee2f6c8e186bf678864eec641500910/jupyterlab_widgets-1.0.2-py3-none-any.whl'
+content-id = 'QmeiuqPV1SXhiQFuk7nBrwJVmWtgEaMCyVxoY4JnFuFeNZ'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
