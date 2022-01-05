@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/1e/c5/39e52df291cd7f74057556cd58b5717ef1a15ffbd11e04ea4a3814906e27/elasticsearch-7.15.2-py2.py3-none-any.whl'
-content-id = 'Qmf4BY1jvfpnsx5cdV1zHAiMgTYU3hsw6cwbhS4sscbQ1K'
+source = 'https://files.pythonhosted.org/packages/5b/71/9d61ea6bd10e51c8c42fa87f75489c2812e8346875facd0b30a511f0f790/elasticsearch-7.16.2-py2.py3-none-any.whl'
+content-id = 'QmWJLzU9u2QwTKfhyQiHYv95dSE7ZkB7ov1HtvCtzwrEMY'
 requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,<4,>=2.7'
 extras = [
 	'async',
