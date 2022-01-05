@@ -1,0 +1,13 @@
+source = 'https://files.pythonhosted.org/packages/85/3a/fe3c98435856a1ed798977981f3da82d2685cf9df97e4d9546340d2b83db/pyOpenSSL-21.0.0-py2.py3-none-any.whl'
+content-id = 'QmZAs3qxaM8MtRA5WjcbMYDbZhTgb9ovAXb89gEczPqyUR'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*,>=2.7'
+extras = ['docs', 'test']
+dependencies = [
+	'cryptography>=3.3',
+	'six>=1.5.2',
+	'sphinx; extra == "docs"',
+	'sphinx-rtd-theme; extra == "docs"',
+	'flaky; extra == "test"',
+	'pretend; extra == "test"',
+	'pytest>=3.0.1; extra == "test"',
+]
