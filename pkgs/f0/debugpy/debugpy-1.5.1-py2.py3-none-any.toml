@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/39/01/aa7092efdfef184e9a213327c6916b7a1d697d08a5ae216907907da3526d/debugpy-1.5.1-py2.py3-none-any.whl'
+content-id = 'QmWbmELzKRSaTyEieM6a476r4oYCQnuT4KyUfiM4UHR8WA'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
+extras = []
+dependencies = []
