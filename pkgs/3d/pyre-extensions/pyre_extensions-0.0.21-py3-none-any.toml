@@ -1,7 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/44/3f/561eb357b2ca0f1aa036ac39254d8acddf1d9d02bfe0897928cdd2e52806/pyre_extensions-0.0.21-py3-none-any.whl'
-content-id = 'QmRLmNSMapq3bCsAzvhj7E2tForCJyF6qU3aTBsdnTmb5Z'
-extras = []
-dependencies = [
-	'typing-inspect',
-	'typing-extensions',
-]
