@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/91/ac/c5b1dce6967b8841ce7a5446085ff94473f5930c461cf5a90e487050d022/boto3-1.20.28-py3-none-any.whl'
+content-id = 'QmUSLqWbEu39vibTw7WJtq17W6ft3CDkgJoCGmTW2PFsby'
+requires-python = '>=3.6'
+extras = ['crt']
+dependencies = [
+	'botocore<1.24.0,>=1.23.28',
+	'jmespath<1.0.0,>=0.7.1',
+	's3transfer<0.6.0,>=0.5.0',
+	'botocore[crt]<2.0a0,>=1.21.0; extra == "crt"',
+]
