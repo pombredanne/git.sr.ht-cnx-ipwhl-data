@@ -1,0 +1,17 @@
+source = 'https://files.pythonhosted.org/packages/b3/0e/836f12ec50075161e365131f13f5758451645af75c2becf61c6351ecec39/jedi-0.18.1-py2.py3-none-any.whl'
+content-id = 'QmbeBK9vMWaqw2gvqymW8WiPeF1Ndm9GyrrsoufWrgNira'
+requires-python = '>=3.6'
+extras = [
+    # Ignore development extras
+    # 'qa',
+    # 'testing'
+]
+dependencies = [
+	'parso<0.9.0,>=0.8.0',
+	'flake8==3.8.3; extra == "qa"',
+	'mypy==0.782; extra == "qa"',
+	'Django<3.1; extra == "testing"',
+	'colorama; extra == "testing"',
+	'docopt; extra == "testing"',
+	'pytest<7.0.0; extra == "testing"',
+]
