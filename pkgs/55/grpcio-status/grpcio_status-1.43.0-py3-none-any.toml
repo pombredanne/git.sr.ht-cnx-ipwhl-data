@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/a3/6b/4d49846da5b5a496658fde7c1315c2ed48b3d98f7460122a19f94af39248/grpcio_status-1.43.0-py3-none-any.whl'
+content-id = 'QmQzSmJ2BJTbwcjVawMWsps4bp22mmFCG5CTTFnYK91sv9'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'protobuf>=3.6.0',
+	'grpcio>=1.43.0',
+	'googleapis-common-protos>=1.5.5',
+]
