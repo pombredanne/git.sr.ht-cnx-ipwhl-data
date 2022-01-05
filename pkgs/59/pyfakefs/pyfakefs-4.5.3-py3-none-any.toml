@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/79/76/614e552ffc242c0e3ca9031147c6cf284706dfaeddbfd91b6a63e97bbdb7/pyfakefs-4.5.3-py3-none-any.whl'
+content-id = 'QmU3Sw2Tc1jKY3C6oaKBnGfBmVK8Qw68dkeZhLfpG6UNiy'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
