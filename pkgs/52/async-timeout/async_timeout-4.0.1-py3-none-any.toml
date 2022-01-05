@@ -1,7 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/41/4a/2ca8802045b6df8dd25a0f8f7c216808e9e3bff2809efe4a36cc99d35cca/async_timeout-4.0.1-py3-none-any.whl'
-content-id = 'QmRwQLZQeeSnTapDk6pgQ7CqEDWmCCTSj91rAXtBoLvo7F'
-requires-python = '>=3.6'
-extras = []
-dependencies = [
-	'typing-extensions>=3.6.5',
-]
