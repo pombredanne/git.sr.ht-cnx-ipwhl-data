@@ -1,0 +1,12 @@
+source = 'https://files.pythonhosted.org/packages/4d/fe/41a8b984d87d5256bf1ff3dc02b97a8694a33162e4bb70d98465fb8a4550/awscli-1.22.28-py3-none-any.whl'
+content-id = 'Qmecq5y1zwZ9pTxBjik2F5KnWiPGxVMTpL6Zigusb1akke'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'botocore==1.23.28',
+	'docutils<0.16,>=0.10',
+	's3transfer<0.6.0,>=0.5.0',
+	'PyYAML<5.5,>=3.10',
+	'colorama<0.4.4,>=0.2.5',
+	'rsa<4.8,>=3.1.2',
+]
