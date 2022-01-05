@@ -1,7 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/b7/35/2d0604b19d06b4a64882fe26aa75d05f7ff6dd939a073612b5f9f57f28d5/greenlet-1.1.1-cp39-cp39-macosx_10_14_x86_64.whl'
-content-id = 'QmNeR2ToT4Nd7qSL2NWT4VeyLvMHs9bkPjg4yGLnCBqJ1g'
-requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
-extras = ['docs', 'test']
-dependencies = [
-	'Sphinx; extra == "docs"',
-]

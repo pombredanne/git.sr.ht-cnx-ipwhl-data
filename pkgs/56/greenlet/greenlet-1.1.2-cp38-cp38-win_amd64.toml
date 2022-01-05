@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/4e/33/2eb5b46e3f1f46b24ff09d04ff227520273820f6be9e2176ea5e39063b3f/greenlet-1.1.2-cp38-cp38-win_amd64.whl'
+content-id = 'QmVMWQrwxuKfFxmgUkNaPaPEBG1Sd24BS6ZFqEtTuqAW63'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
+extras = ['docs', 'test']
+dependencies = [
+	'Sphinx; extra == "docs"',
+]
