@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/9f/be/effc32a8fc679c763bb46fa5c0b94caff995195d5cdcf94105efa24013d9/grpcio-1.43.0-cp38-cp38-macosx_10_10_x86_64.whl'
+content-id = 'QmcGEbHJYvQwwXBbngzDepqiZqJEUpZM7iXZVSiWTRAQMb'
+requires-python = '>=3.6'
+extras = ['protobuf']
+dependencies = [
+	'six>=1.5.2',
+	'futures>=2.2.0; python_version < "3.2"',
+	'enum34>=1.0.4; python_version < "3.4"',
+	'grpcio-tools>=1.43.0; extra == "protobuf"',
+]
