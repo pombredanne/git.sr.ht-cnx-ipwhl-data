@@ -1,8 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/83/b3/892f7312cd23d0d497014a05fd2ebf395f1ecc24b1341d019396bc25955f/proselint-0.10.2-py3-none-any.whl'
-content-id = 'QmNWTcxiJYKvbjoGA73No4Nk892Hq5dA8kfxczFGG6C6EZ'
-extras = []
-dependencies = [
-	'click',
-	'future',
-	'six',
-]
