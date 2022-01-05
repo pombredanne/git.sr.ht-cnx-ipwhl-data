@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/02/00/a3f12320c92a32f4a2fe23b18cd7b45cee167e2cdd4be48c193814aff561/jupyter_client-7.0.2-py3-none-any.whl'
-content-id = 'QmPgdXK63mAs3vs6HkLuX3b2SpunBgfXs3fEugknCxXTtW'
+source = 'https://files.pythonhosted.org/packages/ab/0a/c54391499d614a973f78f8bed12f56d25b0cceb041e88191df4ce553d6f4/jupyter_client-7.1.0-py3-none-any.whl'
+content-id = 'QmP8KaoMzK3QXmjwsvSK9qX14BwFFUbofsmMpXDMH8peXS'
 requires-python = '>=3.6.1'
 extras = [
 	# Ignore development extras
