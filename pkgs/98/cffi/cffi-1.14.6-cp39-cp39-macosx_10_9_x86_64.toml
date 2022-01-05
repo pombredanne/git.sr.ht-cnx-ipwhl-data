@@ -1,6 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/54/39/cc4587c7c179a545a454c2252a64a8ab0d76b28f347e66caa825c7b36ae6/cffi-1.14.6-cp39-cp39-macosx_10_9_x86_64.whl'
-content-id = 'QmeSURVAGAScLWT2ffFot9gsi6xRriTiXcye2fF6DxhkZF'
-extras = []
-dependencies = [
-	'pycparser',
-]
