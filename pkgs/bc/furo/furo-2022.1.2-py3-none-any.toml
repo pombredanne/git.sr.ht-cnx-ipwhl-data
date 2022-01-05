@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/db/bd/47f14ff20bade1acdb53be6e985776b7280b78d654795b419c710f4118a2/furo-2021.11.23-py3-none-any.whl'
-content-id = 'QmSqEQvkjw8hUxdF1gKFKBLvUfVTKXDD8SxPpA72TRKrco'
+source = 'https://files.pythonhosted.org/packages/fe/8b/cb116fbcab57f3984e3b7253cefd22d7f296c90fe5211948ecf47186dc74/furo-2022.1.2-py3-none-any.whl'
+content-id = 'QmXBdGdQLaFPNE5XM1xrVx2hEWzJov8Q3efawWHor4ZnzJ'
 requires-python = '>=3.6'
 extras = [
 	'test',
