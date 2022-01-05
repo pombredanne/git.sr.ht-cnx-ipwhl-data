@@ -1,7 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/c8/27/141554fc0f42c05dd318fbb0be0e3e018da686544a3ff452762e49ccac58/charset_normalizer-2.0.8-py3-none-any.whl'
-content-id = 'QmVuWzT39LH8WoWZcAabNWG5wG6o7hzaMnEea63zL97SjP'
-requires-python = '>=3.5.0'
-extras = ['unicode_backport']
-dependencies = [
-	'unicodedata2; extra == "unicode_backport"',
-]
