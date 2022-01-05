@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/2c/42/41e1469ed0b37b9c8532cb8074bea179f7d85ee7e82a59b5b6c289ed6045/Pympler-1.0.1-py3-none-any.whl'
+content-id = 'QmdUDsKaVa6vu4pT1k7NPbGmmoQ2sbt9uqsnTVHn9m3thk'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
