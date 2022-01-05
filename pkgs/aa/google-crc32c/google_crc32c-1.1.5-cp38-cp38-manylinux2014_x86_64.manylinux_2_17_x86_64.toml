@@ -1,7 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/7e/97/ad946b0ff70cf83a74788742a37f5f9d455b6b0612d51a0aae7bb4fe662c/google_crc32c-1.1.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl'
-content-id = 'QmSRdvK45b7QLz85To1pcv7gnGcPukwubPKTC88rGbccch'
-requires-python = '>=3.6'
-extras = ['testing']
-dependencies = [
-	'pytest; extra == "testing"',
-]
