@@ -1,14 +1,14 @@
-source = 'https://files.pythonhosted.org/packages/69/f4/ada3bb52beacf53dfaff794737c6d9d2ea30b167343fee9c781cdb157723/panflute-2.1.0-py3-none-any.whl'
-content-id = 'QmbCYM5MZwoo6GnQxWrDBE1mZJ8cJyA2CcGomaF2fK6hk5'
+source = 'https://files.pythonhosted.org/packages/61/10/1c1db0c4565517e2aaa5a7162041109d414f44bb60f5bbc151ca20a07c3d/panflute-2.1.3-py3-none-any.whl'
+content-id = 'QmUmAMxGCPPXu5xc9vbJWLiBNhKFAQRe5u4EaP7SxdxGEm'
 requires-python = '>=3.6'
 extras = [
 	'dev',
-	# Ignore development extra
-	# 'pypi',
+	# FIXME: re-add when we package twine
+	# 'pypi'
 ]
 dependencies = [
-	'click<8,>=6',
-	'pyyaml<6,>=3',
+	'click<9,>=6',
+	'pyyaml<7,>=3',
 	'configparser; extra == "dev"',
 	'coverage; extra == "dev"',
 	'flake8; extra == "dev"',
