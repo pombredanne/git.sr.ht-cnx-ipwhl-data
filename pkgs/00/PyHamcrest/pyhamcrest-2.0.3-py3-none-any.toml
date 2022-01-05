@@ -1,0 +1,40 @@
+source = 'https://files.pythonhosted.org/packages/5a/fa/488920633f45c1c291c633fcbe0cd465f40d91ac2a2b90f594bae36db80a/PyHamcrest-2.0.3-py3-none-any.whl'
+content-id = 'QmenmAzzb5Tp9uH4baN52J39Ww8YM2NDKHcvJN7u3akpGq'
+requires-python = '>=3.5'
+extras = [
+	# Ignore development extras
+	# 'dev', 'docs', 'tests', 'tests-numpy'
+]
+dependencies = [
+	'sphinx~=3.0; extra == "dev"',
+	'alabaster~=0.7; extra == "dev"',
+	'pytest>=5.0; extra == "dev"',
+	'pytest-sugar; extra == "dev"',
+	'pytest-xdist; extra == "dev"',
+	'coverage[toml]; extra == "dev"',
+	'types-mock; extra == "dev"',
+	'towncrier; extra == "dev"',
+	'twine; extra == "dev"',
+	'pytest-mypy; extra == "dev"',
+	'flake8; extra == "dev"',
+	'black; extra == "dev"',
+	'tox; extra == "dev"',
+	'tox-pyenv; extra == "dev"',
+	'tox-asdf; extra == "dev"',
+	'pytest-mypy-plugins; platform_python_implementation != "PyPy" and extra == "dev"',
+	'sphinx~=3.0; extra == "docs"',
+	'alabaster~=0.7; extra == "docs"',
+	'pytest>=5.0; extra == "tests"',
+	'pytest-sugar; extra == "tests"',
+	'pytest-xdist; extra == "tests"',
+	'coverage[toml]; extra == "tests"',
+	'types-mock; extra == "tests"',
+	'pytest>=5.0; extra == "tests-numpy"',
+	'pytest-sugar; extra == "tests-numpy"',
+	'pytest-xdist; extra == "tests-numpy"',
+	'coverage[toml]; extra == "tests-numpy"',
+	'types-mock; extra == "tests-numpy"',
+	'numpy; extra == "tests-numpy"',
+	'pytest-mypy-plugins; platform_python_implementation != "PyPy" and extra == "tests-numpy"',
+	'pytest-mypy-plugins; platform_python_implementation != "PyPy" and extra == "tests"',
+]
