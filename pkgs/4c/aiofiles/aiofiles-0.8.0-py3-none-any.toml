@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/ca/e4/b78d049f7cc7ed053ddbfdd59b2dcc7bd387458e2c2869b602975685d65e/aiofiles-0.8.0-py3-none-any.whl'
+content-id = 'QmUX2AmAcmZsovnJ1Cf19nPFGBVRtRBDMjfBPhLpZHqVDf'
+requires-python = '<4.0,>=3.6'
+extras = []
+dependencies = []
