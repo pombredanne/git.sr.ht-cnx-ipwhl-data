@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/a9/c4/d5476373088c120ffed82f34c74b266ccae31a68d665b837354d4d8dc8be/parso-0.8.2-py2.py3-none-any.whl'
-content-id = 'QmbEpfuw9qGwrzY9E6aC2yDJB5TRfoy7hGUz1zETckARAz'
+source = 'https://files.pythonhosted.org/packages/05/63/8011bd08a4111858f79d2b09aad86638490d62fbf881c44e434a6dfca87b/parso-0.8.3-py2.py3-none-any.whl'
+content-id = 'QmX5XqcSvpro87RJ1NRR4ceSoCLqmMHVvvc68XFrphDZV8'
 requires-python = '>=3.6'
 extras = [
 	# Ignore development extras
