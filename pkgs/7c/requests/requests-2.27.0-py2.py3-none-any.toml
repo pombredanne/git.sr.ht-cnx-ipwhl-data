@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/92/96/144f70b972a9c0eabbd4391ef93ccd49d0f2747f4f6a2a2738e99e5adc65/requests-2.26.0-py2.py3-none-any.whl'
-content-id = 'QmVgJiiAb7VdhSjUmSY2hir9aTGHzxRH5vv816rJRvNeYF'
+source = 'https://files.pythonhosted.org/packages/47/01/f420e7add78110940639a958e5af0e3f8e07a8a8b62049bac55ee117aa91/requests-2.27.0-py2.py3-none-any.whl'
+content-id = 'QmY42y4LQ5Tp9z7DHDCxE68dfuPFoYV3nb3aPibZh4H2mS'
 requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*,>=2.7'
 extras = ['security', 'socks', 'use_chardet_on_py3']
 dependencies = [
