@@ -1,9 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/6b/bc/8e8780f36d60f3977849565c47a8c026447ebafac00f1c18708515be784c/google_cloud_dlp-3.2.2-py2.py3-none-any.whl'
-content-id = 'QmRAP1eZEgbNk6TCNcrpwr7TTKGey6Z945hRcGvqCXkCTD'
-requires-python = '>=3.6'
-extras = []
-dependencies = [
-	'google-api-core[grpc]<3.0.0dev,>=1.26.0',
-	'proto-plus>=0.4.0',
-	'packaging>=14.3',
-]
