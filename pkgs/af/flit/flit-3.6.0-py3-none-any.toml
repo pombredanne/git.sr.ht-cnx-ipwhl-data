@@ -1,9 +1,9 @@
-source = 'https://files.pythonhosted.org/packages/f8/7c/2b1ca83b6c15c6d015b77387c8d535a155e57b73a0c3fde8ce63e6967088/flit-3.5.1-py3-none-any.whl'
-content-id = 'QmWAWyEcsnBMWqivzPbNqzQWo91DLUtTmhnjm1A1uy6Z4A'
+source = 'https://files.pythonhosted.org/packages/4a/2c/76c650ccf913781aa9e654c39296d2eb2caeca9ffa7b3108ebd475441158/flit-3.6.0-py3-none-any.whl'
+content-id = 'Qmau217gCL8BbfwzJaEivtKhAeoggvAguEEU3zUMyat9ux'
 requires-python = '>=3.6'
 extras = ['doc', 'test']
 dependencies = [
-	'flit_core>=3.5.1',
+	'flit_core>=3.6.0',
 	'requests',
 	'docutils',
 	'tomli',
