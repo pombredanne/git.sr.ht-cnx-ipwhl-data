@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/a7/ed/b764fa931614cb7ed9bebbc42532daecef405d6bef660eeda882f6c23b98/nbclient-0.5.4-py3-none-any.whl'
-content-id = 'QmQW8FDLvW1HghW6MuMT7S26mZUoGjRyRa4UryNxiG8H3U'
+source = 'https://files.pythonhosted.org/packages/27/70/69c3561f43ea305da4b360820e67b57244c5308faf1fa890bc444e7cf842/nbclient-0.5.9-py3-none-any.whl'
+content-id = 'QmaoYGFBx6tHeLnx45PD2MAjiQoAAgcDjr5JKFyCVyLp8F'
 requires-python = '>=3.6.1'
 extras = [
 	# Ignore development extras
@@ -24,7 +24,6 @@ dependencies = [
 	'flake8; extra == "dev"',
 	'mypy; extra == "dev"',
 	'tox; extra == "dev"',
-	'bumpversion; extra == "dev"',
 	'xmltodict; extra == "dev"',
 	'pip>=18.1; extra == "dev"',
 	'wheel>=0.31.0; extra == "dev"',
@@ -47,7 +46,6 @@ dependencies = [
 	'flake8; extra == "test"',
 	'mypy; extra == "test"',
 	'tox; extra == "test"',
-	'bumpversion; extra == "test"',
 	'xmltodict; extra == "test"',
 	'pip>=18.1; extra == "test"',
 	'wheel>=0.31.0; extra == "test"',
