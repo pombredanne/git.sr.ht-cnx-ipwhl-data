@@ -1,9 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/2b/86/ff9b23ac7446ee224d0d7e5e64efc433aeef52b76662863873e03259ed0f/google_resumable_media-2.0.0-py2.py3-none-any.whl'
-content-id = 'QmNz4Up4RrWw3UagJVp2z6yMdyXFkMfZsnpMXQrPRNfyEb'
-requires-python = '>=3.6'
-extras = ['aiohttp', 'requests']
-dependencies = [
-	'google-crc32c<2.0dev,>=1.0',
-	'aiohttp<4.0.0dev,>=3.6.2; extra == "aiohttp"',
-	'requests<3.0.0dev,>=2.18.0; extra == "requests"',
-]
