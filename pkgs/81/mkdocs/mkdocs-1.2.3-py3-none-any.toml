@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/5e/b6/5afe2978230b873e55da31b0ee2312ec0379780a8d61e6379d40dca3eb90/mkdocs-1.2.2-py3-none-any.whl'
-content-id = 'QmQL27R2ifAXW4ApUcWyY49aoiZkqDZ9Ffw3UaRwyFvKxA'
+source = 'https://files.pythonhosted.org/packages/c0/26/fed4974c80000ef2c84185e426e8ef5340a27f1fdd3a2568c0547b2ae12a/mkdocs-1.2.3-py3-none-any.whl'
+content-id = 'QmVCXVAbsTexod6QV6f7KSE9Anz9A3bXiJuSGmtZJ9pyxk'
 requires-python = '>=3.6'
 extras = ['i18n']
 dependencies = [
