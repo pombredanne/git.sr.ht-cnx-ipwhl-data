@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/36/1d/732515814abd7270e85add43a36d73383b0da2f526943bee1596c2074568/jinja2_humanize_extension-0.2.0-py3-none-any.whl'
+content-id = 'QmWNiuqPpxdEDnp7UcJgpLTPhB5h7HqLhuAwwadpvue19C'
+requires-python = '>=3.0'
+extras = []
+dependencies = [
+	'jinja2',
+	'humanize',
+]
