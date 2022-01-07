@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/8f/43/cf737c90e8a32b4fbc12f69f8dd4f9c736205c8de0e5dcaa650cb009bafc/websockets-10.1-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl'
+content-id = 'Qmc3usdv2fdwsR6exDoydWx7ao6g7MPu1jp9PGF6SxgtMM'
+requires-python = '>=3.7'
+extras = []
+dependencies = []

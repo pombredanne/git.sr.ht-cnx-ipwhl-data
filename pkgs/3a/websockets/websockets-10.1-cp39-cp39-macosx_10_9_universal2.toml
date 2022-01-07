@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/50/6d/6728d41f21cb1a46a3896f3b368f6f1e73a997f2ebcf9b1913b4f40e74c4/websockets-10.1-cp39-cp39-macosx_10_9_universal2.whl'
+content-id = 'QmYHBfyXzDKwYA63ZvhJ3VJEB61dCDJmnxaC7J8uUAxQV4'
+requires-python = '>=3.7'
+extras = []
+dependencies = []

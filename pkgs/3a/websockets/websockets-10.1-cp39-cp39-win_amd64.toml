@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/43/5f/b237bebc4c483a17c2a2104fdcc2ed4322ac7fcb067917714b366480ce56/websockets-10.1-cp39-cp39-win_amd64.whl'
+content-id = 'QmUyiQDX2NSFT1Yq1FvJTga8X4pHYfd9xk4mgaZgCba814'
+requires-python = '>=3.7'
+extras = []
+dependencies = []
