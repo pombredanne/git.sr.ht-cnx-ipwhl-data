@@ -1,0 +1,18 @@
+source = 'https://files.pythonhosted.org/packages/ac/29/0daef8da885f35b3c8a54ac45378d4829a7f787ec55475b541bed3df6a36/tzlocal-4.1-py3-none-any.whl'
+content-id = 'QmcimHda8kQ3XPrYYDDj6dw6yaLZ7aUNnmMiuD2z2N7V3z'
+requires-python = '>=3.6'
+extras = [
+	# 'devenv', # FIXME: re-add when package twine, which blocks zest.releaser
+	'test'
+]
+dependencies = [
+	'pytz-deprecation-shim',
+	'tzdata; platform_system == "Windows"',
+	'backports.zoneinfo; python_version < "3.9"',
+	'black; extra == "devenv"',
+	'pyroma; extra == "devenv"',
+	'pytest-cov; extra == "devenv"',
+	'zest.releaser; extra == "devenv"',
+	'pytest-mock>=3.3; extra == "test"',
+	'pytest>=4.3; extra == "test"',
+]
