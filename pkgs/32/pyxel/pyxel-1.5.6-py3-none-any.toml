@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/5c/1f/9f32a128e480c5ddd31e4811108282803812af74d9df9037b485296e34e3/pyxel-1.5.6-py3-none-any.whl'
+content-id = 'QmZuB9MZbGj16m8AJME9hSBUWt2SaU37894R2uUmTL94bD'
+requires-python = '>=3.7'
+extras = []
+dependencies = []
