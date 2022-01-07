@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/bd/7d/d3676c97f2846c5784ecf17411d8743bee2868fc4b7637a51db57d67644b/sphinxext_opengraph-0.5.1-py3-none-any.whl'
+content-id = 'QmTpCvNqn4WQ6zgLgQ4cfe9D77foZZcWK5ZbRpn5R8nitv'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'sphinx>=2.0',
+]
