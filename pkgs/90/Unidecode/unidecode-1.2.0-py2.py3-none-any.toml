@@ -1,5 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/9e/25/723487ca2a52ebcee88a34d7d1f5a4b80b793f179ee0f62d5371938dfa01/Unidecode-1.2.0-py2.py3-none-any.whl'
-content-id = 'QmUnxpA33i6HNjE8Wpjmo9KVLe2GoVvy3owjYUCD7pt6Gd'
-requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7'
-extras = []
-dependencies = []
