@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/8d/dc/14fe7be60cd15f86acdfc8863c0f59a72c2019d373d0b3fe217830044f9f/wrapt-1.13.3-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl'
+content-id = 'QmaSp53z5n3UhnEVx5cT1BBdrRXe9qgGwFC8N21Kh3cgkS'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
+extras = []
+dependencies = []

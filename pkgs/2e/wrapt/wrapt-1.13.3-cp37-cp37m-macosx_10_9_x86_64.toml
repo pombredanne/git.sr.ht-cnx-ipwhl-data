@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/06/13/138dbe2f1226083b4612ee2e1c054c0d1d8d77b15d3fe7fb8767300ea6fc/wrapt-1.13.3-cp37-cp37m-macosx_10_9_x86_64.whl'
+content-id = 'QmSG4SxtcXm2jwNDHh5sShbgWyRngtEpuUjkJe33vaCArc'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
+extras = []
+dependencies = []

@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/00/ae/e8e88651721412ce1e981300a70aaaf88197149682ddd6a890e03ab49b25/wrapt-1.13.3-cp39-cp39-win_amd64.whl'
+content-id = 'QmcKxFKWxZcRLyonwJfADD9tx8izk12UnfWEZngBzvhLeR'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
+extras = []
+dependencies = []
