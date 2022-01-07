@@ -1,6 +1,0 @@
-source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/586186/e245dd9757fb5cc9/sphinx_bootstrap_theme-0.7.1-py3-none-any.whl'
-content-id = 'QmcrJDZrJxWAgNbCe5hagoXQrivLEFQg7cf8hWHYsjfjrV'
-extras = []
-dependencies = [
-	'setuptools',
-]
