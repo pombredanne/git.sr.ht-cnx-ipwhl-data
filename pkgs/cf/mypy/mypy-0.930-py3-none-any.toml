@@ -1,0 +1,12 @@
+source = 'https://files.pythonhosted.org/packages/1e/57/196ea2a730cc48fbeff9af4934f1f036c07cf7eb7b4e40a09226d8c51b31/mypy-0.930-py3-none-any.whl'
+content-id = 'QmVgPJsDA8vkThg84p6c5cdQBstNvnnpC2UgCRK8ZrQkew'
+requires-python = '>=3.6'
+extras = ['dmypy', 'python2']
+dependencies = [
+	'typing-extensions>=3.10',
+	'mypy-extensions>=0.4.3',
+	'tomli>=1.1.0',
+	'typed-ast<2,>=1.4.0; python_version < "3.8"',
+	'psutil>=4.0; extra == "dmypy"',
+	'typed-ast<2,>=1.4.0; extra == "python2"',
+]
