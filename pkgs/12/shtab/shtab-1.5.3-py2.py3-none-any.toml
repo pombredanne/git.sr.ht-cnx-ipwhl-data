@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/7d/f7/4907903b83a43d22416be36a03ebd04b778a051af69ae43271143b2317a3/shtab-1.5.3-py2.py3-none-any.whl'
+content-id = 'QmcLrqTwEhgKWpxwWFgY7xHuwP2k1gqQ6GjJugW5S6Skd9'
+requires-python = '>=3.2'
+extras = []
+dependencies = [
+	'argparse; "3.0" <= python_version and python_version < "3.2"',
+]
