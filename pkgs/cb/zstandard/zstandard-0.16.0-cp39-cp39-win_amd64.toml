@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/6d/02/27b994743748480726c406a1e9867fd4983b9677c08efc0120df59d3b1a3/zstandard-0.16.0-cp39-cp39-win_amd64.whl'
+content-id = 'QmPGQC82bqhn2M55Jf2HDw2Lv7SjE5NTHQAnMDT4CAau8h'
+requires-python = '>=3.6'
+extras = ['cffi']
+dependencies = [
+	'cffi>=1.11; platform_python_implementation == "PyPy"',
+	'cffi>=1.11; extra == "cffi"',
+]
