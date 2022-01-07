@@ -1,6 +1,6 @@
-source = 'https://files.pythonhosted.org/packages/29/e3/a1edb6bef52fd8d4cbe62cf2b6b444e7145edf89fae7ce9bffbfb92ae8b9/setuptools-59.3.0-py3-none-any.whl'
-content-id = 'QmWVRgq6bzRxTKBJtnft52uBmsDeSfuCJpVNEVcXzXfYiB'
-requires-python = '>=3.6'
+source = 'https://files.pythonhosted.org/packages/04/e0/2fb461b22be560d2a1f630346bfafde0029205484ccfc4f1046e79f599a3/setuptools-60.3.1-py3-none-any.whl'
+content-id = 'QmU5UAvHs3u3YK5ih4JaA7A6bETLrPNcX7UpoDSR1KfxPC'
+requires-python = '>=3.7'
 extras = [
 	'certs',
 	'ssl',
@@ -31,7 +31,7 @@ dependencies = [
 	'pip>=19.1; extra == "testing"',
 	'jaraco.envs>=2.2; extra == "testing"',
 	'pytest-xdist; extra == "testing"',
-	'sphinx; extra == "testing"',
+	'sphinx>=4.3.2; extra == "testing"',
 	'jaraco.path>=3.2.0; extra == "testing"',
 	'pytest-black>=0.3.7; platform_python_implementation != "PyPy" and extra == "testing"',
 	'pytest-mypy; platform_python_implementation != "PyPy" and extra == "testing"',
