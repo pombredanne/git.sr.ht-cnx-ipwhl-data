@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/65/f7/63bf697a7c7257d304269b49f1be3dfe429856889e93963d6f5790d77d82/tinycss2-1.1.0-py3-none-any.whl'
-content-id = 'QmSdp9HhRmGc5SsUerKoGSJRTCjbhPYw4A78goAJoK6Hjg'
+source = 'https://files.pythonhosted.org/packages/53/7b/5dba39bf0572f1f28e2844f08f74a73482a381de1d1feac3bbc6b808051e/tinycss2-1.1.1-py3-none-any.whl'
+content-id = 'QmYFaDUxD3pddDL1KwraDupfpLSukGmRMkNTyNQF8Fuc41'
 requires-python = '>=3.6'
 extras = ['doc', 'test']
 dependencies = [
