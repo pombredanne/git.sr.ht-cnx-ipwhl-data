@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/6d/01/7caa71608bc29952ae09b0be63a539e50d2484bc37747797a66a60679856/smmap-5.0.0-py3-none-any.whl'
+content-id = 'QmNx5Yud641QWYEVZJvbumTAu2oT5dMD1ynrn3dnBeGKbM'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
