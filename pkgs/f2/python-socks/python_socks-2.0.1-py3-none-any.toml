@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/6b/d1/7f714ac1b4fbfa684290f82b94b4ed4b968073452c3ad9a8b818be7add0c/python_socks-2.0.1-py3-none-any.whl'
+content-id = 'QmUNniKw1L31UcpBVh9zG4yQ6x1DZv2DktrWhsem8foQrs'
+extras = ['anyio', 'asyncio', 'curio', 'trio']
+dependencies = [
+	'anyio>=3.3.4; extra == "anyio"',
+	'async-timeout>=3.0.1; extra == "asyncio"',
+	'curio>=1.4; extra == "curio"',
+	'trio>=0.16.0; extra == "trio"',
+]
