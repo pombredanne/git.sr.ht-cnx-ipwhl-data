@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/a1/54/1fb089b979bd7e2e01edc09da98946791e28023d46fc2e3d57ed7987b700/watchdog-2.1.6-cp37-cp37m-macosx_10_9_x86_64.whl'
+content-id = 'QmWBXber5ez3jobhmtcruo5jeN9DfuRyZz8bHJVrZgLxe8'
+requires-python = '>=3.6'
+extras = ['watchmedo']
+dependencies = [
+	'PyYAML>=3.10; extra == "watchmedo"',
+]
