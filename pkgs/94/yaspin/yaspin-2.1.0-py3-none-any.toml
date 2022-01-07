@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/ce/ed/1ae83648729025952b483046d5164fc91625703899707655406db76ce671/yaspin-2.1.0-py3-none-any.whl'
+content-id = 'QmZ5qMZyUFtViG7aR6FqGGo81mBvEcmvNHkVopAJeiDz4A'
+requires-python = '<4.0.0,>=3.6.2'
+extras = []
+dependencies = [
+	'dataclasses<0.9,>=0.8; python_version >= "3.6" and python_version < "3.7"',
+	'termcolor<2.0.0,>=1.1.0',
+]
