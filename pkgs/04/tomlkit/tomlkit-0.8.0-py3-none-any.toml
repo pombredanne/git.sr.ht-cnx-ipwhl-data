@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/2d/36/b17811aa7c17609eaa68a91e15e6b2e56bf4d5d5a3c43d53c2b46728e6b2/tomlkit-0.8.0-py3-none-any.whl'
+content-id = 'QmW7MVf2B4DYLBahCLMnje6WrRfodHokexoZHfZPQNTxj8'
+requires-python = '<4.0,>=3.6'
+extras = []
+dependencies = []
