@@ -1,0 +1,22 @@
+source = 'https://files.pythonhosted.org/packages/52/c5/df7953fe6065185af5956265e3b16f13c2826c2b1ba23d43154f3af453bc/zipp-3.7.0-py3-none-any.whl'
+content-id = 'QmTHVuBJgjr9iY58FxDog3jEz1F6TH4cnp1iHEJTgghoC3'
+requires-python = '>=3.7'
+extras = [
+	'docs',
+	# FIXME: re-add when dependency resolved
+	# 'testing'
+]
+dependencies = [
+	'sphinx; extra == "docs"',
+	'jaraco.packaging>=8.2; extra == "docs"',
+	'rst.linker>=1.9; extra == "docs"',
+	'pytest>=6; extra == "testing"',
+	'pytest-checkdocs>=2.4; extra == "testing"',
+	'pytest-flake8; extra == "testing"',
+	'pytest-cov; extra == "testing"',
+	'pytest-enabler>=1.0.1; extra == "testing"',
+	'jaraco.itertools; extra == "testing"',
+	'func-timeout; extra == "testing"',
+	'pytest-black>=0.3.7; platform_python_implementation != "PyPy" and extra == "testing"',
+	'pytest-mypy; platform_python_implementation != "PyPy" and extra == "testing"',
+]
