@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/ac/8a/05e8d8a3ac88a3c4ebec1fe2b1b4730e6e6ebdddb52cfd6cea6803de4624/virtualenv-20.10.0-py2.py3-none-any.whl'
-content-id = 'Qmb8VwX7pAYVQHHY9BPGcChbhhbZKbEcHktrinFQfRh2y2'
+source = 'https://files.pythonhosted.org/packages/ef/a1/4e1700f25211b3851e6be6675061e0c8eae7585d80177a40e9b02d1105d8/virtualenv-20.13.0-py2.py3-none-any.whl'
+content-id = 'QmUsog89aQgYioAarU6ZgmdKfNXy9AyBAZKW5avZ94qaFk'
 requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
 extras = [
 	'testing',
@@ -7,7 +7,6 @@ extras = [
 	# 'docs',
 ]
 dependencies = [
-	'backports.entry-points-selectable>=1.0.4',
 	'distlib<1,>=0.3.1',
 	'filelock<4,>=3.2',
 	'platformdirs<3,>=2',
