@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/e0/24/9abac7eeab2344756148d5909aba8179d84ed7f95683ca86f0fc6a79811a/yarl-1.7.2-cp38-cp38-macosx_10_9_universal2.whl'
+content-id = 'Qmc8cEkC8yxWgmpLsY7UX8TJjhcVv3c8BVc17LqU4PpjRD'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'multidict>=4.0',
+	'idna>=2.0',
+	'typing-extensions>=3.7.4; python_version < "3.8"',
+]

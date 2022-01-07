@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/aa/a6/a4ddcb1c3d93fc5d77a19b1ec338a3efec65b44345168d8ac9bf8461224a/yarl-1.7.2-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl'
+content-id = 'QmTkxc9AbVnjP2EzZwoNRbV7zA6GU45RjXj15kQmshBbRb'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'multidict>=4.0',
+	'idna>=2.0',
+	'typing-extensions>=3.7.4; python_version < "3.8"',
+]

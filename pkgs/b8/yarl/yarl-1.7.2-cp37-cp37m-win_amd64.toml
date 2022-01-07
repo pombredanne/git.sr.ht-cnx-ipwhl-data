@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/79/f1/4679ba7965fa10fc5583d762fe1eabb68ba0e2344940f5c766c53ed09fcd/yarl-1.7.2-cp37-cp37m-win_amd64.whl'
+content-id = 'QmTgRuV4f3TSkzkR4Uv6QgLZKV5hqvp1Nog16Er83exueF'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'multidict>=4.0',
+	'idna>=2.0',
+	'typing-extensions>=3.7.4; python_version < "3.8"',
+]
