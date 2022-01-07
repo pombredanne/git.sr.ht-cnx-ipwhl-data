@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/eb/73/3eaab547ca809754e67e06871cff0fc962bafd4b604e15f31896a0f94431/pytz_deprecation_shim-0.1.0.post0-py2.py3-none-any.whl'
+content-id = 'QmUpB3QMfe11q2Wu5bbbeqe6M5BoTj1LkpexcRqMNWzQ9E'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*,>=2.7'
+extras = []
+dependencies = [
+	'python-dateutil; python_version < "3.6"',
+	'tzdata; python_version >= "3.6"',
+	'backports.zoneinfo; python_version >= "3.6" and python_version < "3.9"',
+]
