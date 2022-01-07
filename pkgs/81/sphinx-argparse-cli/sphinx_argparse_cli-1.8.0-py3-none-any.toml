@@ -1,9 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/e2/8e/f4bcd07646d0b29736f973c70ac3d769cd047a603e43f37fe82e78a51b30/sphinx_argparse_cli-1.8.0-py3-none-any.whl'
-content-id = 'QmcF7eQAKX2pkx56gwrJrUF1LMvXCMqu4oCJoLJPX5rQLG'
-requires-python = '>=3.7'
-extras = ['test']
-dependencies = [
-	'sphinx>=3',
-	'pytest>=4; extra == "test"',
-	'pytest-cov>=2.7; extra == "test"',
-]
