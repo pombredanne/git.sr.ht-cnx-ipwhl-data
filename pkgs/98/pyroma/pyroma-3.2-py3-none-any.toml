@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/13/ca/aa6929f1e7d786ce5e402d8b1bedc8ee58872fe911354ddc6198b36a430d/pyroma-3.2-py3-none-any.whl'
+content-id = 'QmUv7gs9vi2WhWu8THhB3pqH2A8LdZzuBMYxxuqEguioxB'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'docutils',
+	'pygments',
+	'requests',
+	'setuptools',
+]
