@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/11/75/86ea47591cd6f8e1dc0d795f65799025f368f7a4647ce9a43320a62374d8/Sphinx-4.1.2-py3-none-any.whl'
-content-id = 'QmbJmYK5kSY97GSYoBmG4PsutakEVsjE18KnxYDaNru65i'
+source = 'https://files.pythonhosted.org/packages/30/30/065cac95f6b55edf93756b5478a416b4d727480e901e94c2575e9ea38d99/Sphinx-4.3.2-py3-none-any.whl'
+content-id = 'QmTEYwtWCV297WB5M9muMbV9EiBgDvsM4T9oorafyZudk4'
 requires-python = '>=3.6'
 extras = ['docs', 'lint', 'test']
 dependencies = [
@@ -23,7 +23,7 @@ dependencies = [
 	'sphinxcontrib-websupport; extra == "docs"',
 	'flake8>=3.5.0; extra == "lint"',
 	'isort; extra == "lint"',
-	'mypy>=0.900; extra == "lint"',
+	'mypy>=0.920; extra == "lint"',
 	'docutils-stubs; extra == "lint"',
 	'types-typed-ast; extra == "lint"',
 	'types-pkg-resources; extra == "lint"',
