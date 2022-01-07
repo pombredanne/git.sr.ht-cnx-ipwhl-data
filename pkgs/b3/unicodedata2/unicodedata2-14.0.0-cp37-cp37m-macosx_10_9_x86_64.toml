@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/be/c5/cb9e03108f351898b223032847583b4db8aa35a90137d5e44a240958d990/unicodedata2-14.0.0-cp37-cp37m-macosx_10_9_x86_64.whl'
+content-id = 'QmcNJArmZ5tMn22ZNHnycvhSBf1z4U6fxqypSg8UTnuAh7'
+extras = ['testing']
+dependencies = [
+	'pytest; extra == "testing"',
+	'coverage; extra == "testing"',
+	'pytest-xdist; extra == "testing"',
+	'pytest-randomly; extra == "testing"',
+]

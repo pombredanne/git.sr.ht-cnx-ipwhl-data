@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/6c/25/bd2665c05b39eb57277cd2003e7a15a0452241125cc7d5de5c068f759a76/unicodedata2-14.0.0-cp39-cp39-win_amd64.whl'
+content-id = 'QmPoeNfzj4YdRULZkVmXENnFNe4PpT4MWpfYMAemHwK9pp'
+extras = ['testing']
+dependencies = [
+	'pytest; extra == "testing"',
+	'coverage; extra == "testing"',
+	'pytest-xdist; extra == "testing"',
+	'pytest-randomly; extra == "testing"',
+]

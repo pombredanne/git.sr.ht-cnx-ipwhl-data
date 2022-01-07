@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/4e/02/1d00ca6568d9a0a3ce0b56b4e9213684cbb56c8c1edd2c6902aa8871bf17/unicodedata2-14.0.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl'
+content-id = 'QmUUrANLvXu4PM1CoCa1Ddc7s7bCdttCEKiVz8JQAnSDUD'
+extras = ['testing']
+dependencies = [
+	'pytest; extra == "testing"',
+	'coverage; extra == "testing"',
+	'pytest-xdist; extra == "testing"',
+	'pytest-randomly; extra == "testing"',
+]
