@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/5f/64/43575537846896abac0b15c3e5ac678d787a4021e906703f1766bfb8ea11/urllib3-1.26.6-py2.py3-none-any.whl'
-content-id = 'QmQkVPV7yrksGoFCDgWRWJY5yxXwrZhmGd4ara9mRoixLr'
+source = 'https://files.pythonhosted.org/packages/af/f4/524415c0744552cce7d8bf3669af78e8a069514405ea4fcbd0cc44733744/urllib3-1.26.7-py2.py3-none-any.whl'
+content-id = 'QmRWRzTURE1Va6cdq1dLjssjp8gtm9D9oTgrq3kzqkk8FQ'
 requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,<4,>=2.7'
 extras = ['brotli', 'secure', 'socks']
 dependencies = [
