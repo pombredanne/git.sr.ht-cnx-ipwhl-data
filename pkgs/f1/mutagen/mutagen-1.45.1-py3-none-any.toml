@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/16/b3/f7aa8edf2ff4495116f95fd442b2a346aa55d1d46313143c8814886dbcdb/mutagen-1.45.1-py3-none-any.whl'
+content-id = 'QmUkwG9q8kHf8pV8iJPFT2UAyFUJU3AhDtnr8p5uRKR2hU'
+requires-python = '<4,>=3.5'
+extras = []
+dependencies = []
