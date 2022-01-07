@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/50/9d/7fd15b645c7eec20c6fe85b392ae296ccd893fec8179645dc81d0bae4ad8/sphinxcontrib_spelling-7.2.1-py3-none-any.whl'
-content-id = 'QmVRhF3i9XdS1GiKZybHREx8BRoZQNPAZ8g9jLdyjokmBs'
+source = 'https://files.pythonhosted.org/packages/91/22/344c675ca8cbe0f1621d3e15e190b3782c735f2c0cec700bdc8d6418f0c9/sphinxcontrib_spelling-7.3.2-py3-none-any.whl'
+content-id = 'Qmcz5VAe9fxLNk25Dz8iX1fgKUvySZPdCRfc7XmLWe69Wp'
 requires-python = '>=3.6'
 extras = ['test']
 dependencies = [
