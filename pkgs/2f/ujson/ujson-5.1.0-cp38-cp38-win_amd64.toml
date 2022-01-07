@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/3b/d0/588d65017eeef821294b56da57643405b68fdddd3606d1ef39709349262d/ujson-5.1.0-cp38-cp38-win_amd64.whl'
+content-id = 'QmXcRDWRimj1YDkta7MpYsZbavRxNb8kv4iHfHHwY4HVxY'
+requires-python = '>=3.7'
+extras = []
+dependencies = []

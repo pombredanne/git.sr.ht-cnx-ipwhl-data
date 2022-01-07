@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/30/e5/f74e053d28b585457374d2796a86109ab96430d6d1d3fd335d76290d75ff/ujson-5.1.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl'
+content-id = 'QmTp54uBCgNjp6DjREDaMUTgHJyGDghsrVL1jjv88TnmW7'
+requires-python = '>=3.7'
+extras = []
+dependencies = []

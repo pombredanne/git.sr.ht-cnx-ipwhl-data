@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/32/5e/af834e7074e5dc366296db39801cc71a49229b752b0f8c2d73ab3daba0f8/ujson-5.1.0-cp39-cp39-macosx_10_9_x86_64.whl'
+content-id = 'QmTcTwMkk4FnD5JvB4CAiaUV5SooEiBxUPCrqPZrruzq5K'
+requires-python = '>=3.7'
+extras = []
+dependencies = []
