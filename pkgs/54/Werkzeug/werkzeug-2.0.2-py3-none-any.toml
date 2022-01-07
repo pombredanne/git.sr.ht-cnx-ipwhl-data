@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/1e/73/51137805d1b8d97367a8a77cae4a792af14bb7ce58fbd071af294c740cf0/Werkzeug-2.0.2-py3-none-any.whl'
+content-id = 'QmXf4UvaCJyfg2GrbaqozYiDxc1THkwJqAmME6oM4Hyce7'
+requires-python = '>=3.6'
+extras = ['watchdog']
+dependencies = [
+	'dataclasses; python_version < "3.7"',
+	'watchdog; extra == "watchdog"',
+]
