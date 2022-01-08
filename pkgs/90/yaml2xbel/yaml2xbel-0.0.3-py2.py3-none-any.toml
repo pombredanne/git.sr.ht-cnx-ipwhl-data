@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/df/1b/fe9552f2813d7eae3a1374668996e5a6c16c635809d281be826ce0cdf7b1/yaml2xbel-0.0.3-py2.py3-none-any.whl'
+content-id = 'QmQC46pxTva2ATg91SiKJgfKgXNzzwQNYKWWARwjxneC3A'
+extras = []
+dependencies = [
+	'pyyaml',
+]
