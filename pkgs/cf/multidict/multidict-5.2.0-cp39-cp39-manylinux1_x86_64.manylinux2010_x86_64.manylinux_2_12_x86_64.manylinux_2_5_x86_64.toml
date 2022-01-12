@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/51/e3/dc667b9fc5d6bfde185b3a6d8788279f897090cefb808dda8e6ff8e7dbeb/multidict-5.2.0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl'
+content-id = 'QmVeBeFtVvaxBCFhniCiKrxM6dWUQT7TktHUmdQ3swjpd3'
+requires-python = '>=3.6'
+extras = []
+dependencies = []

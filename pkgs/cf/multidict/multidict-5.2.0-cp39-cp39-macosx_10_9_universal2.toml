@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/b9/04/71761a9eebaec0c0915d8e600fa19ad0e934e3310b5375a438024e353914/multidict-5.2.0-cp39-cp39-macosx_10_9_universal2.whl'
+content-id = 'QmYa9B1w3MMF4RcCR1cupAisTa5B8ZZmySmMgsmoiDi9PC'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
