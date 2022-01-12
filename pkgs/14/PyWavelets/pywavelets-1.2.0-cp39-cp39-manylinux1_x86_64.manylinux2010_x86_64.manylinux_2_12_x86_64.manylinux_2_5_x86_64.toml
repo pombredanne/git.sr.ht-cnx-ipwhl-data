@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/01/7b/7759b36daf466ee7dfbbb913a3ad5c9f5315a2bb6bdbb955203c727eab36/PyWavelets-1.2.0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl'
+content-id = 'Qmb4FdbsxQmZmn4Ni3mVGjcGLV7XaE3MiYRwMipPdM3VVj'
+requires-python = '>=3.7'
+extras = []
+dependencies = [
+	'numpy>=1.17.3',
+]
