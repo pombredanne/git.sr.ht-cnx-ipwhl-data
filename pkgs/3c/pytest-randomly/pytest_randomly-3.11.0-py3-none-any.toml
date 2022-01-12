@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/f5/ee/f37335066a2f92ece7f4b5231c6316c1ba08c5cb51774bbe30bc7701dcbe/pytest_randomly-3.11.0-py3-none-any.whl'
+content-id = 'QmNnSH16SdsaLjv1mkYgRkwdJxgEtdPp6XkGtcqiwhDMVm'
+requires-python = '>=3.7'
+extras = []
+dependencies = [
+	'pytest',
+	'importlib-metadata>=3.6.0; python_version < "3.10"',
+]
