@@ -1,11 +1,11 @@
-source = 'https://files.pythonhosted.org/packages/ba/4d/f3a0282c01f300bdea95b37c701d066973e7441f8a9d5d95481b33afeb7d/asyncpg-0.24.0-cp38-cp38-win_amd64.whl'
-content-id = 'QmenWqajTpTHc6gmYK3rda2298armHD3swJcYiNM112jjY'
+source = 'https://files.pythonhosted.org/packages/d4/5e/291adf1e94c5e4a3cff6ae5f6360dcdcb2ec122f95660de1cb363b040fdd/asyncpg-0.25.0-cp37-cp37m-macosx_10_9_x86_64.whl'
+content-id = 'QmTwQzp24mByVSoZvxB9gWAGGmEud4bfJr6NYrrQ58kcoS'
 requires-python = '>=3.6.0'
 extras = [
-	# Ignore development extras
+	# Ignore development extra
 	# 'dev',
 	# 'docs',
-	'test',
+	'test'
 ]
 dependencies = [
 	'typing-extensions>=3.7.4.3; python_version < "3.8"',

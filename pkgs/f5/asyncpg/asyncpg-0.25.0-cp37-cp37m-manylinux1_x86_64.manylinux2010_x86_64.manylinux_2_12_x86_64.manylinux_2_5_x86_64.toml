@@ -1,11 +1,11 @@
-source = 'https://files.pythonhosted.org/packages/ea/fe/d7083bef979ac5e0a27f7c432f36d166d40b76141caddddd8a3a2e0798bc/asyncpg-0.24.0-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl'
-content-id = 'Qmb4X3c8FapQwN3nwmTHoVKvvmFL3h138x9hCE3TKq6gVf'
+source = 'https://files.pythonhosted.org/packages/f9/42/9cbf53fc841a483a56acb460930e1f961253632b5e3089b61630d862b16e/asyncpg-0.25.0-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl'
+content-id = 'Qmb22hUELE5KzwmoCxHUmqGpMFhAmRb8QkarkkxmhYopuR'
 requires-python = '>=3.6.0'
 extras = [
-	# Ignore development extras
+	# Ignore development extra
 	# 'dev',
 	# 'docs',
-	'test',
+	'test'
 ]
 dependencies = [
 	'typing-extensions>=3.7.4.3; python_version < "3.8"',
