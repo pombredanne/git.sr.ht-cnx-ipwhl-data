@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/66/33/f4abd24fd9c2bee57aca48c18057c9cee09f3a29f94148ddbe51e2864ede/ruamel.std.pathlib-0.9.0-py2.py3-none-any.whl'
+content-id = 'QmQcFvkuARDtdFfHnxeGhr5LmdS8AnG2mgk6CMNtJfb1pw'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
