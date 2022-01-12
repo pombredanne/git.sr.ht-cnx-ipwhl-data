@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/b9/23/8c13a8973f5f695577f396fc2a6a920d00e91727bff173c48d03d1732a78/scipy-1.7.3-cp38-cp38-win_amd64.whl'
+content-id = 'QmTYYeRcxvdRPe7LjiqgeDrAhtgDoU4qHBvkns5oy535Z8'
+requires-python = '<3.11,>=3.7'
+extras = []
+dependencies = [
+	'numpy<1.23.0,>=1.16.5',
+]

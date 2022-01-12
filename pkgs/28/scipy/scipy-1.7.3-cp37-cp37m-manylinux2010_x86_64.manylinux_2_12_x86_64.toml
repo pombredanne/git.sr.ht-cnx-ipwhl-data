@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/58/4f/11f34cfc57ead25752a7992b069c36f5d18421958ebd6466ecd849aeaf86/scipy-1.7.3-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl'
+content-id = 'QmYJDrPWzGyN33Vj3qQ5aJJjxBU6NpFwCQSGm56DuGLSdF'
+requires-python = '<3.11,>=3.7'
+extras = []
+dependencies = [
+	'numpy<1.23.0,>=1.16.5',
+]

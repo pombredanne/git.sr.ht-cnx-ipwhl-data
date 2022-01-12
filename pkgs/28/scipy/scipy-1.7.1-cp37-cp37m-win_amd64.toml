@@ -1,7 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/0c/d2/17323a97b33951ee8d74f0f416e5b446dc5f57cb2de659ee09e72e7f4b55/scipy-1.7.1-cp37-cp37m-win_amd64.whl'
-content-id = 'QmZQZqK1kgDW1ukjUNgBigPVBwHQmvZL7XuEmKRg2EB5kK'
-requires-python = '<3.10,>=3.7'
-extras = []
-dependencies = [
-	'numpy<1.23.0,>=1.16.5',
-]
