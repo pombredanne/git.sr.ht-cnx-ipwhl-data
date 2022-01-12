@@ -1,7 +1,0 @@
-source = 'https://patchouli.sr.ht/builds.sr.ht/artifacts/~huyngo/599008/53ce95d9d59c0598/hunter-0.1.dev1+dirty-cp37-cp37m-macosx_10_9_x86_64.whl'
-content-id = 'QmV19tn7hV3V96vaXg7TYDc7BNd6FguiPvGaGH1PddTXzj'
-requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7'
-extras = []
-dependencies = [
-	'manhole>=1.5; platform_system != "Windows"',
-]

@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/36/5c/c50384c78fa4a47c34f3bc11e26bbbb5de6d18473099af2e733d3928bb5f/hunter-3.4.3-cp39-cp39-macosx_10_9_x86_64.whl'
+content-id = 'QmNpwiu6kVhsRSxzfy5e7dXvs41EBDtQkmXvZ6jDko5nuk'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'manhole>=1.5; platform_system != "Windows"',
+]

@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/21/a5/3022b062dbedba1975a850fb4806b77f0736d89f716923c0fcfdd4d761d1/hunter-3.4.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl'
+content-id = 'QmUjX5YhkPFYpvMBUu7RFcy6sJGaMSmHjptzgsZn8TGwQc'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'manhole>=1.5; platform_system != "Windows"',
+]
