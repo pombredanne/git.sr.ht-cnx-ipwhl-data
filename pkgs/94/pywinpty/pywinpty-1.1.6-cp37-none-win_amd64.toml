@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/31/54/b05c103bfd9f67e70c5d775b50f99ad550a7cdf603396eb3cef65321bb49/pywinpty-1.1.6-cp37-none-win_amd64.whl'
+content-id = 'QmQKGp6mC977RJoXKZTswcjMV64vP6987Lmm3XeCydtino'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
