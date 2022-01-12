@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/5d/2e/f027f421f8cda36ec382dac06bc960d89225766b8d90cc801061ef6a5f68/pyobjc_core-8.1-cp39-cp39-macosx_10_9_universal2.whl'
+content-id = 'QmaBSrvL3rHZKrpzLJc7GVX1vfqehq3GYNXVyuE31iLUzQ'
+requires-python = '>=3.6'
+extras = []
+dependencies = []

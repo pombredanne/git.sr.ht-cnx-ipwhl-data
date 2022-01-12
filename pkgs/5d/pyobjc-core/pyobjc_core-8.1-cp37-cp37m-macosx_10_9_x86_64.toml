@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/0e/ff/afd2f8fe7bb4b217f716970c9d034e56d5711b3de738b865e4791d9e1297/pyobjc_core-8.1-cp37-cp37m-macosx_10_9_x86_64.whl'
+content-id = 'Qmf1VeZmCfbEu69UMvZA7QEARirSBGu9ZpubaZEmWqiyGP'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
