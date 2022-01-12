@@ -1,0 +1,17 @@
+source = 'https://files.pythonhosted.org/packages/c7/4f/154ccb493f76514a158b881c7c4995c8529b7d041612801eba633c2581bf/pandas-1.3.5-cp38-cp38-macosx_10_9_x86_64.whl'
+content-id = 'QmaGqBDip8md66v5KrkP8vWJGUiCiVRWRt7qTBuKDQKz6F'
+requires-python = '>=3.7.1'
+extras = [
+	# 'test' #FIXME: re-add when package hypothesis
+]
+dependencies = [
+	'python-dateutil>=2.7.3',
+	'pytz>=2017.3',
+	'numpy>=1.17.3; platform_machine != "aarch64" and platform_machine != "arm64" and python_version < "3.10"',
+	'numpy>=1.19.2; platform_machine == "aarch64" and python_version < "3.10"',
+	'numpy>=1.20.0; platform_machine == "arm64" and python_version < "3.10"',
+	'numpy>=1.21.0; python_version >= "3.10"',
+	'hypothesis>=3.58; extra == "test"',
+	'pytest>=6.0; extra == "test"',
+	'pytest-xdist; extra == "test"',
+]
