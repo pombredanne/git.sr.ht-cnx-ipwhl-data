@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/0e/f1/0317f4b2c5284075a2154fe95539b43c0acecbcb86fe80fcb2645803edd9/python_dotenv-0.19.2-py2.py3-none-any.whl'
+content-id = 'QmaSkQWAV8Hhjg2dR5f6DzbYdGwbC2YiQgTXFvHc1popY7'
+requires-python = '>=3.5'
+extras = ['cli']
+dependencies = [
+	'click>=5.0; extra == "cli"',
+]
