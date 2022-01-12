@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/dd/7b/dd07e2f2553d8e19741d744179aa790b623abfc787a6d0f8a5f22683654a/pytest_timeout-2.0.2-py3-none-any.whl'
+content-id = 'QmQuGBY4aewY9SL8TeP37oEYq9gLqMd2D22CED6woD2taT'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'pytest>=5.0.0',
+]
