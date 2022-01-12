@@ -1,5 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/92/56/5005c13251da910edaa9768840c6dd6a68df45b69f3d026bc43ab1a79f4b/numpy-1.21.2-cp38-cp38-macosx_10_9_x86_64.whl'
-content-id = 'QmS2ZW1a8zcHGRmoWwneZweEJWgNNzmcPJw7PhbLj1eZUv'
-requires-python = '<3.11,>=3.7'
-extras = []
-dependencies = []

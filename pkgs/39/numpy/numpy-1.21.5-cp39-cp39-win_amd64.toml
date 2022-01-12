@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/af/df/fe31e3518f7f6a90a387a2f643344a8cde8cbf84767a5a9a404ff2638dcd/numpy-1.21.5-cp39-cp39-win_amd64.whl'
+content-id = 'QmYpZqCPWX7MZWApvesNf5c3BxZmAJZ5udBQUAQKMb8SwC'
+requires-python = '<3.11,>=3.7'
+extras = []
+dependencies = []
