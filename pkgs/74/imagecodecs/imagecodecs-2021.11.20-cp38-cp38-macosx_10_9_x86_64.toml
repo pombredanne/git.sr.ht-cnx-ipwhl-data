@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/12/f0/1831252a15b22439905277f56c96a795e0cea34e8e398be016968b2aa4b7/imagecodecs-2021.11.20-cp38-cp38-macosx_10_9_x86_64.whl'
+content-id = 'QmYGycXYnhWKW2PrMtk48T9tWjUryd2BJRDrZu1cJUdsUw'
+requires-python = '>=3.7'
+extras = ['all']
+dependencies = [
+	'numpy>=1.16.5',
+	'matplotlib>=3.2; extra == "all"',
+	'tifffile>=2021.1.11; extra == "all"',
+	'numcodecs; extra == "all"',
+]
