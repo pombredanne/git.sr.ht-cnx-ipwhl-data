@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/73/25/03d48691bd2f99637856ce5378dac64acb0d1061be136186530f70afcfac/jaraco.context-4.0.0-py3-none-any.whl'
-content-id = 'QmZbdR1BeyhUsciMwz5SuC8kc1JUh7xTzVJA4jda1dPZaw'
+source = 'https://files.pythonhosted.org/packages/c7/bb/754558c2182e0545856a9a9c12a05645abfac64db42e042cfbf60d4c94b7/jaraco.context-4.1.1-py3-none-any.whl'
+content-id = 'Qmc8HDSt3Hzv29EJTvLPxyzs4cZJQwAA5VE4qvoYCbpjit'
 requires-python = '>=3.6'
 extras = [
 	'docs',
@@ -10,11 +10,11 @@ dependencies = [
 	'sphinx; extra == "docs"',
 	'jaraco.packaging>=8.2; extra == "docs"',
 	'rst.linker>=1.9; extra == "docs"',
-	'pytest!=3.7.3,>=3.5; extra == "testing"',
-	'pytest-checkdocs>=1.2.3; extra == "testing"',
+	'pytest>=6; extra == "testing"',
+	'pytest-checkdocs>=2.4; extra == "testing"',
 	'pytest-flake8; extra == "testing"',
 	'pytest-cov; extra == "testing"',
-	'pytest-enabler; extra == "testing"',
+	'pytest-enabler>=1.0.1; extra == "testing"',
 	'pytest-black>=0.3.7; platform_python_implementation != "PyPy" and extra == "testing"',
 	'pytest-mypy; platform_python_implementation != "PyPy" and extra == "testing"',
 ]
