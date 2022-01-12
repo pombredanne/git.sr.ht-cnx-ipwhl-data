@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/61/08/2b64bc9c9807e9f996f9562f43d6737cf5a5ecc5be2081a13fe50b9479c0/lazy_object_proxy-1.7.1-cp39-cp39-macosx_10_9_x86_64.whl'
+content-id = 'QmWFgmKMJoG2RJbEaMAdFMdqsJrecAGQYVqyZuyQX4wdeU'
+requires-python = '>=3.6'
+extras = []
+dependencies = []
