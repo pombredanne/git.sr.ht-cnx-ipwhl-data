@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/86/43/7d63686a63499116dc421b00dd74db35ce8ad7730fda03a08b516023844c/sqlalchemy2_stubs-0.0.2a19-py3-none-any.whl'
+content-id = 'QmSpgzYPqjdkqKNbcvmmGZdGsFzeKuszoGMJWmT8wWsWKL'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'typing-extensions>=3.7.4',
+]
