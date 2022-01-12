@@ -1,0 +1,22 @@
+source = 'https://files.pythonhosted.org/packages/76/7b/28630e82d4972884a5c140be82d02827455e9376c081eab31fa1d1280328/pytest_regressions-2.3.0-py3-none-any.whl'
+content-id = 'QmWLQqjWDH7hWNNbJJHDiRNCMZ9gtYMs3FuhmNBS5CMgd5'
+requires-python = '>=3.6'
+extras = ['dataframe', 'dev', 'image', 'num']
+dependencies = [
+	'pytest-datadir>=1.2.0',
+	'pytest>=3.5.0',
+	'pyyaml',
+	'numpy; extra == "dataframe"',
+	'pandas; extra == "dataframe"',
+	'matplotlib; extra == "dev"',
+	'numpy; extra == "dev"',
+	'pandas; extra == "dev"',
+	'pillow; extra == "dev"',
+	'pre-commit; extra == "dev"',
+	'restructuredtext-lint; extra == "dev"',
+	'tox; extra == "dev"',
+	'pillow; extra == "image"',
+	'numpy; extra == "image"',
+	'numpy; extra == "num"',
+	'pandas; extra == "num"',
+]
