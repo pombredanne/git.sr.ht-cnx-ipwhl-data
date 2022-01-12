@@ -1,7 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/3a/ee/7c3c01a5e84184079214793322e2f09de75700261ec7a5e6084d522548e0/identify-2.4.1-py2.py3-none-any.whl'
-content-id = 'QmZo76Gd72BQ4rfAeXTipu3wXAiEBMMxccS2mqtTZFJuQx'
-requires-python = '>=3.6.1'
-extras = ['license']
-dependencies = [
-	'ukkonen; extra == "license"',
-]
