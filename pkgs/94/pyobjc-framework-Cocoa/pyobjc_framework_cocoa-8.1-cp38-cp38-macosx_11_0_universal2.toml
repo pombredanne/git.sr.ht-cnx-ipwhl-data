@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/e0/ff/65c3b9c93a984c7dcca7802b9b4ad8d2f1b94c6cc431a967d72f84afbe5e/pyobjc_framework_Cocoa-8.1-cp38-cp38-macosx_11_0_universal2.whl'
+content-id = 'QmabwDgZTEWLPjR5QNE9M4UvPokGrbMWTQZfsjro8XDonq'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'pyobjc-core>=8.1',
+]
