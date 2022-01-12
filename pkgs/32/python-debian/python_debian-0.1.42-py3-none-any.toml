@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/c4/22/26bc493c5f7e9bf1eedfe7d67c8fcb1d7ec39f2c6366c6649fbde97a73eb/python_debian-0.1.42-py3-none-any.whl'
+content-id = 'QmeaDfNHGuBsyMbLKjXpEhByQe29ao5dxdKpBJAQBTwcr3'
+requires-python = '>=3.3'
+extras = []
+dependencies = [
+	'chardet',
+]
