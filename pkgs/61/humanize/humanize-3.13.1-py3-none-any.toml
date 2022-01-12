@@ -1,0 +1,10 @@
+source = 'https://files.pythonhosted.org/packages/46/a8/74f8bf12c7d93bb2e111d13bae198996032d9a53dbbfc3bf4837a466cbe9/humanize-3.13.1-py3-none-any.whl'
+content-id = 'QmZNarQ262pwKWCEtNXo3BQRFxFdXagbmgWbwQwurW9mCo'
+requires-python = '>=3.6'
+extras = ['tests']
+dependencies = [
+	'importlib-metadata; python_version < "3.8"',
+	'freezegun; extra == "tests"',
+	'pytest; extra == "tests"',
+	'pytest-cov; extra == "tests"',
+]
