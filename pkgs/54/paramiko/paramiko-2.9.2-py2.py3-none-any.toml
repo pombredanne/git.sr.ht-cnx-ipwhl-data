@@ -1,5 +1,5 @@
-source = 'https://files.pythonhosted.org/packages/23/36/7e219b09acb1a2ee101fe24ba89495cb81e7ee3362f0d0d89e9640bd35ec/paramiko-2.9.1-py2.py3-none-any.whl'
-content-id = 'QmSxt9EPVvdp2DvzRvPNPk4VryDgZQVKytx3Jc4WX2xfLL'
+source = 'https://files.pythonhosted.org/packages/60/3e/84c52fb09db84548c5d366bac8863125c6db099b87495e04c8af5527e6f1/paramiko-2.9.2-py2.py3-none-any.whl'
+content-id = 'QmUFSJkrSxLrmrVXUpkyY5weojyTSYDFx9fAQH83kMCVz2'
 extras = ['all', 'ed25519', 'gssapi', 'invoke']
 dependencies = [
 	'bcrypt>=3.1.3',
