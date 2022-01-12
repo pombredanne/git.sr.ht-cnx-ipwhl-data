@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/05/40/d836d55fb3f467243ee839ab7b814822fda522cd395fa41e282684e71ee5/sqlparse-0.4.2-py3-none-any.whl'
+content-id = 'QmNgMtvbZoYbj97Vzfkm4d73TGe1W5a4VEnoVmMi9uDhYe'
+requires-python = '>=3.5'
+extras = []
+dependencies = []
