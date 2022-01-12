@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/52/eb/be456ac07754a2fd884ba105fcc6ed8d375869988282e18705fa966b8e14/h5py-3.6.0-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl'
+content-id = 'QmYwmBcnU26cA7kiPU1uWB5M4YM9BaH4mEtBqG1zywQVh9'
+requires-python = '>=3.7'
+extras = []
+dependencies = [
+	'numpy>=1.14.5',
+	'cached-property; python_version < "3.8"',
+]

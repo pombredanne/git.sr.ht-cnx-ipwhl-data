@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/aa/f4/ac94dab6d8178858a59e4faed0dc421efc02d347d09cf3e6ae55507e0cb4/h5py-3.6.0-cp39-cp39-win_amd64.whl'
+content-id = 'QmZPpEcWUXMJ4dwwnWZoHLHv1QRGWMaBfnPs5diUD1WYjN'
+requires-python = '>=3.7'
+extras = []
+dependencies = [
+	'numpy>=1.14.5',
+	'cached-property; python_version < "3.8"',
+]
