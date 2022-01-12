@@ -1,5 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/51/46/a37c6ac51b4eb3c9e965fc5d3120ccbd04344d4ad07a8aa1a5cfb2c8e8f0/simplejson-3.17.5-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl'
-content-id = 'QmXSjTiS1ShzGdHJxPV8fJGRQzL6FeuQjfDCoCwkvdLSwt'
-requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,>=2.5'
-extras = []
-dependencies = []

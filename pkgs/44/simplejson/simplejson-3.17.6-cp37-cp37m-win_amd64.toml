@@ -1,0 +1,5 @@
+source = 'https://files.pythonhosted.org/packages/3f/57/90ffb53ee34a1c4925092dd12ebbda8bba921b29f6c625bb7dcd5df08246/simplejson-3.17.6-cp37-cp37m-win_amd64.whl'
+content-id = 'QmaVjLutcDhFhzyD3jQWnhsRtsLa7XK1KPMSh5trQMwsqV'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,>=2.5'
+extras = []
+dependencies = []
