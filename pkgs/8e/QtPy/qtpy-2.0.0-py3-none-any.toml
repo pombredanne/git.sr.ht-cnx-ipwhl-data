@@ -1,0 +1,9 @@
+source = 'https://files.pythonhosted.org/packages/66/da/b1f7184b82eed20a76066aa0c8482eeababc816012836e47f24090c9f655/QtPy-2.0.0-py3-none-any.whl'
+content-id = 'QmZjj9Rb928Z67woRjE5jjhtGYhpS8ppgyv4qv6eMtynS6'
+requires-python = '>=3.6'
+extras = ['test']
+dependencies = [
+	'packaging',
+	'pytest<7.0,>=6.0.0; extra == "test"',
+	'pytest-cov>=2.11.0; extra == "test"',
+]
