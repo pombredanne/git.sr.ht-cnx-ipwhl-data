@@ -1,8 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/f1/0a/1edb5338ec01fb7e6fa487cb6ae3b52a9865a9a27b57f446821c31338bba/formbox-0.2.0-py3-none-any.whl'
-content-id = 'QmWZZVSf7S3VxFZkUAF2NjbR5jMnhxcvY7LeBtPwCbqy6r'
-requires-python = '>=3.6'
-extras = []
-dependencies = [
-	'bleach',
-	'markdown',
-]
