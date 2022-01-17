@@ -1,0 +1,11 @@
+source = 'https://files.pythonhosted.org/packages/0d/55/9cc42bfdffec8509e86ba7fa7b7a4e3a2625c5104e667b575b12da1effc0/retrolab-0.3.16-py3-none-any.whl'
+content-id = 'QmdEMsuuXQBZtqeNvrcb8Rxi5BSyTPTKer1igPmrw5NA5r'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'jupyterlab~=3.2',
+	'jupyterlab-server~=2.3',
+	'jupyter-server~=1.4',
+	'nbclassic~=0.2',
+	'tornado>=6.1.0',
+]
