@@ -1,0 +1,21 @@
+source = 'https://files.pythonhosted.org/packages/dd/a7/fd7f7e38647b3c1d8ae37bf8b21157662d84ebd0ebf5b64a607c7c77f676/jupyterlab_server-2.3.0-py3-none-any.whl'
+content-id = 'QmcMPpSKTP9sSEqghSYNNpey6DfW9vAt3WPUFV779ZKBLr'
+requires-python = '>=3.6'
+extras = ['test']
+dependencies = [
+	'babel',
+	'jinja2>=2.10',
+	'json5',
+	'jsonschema>=3.0.1',
+	'packaging',
+	'requests',
+	'jupyter-server~=1.4',
+	'codecov; extra == "test"',
+	'ipykernel; extra == "test"',
+	'pytest>=5.3.2; extra == "test"',
+	'pytest-cov; extra == "test"',
+	'jupyter-server[test]; extra == "test"',
+	'pytest-console-scripts; extra == "test"',
+	'strict-rfc3339; extra == "test"',
+	'wheel; extra == "test"',
+]
