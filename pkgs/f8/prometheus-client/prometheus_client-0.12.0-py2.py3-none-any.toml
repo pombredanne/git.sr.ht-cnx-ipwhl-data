@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/df/6c/6c5f9404977f8f9caa30c1a408f6cc5ea6e0c1949761f24d0a33239b49c5/prometheus_client-0.12.0-py2.py3-none-any.whl'
+content-id = 'QmW96gbHdgAzkXKgfuXBE2RwBuC1JsxnHvg9vxme78qvfh'
+requires-python = '!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7'
+extras = ['twisted']
+dependencies = [
+	'twisted; extra == "twisted"',
+]
