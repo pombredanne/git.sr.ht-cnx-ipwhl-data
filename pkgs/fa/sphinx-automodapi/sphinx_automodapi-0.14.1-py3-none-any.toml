@@ -1,0 +1,12 @@
+source = 'https://files.pythonhosted.org/packages/30/da/25d3dd4e5719c442c1920901129b445a28d5583022dabe7de39d69f6202c/sphinx_automodapi-0.14.1-py3-none-any.whl'
+content-id = 'QmZbXE3ywma4bzXK2oohwGx6WPGeqpKFKH7af935jTsudn'
+requires-python = '>=3.7'
+extras = ['test']
+dependencies = [
+	'sphinx>=2',
+	'pytest; extra == "test"',
+	'pytest-cov; extra == "test"',
+	'cython; extra == "test"',
+	'codecov; extra == "test"',
+	'coverage; extra == "test"',
+]
