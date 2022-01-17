@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/84/3b/b26d9daa15c2319e2df7158dc9597a36039a3ebf5aaeb51e2505eaddd645/pure_eval-0.2.1-py3-none-any.whl'
+content-id = 'QmQntDZFAsNCERYYNto4S5mxTBVrzCN8aAJDriQtZMEc1x'
+extras = ['tests']
+dependencies = [
+	'pytest; extra == "tests"',
+]
