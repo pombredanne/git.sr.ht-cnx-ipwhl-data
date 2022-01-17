@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/16/d5/b0ad240c22bba2f4591693b0ca43aae94fbd77fb1e2b107d54fff1462b6f/asttokens-2.0.5-py2.py3-none-any.whl'
+content-id = 'Qmd1FfbzgmKsyqck3PK6CYNXpaRBPwpT2BkhCui5BdNQUF'
+extras = ['test']
+dependencies = [
+	'six',
+	'astroid; extra == "test"',
+	'pytest; extra == "test"',
+]
