@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/a8/6f/c34288766797193b512c6508f5994b830fb06134fdc4ca8214daba0aa443/jupyterlab_pygments-0.1.2-py2.py3-none-any.whl'
+content-id = 'QmYTDTWH38YodyZU8Ar4VRrSPNY2qnuMjUd6SWennXoLnY'
+extras = []
+dependencies = [
+	'pygments<3,>=2.4.1',
+]
