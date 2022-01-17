@@ -1,0 +1,30 @@
+source = 'https://files.pythonhosted.org/packages/20/4b/d05f5338bb66ceb381caed570b644b2c807e409bdad29d8f9e2c5be01ce1/jupyter_server-1.13.3-py3-none-any.whl'
+content-id = 'QmZ25UpT4Qr7p5wXQHCUDhXXxP4Wbi7gLKYNaLsEAHXRAc'
+requires-python = '>=3.7'
+extras = ['test']
+dependencies = [
+	'jinja2',
+	'tornado>=6.1.0',
+	'pyzmq>=17',
+	'argon2-cffi',
+	'ipython-genutils',
+	'traitlets>=5',
+	'jupyter-core>=4.6.0',
+	'jupyter-client>=6.1.1',
+	'nbformat',
+	'nbconvert',
+	'Send2Trash',
+	'terminado>=0.8.3',
+	'prometheus-client',
+	'anyio<4,>=3.1.0',
+	'websocket-client',
+	'packaging',
+	'coverage; extra == "test"',
+	'pytest>=6.0; extra == "test"',
+	'pytest-cov; extra == "test"',
+	'pytest-mock; extra == "test"',
+	'requests; extra == "test"',
+	'pytest-tornasync; extra == "test"',
+	'pytest-console-scripts; extra == "test"',
+	'ipykernel; extra == "test"',
+]
