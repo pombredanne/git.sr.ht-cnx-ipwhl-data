@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/d7/31/7c1107fa30c621cd1d36410e9bbab86f6a518dc208aaec01f02ac6d5c2d2/widgetsnbextension-3.5.2-py2.py3-none-any.whl'
+content-id = 'QmQX5jRhDsKy5ZPNcE7EWCe4TpZn41a1UuVd8pK9sKjFPk'
+extras = []
+dependencies = [
+	'notebook>=4.4.1',
+]
