@@ -1,0 +1,11 @@
+source = 'https://files.pythonhosted.org/packages/6f/45/21eaa314a406e2ba5c000ad755d1153b3269d338800674b5ff5f62f1f0fb/nbclassic-0.3.5-py3-none-any.whl'
+content-id = 'QmeTBzDG5SV67hqKtLo4z27khjye74GVzHWQAakPS7Ki2s'
+requires-python = '>=3.6'
+extras = ['test']
+dependencies = [
+	'notebook<7',
+	'jupyter-server~=1.8',
+	'pytest; extra == "test"',
+	'pytest-tornasync; extra == "test"',
+	'pytest-console-scripts; extra == "test"',
+]
