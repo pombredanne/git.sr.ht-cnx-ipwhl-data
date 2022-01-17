@@ -1,0 +1,7 @@
+source = 'https://files.pythonhosted.org/packages/99/3b/4f80dd10cb716f3a9e22ae88f026d25c47cc3fdf82c2747f3d59c98e4ff1/incremental-21.3.0-py2.py3-none-any.whl'
+content-id = 'QmPWjXWa1mJxYUt4Vkue2LPponndvSL3e7TCKaWK6bBJwH'
+extras = ['scripts']
+dependencies = [
+	'click>=6.0; extra == "scripts"',
+	'twisted>=16.4.0; extra == "scripts"',
+]
