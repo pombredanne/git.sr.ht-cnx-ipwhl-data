@@ -1,0 +1,31 @@
+source = 'https://files.pythonhosted.org/packages/84/cf/863e9ec04057a6033e78e2c64ab06ae85e849e3e0b0903c7005cbe56ac93/ipyparallel-8.1.0-py3-none-any.whl'
+content-id = 'QmQrtJuw9VymATNNL2sSEyoR2z2tpA8PvzkgQ8754PxAWF'
+requires-python = '>=3.6'
+extras = ['benchmark', 'labextension', 'nbext', 'retroextension', 'serverextension', 'test']
+dependencies = [
+	'entrypoints',
+	'decorator',
+	'pyzmq>=18',
+	'traitlets>=4.3',
+	'ipython>=4',
+	'jupyter-client',
+	'ipykernel>=4.4',
+	'tornado>=5.1',
+	'psutil',
+	'python-dateutil>=2.1',
+	'tqdm',
+	'asv; extra == "benchmark"',
+	'jupyter-server; extra == "labextension"',
+	'jupyterlab>=3; extra == "labextension"',
+	'notebook; extra == "nbext"',
+	'jupyter-server; extra == "nbext"',
+	'jupyter-server; extra == "retroextension"',
+	'retrolab; extra == "retroextension"',
+	'jupyter-server; extra == "serverextension"',
+	'pytest; extra == "test"',
+	'pytest-cov; extra == "test"',
+	'pytest-asyncio; extra == "test"',
+	'pytest-tornado; extra == "test"',
+	'ipython[test]; extra == "test"',
+	'testpath; extra == "test"',
+]
