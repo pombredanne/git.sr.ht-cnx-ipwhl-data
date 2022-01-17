@@ -1,0 +1,12 @@
+source = 'https://files.pythonhosted.org/packages/42/0b/d09b87028bf9ddc249bf0885367f679cc1a0cc5c9996bbef37eb849b3ee7/stack_data-0.1.4-py3-none-any.whl'
+content-id = 'QmZ8wWG3e4v3smvrtGWTSbUMa5ZM4e6aMxvNs7nLDFXwGH'
+extras = ['tests']
+dependencies = [
+	'executing',
+	'asttokens',
+	'pure-eval',
+	'pytest; extra == "tests"',
+	'typeguard; extra == "tests"',
+	'pygments; extra == "tests"',
+	'littleutils; extra == "tests"',
+]
