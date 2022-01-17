@@ -1,0 +1,16 @@
+source = 'https://files.pythonhosted.org/packages/6b/bb/285066ddd710779cb69f03d42fa72fbfe4352b4895eb6abab551eae1535a/ipywidgets-7.6.5-py2.py3-none-any.whl'
+content-id = 'QmRjYdgUSX7u5aw93NxKa6g9NzPqcXSM8aF8D2ydGcRn6v'
+extras = ['test']
+dependencies = [
+	'ipykernel>=4.5.1',
+	'ipython-genutils~=0.2.0',
+	'traitlets>=4.3.1',
+	'nbformat>=4.2.0',
+	'widgetsnbextension~=3.5.0',
+	'ipython<6.0.0,>=4.0.0; python_version < "3.3"',
+	'ipython>=4.0.0; python_version >= "3.3"',
+	'jupyterlab-widgets>=1.0.0; python_version >= "3.6"',
+	'pytest>=3.6.0; extra == "test"',
+	'pytest-cov; extra == "test"',
+	'mock; python_version == "2.7" and extra == "test"',
+]
