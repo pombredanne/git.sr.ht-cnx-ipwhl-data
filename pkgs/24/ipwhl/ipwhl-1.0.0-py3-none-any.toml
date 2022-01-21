@@ -1,0 +1,8 @@
+source = 'https://files.pythonhosted.org/packages/35/fd/be171d052943e78a5a9a47649ad0ff1d655924e24e7a4e6eb7bbb443ed9c/ipwhl-1.0.0-py3-none-any.whl'
+content-id = 'QmawodnnZGhGw9VFt74Wd449rpdgUw4J2q6B9oGXkoNcXW'
+requires-python = '>=3.6'
+extras = []
+dependencies = [
+	'packaging',
+	'tomli',
+]
