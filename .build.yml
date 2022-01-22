@@ -10,7 +10,7 @@ tasks:
       ipfs init
       systemctl --user enable --now ipfs.service
       ipwhl-utils/.pinata.py
-      python -m pip install --no-warn-script-location pip
+      python -m pip install pip
       python -m pip install ipwhl
   - name: ipwhl-nameck ipwhl-data/pkgs
   - decl: |
@@ -25,6 +25,7 @@ tasks:
         done | ipwhl-declck
   - deps: ipwhl-depsck ipwhl-data/pkgs < ipwhl-data/SUPPORTED
 environment:
+  PATH: '$HOME/.local/bin:$PATH'
   PIP_DEFAULT_TIMEOUT: 60
   PIP_DISABLE_PIP_VERSION_CHECK: 1
   PIP_FORCE_REINSTALL: 1
