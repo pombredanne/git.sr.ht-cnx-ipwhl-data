@@ -11,8 +11,8 @@ tasks:
       systemctl --user enable --now ipfs.service
       ipwhl-utils/.pinata.py
       python -m pip install --no-warn-script-location pip
-      python -m pip install packaging toml
-  - name: ipwhl-utils/nameck.py ipwhl-data/pkgs
+      python -m pip install ipwhl
+  - name: ipwhl-nameck ipwhl-data/pkgs
   - decl: |
       git -C ipwhl-data diff --name-only origin/main pkgs |
         sed s/^/ipwhl-data\\// |
@@ -22,8 +22,8 @@ tasks:
           then
             echo $declaration
           fi
-        done | ipwhl-utils/declck.py
-  - deps: ipwhl-utils/depsck.py ipwhl-data/pkgs < ipwhl-data/SUPPORTED
+        done | ipwhl-declck
+  - deps: ipwhl-depsck ipwhl-data/pkgs < ipwhl-data/SUPPORTED
 environment:
   PIP_DEFAULT_TIMEOUT: 60
   PIP_DISABLE_PIP_VERSION_CHECK: 1
