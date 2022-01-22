@@ -6,6 +6,7 @@ sources:
   - https://git.sr.ht/~cnx/ipwhl-data
   - https://git.sr.ht/~cnx/ipwhl-utils
 tasks:
+  - path: echo 'export PATH="$HOME/.local/bin:$PATH"' >> .buildenv
   - init: |
       ipfs init
       systemctl --user enable --now ipfs.service
@@ -25,7 +26,6 @@ tasks:
         done | ipwhl-declck
   - deps: ipwhl-depsck ipwhl-data/pkgs < ipwhl-data/SUPPORTED
 environment:
-  PATH: '$HOME/.local/bin:$PATH'
   PIP_DEFAULT_TIMEOUT: 60
   PIP_DISABLE_PIP_VERSION_CHECK: 1
   PIP_FORCE_REINSTALL: 1
