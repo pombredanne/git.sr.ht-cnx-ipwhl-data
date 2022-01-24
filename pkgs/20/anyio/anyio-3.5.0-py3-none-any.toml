@@ -1,16 +1,14 @@
-source = 'https://files.pythonhosted.org/packages/98/3e/1432e7d8d9f71676d6638b4feb6285f53575239f7b527a95e85b7e888bba/anyio-3.3.1-py3-none-any.whl'
-content-id = 'QmUFuzoi8w5JaeSa777tUhRzRfpaSkf9dkKsvb5FRs7a5M'
+source = 'https://files.pythonhosted.org/packages/b1/ae/9a8af72d6f0c551943903eefcf93c3a29898fb7b594603c0d70679c199b1/anyio-3.5.0-py3-none-any.whl'
+content-id = 'QmXDgZkoyNdC9xuUNbLWYMBFRW4DKjez4N8RmAQRL8SeZF'
 requires-python = '>=3.6.2'
-extras = [
-	'trio',
-	'doc',
-	'test',
-]
+extras = ['doc', 'test', 'trio']
 dependencies = [
 	'idna>=2.8',
 	'sniffio>=1.1',
+	'contextvars; python_version < "3.7"',
 	'dataclasses; python_version < "3.7"',
 	'typing-extensions; python_version < "3.8"',
+	'packaging; extra == "doc"',
 	'sphinx-rtd-theme; extra == "doc"',
 	'sphinx-autodoc-typehints>=1.2.0; extra == "doc"',
 	'coverage[toml]>=4.5; extra == "test"',
@@ -18,6 +16,7 @@ dependencies = [
 	'pytest>=6.0; extra == "test"',
 	'pytest-mock>=3.6.1; extra == "test"',
 	'trustme; extra == "test"',
+	'contextlib2; python_version < "3.7" and extra == "test"',
 	'uvloop<0.15; (python_version < "3.7" and (platform_python_implementation == "CPython" and platform_system != "Windows")) and extra == "test"',
 	'mock>=4; python_version < "3.8" and extra == "test"',
 	'uvloop>=0.15; (python_version >= "3.7" and (platform_python_implementation == "CPython" and platform_system != "Windows")) and extra == "test"',
