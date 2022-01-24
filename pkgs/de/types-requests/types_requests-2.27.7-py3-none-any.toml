@@ -1,0 +1,6 @@
+source = 'https://files.pythonhosted.org/packages/45/58/2b348b3b4eaba4cc80ee8365458bbccdf8f911d196fed0f5cfefc38cf678/types_requests-2.27.7-py3-none-any.whl'
+content-id = 'QmZ7ZsxN72uZX1i29uqk5SdmfRn3s5VS1VKQWYSkWAHWKm'
+extras = []
+dependencies = [
+	'types-urllib3<1.27',
+]
