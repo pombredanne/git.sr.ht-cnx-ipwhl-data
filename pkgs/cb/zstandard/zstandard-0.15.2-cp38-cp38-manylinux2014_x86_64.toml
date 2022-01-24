@@ -1,8 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/c8/69/e2bf920288c5b9049485be325046d07fc3cea3a025d624365a0d72cac360/zstandard-0.15.2-cp38-cp38-manylinux2014_x86_64.whl'
-content-id = 'Qmem7xf7ahnXuV4V5QQXZjKqy4wS2jg1SUuSwxo7eGdqMe'
-requires-python = '>=3.5'
-extras = ['cffi']
-dependencies = [
-	'cffi>=1.11; platform_python_implementation == "PyPy"',
-	'cffi>=1.11; extra == "cffi"',
-]

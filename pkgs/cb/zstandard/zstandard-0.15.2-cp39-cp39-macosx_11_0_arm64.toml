@@ -1,8 +1,0 @@
-source = 'https://files.pythonhosted.org/packages/e5/2f/98dd1868ff05281a99b82d0e9d298801eb48632d7c9c39cf608b3fe69d28/zstandard-0.15.2-cp39-cp39-macosx_11_0_arm64.whl'
-content-id = 'QmdhWZWkkMDdusUqbdof1NnzsXY9Px3KEtq9TCpQEvBRsn'
-requires-python = '>=3.5'
-extras = ['cffi']
-dependencies = [
-	'cffi>=1.11; platform_python_implementation == "PyPy"',
-	'cffi>=1.11; extra == "cffi"',
-]
